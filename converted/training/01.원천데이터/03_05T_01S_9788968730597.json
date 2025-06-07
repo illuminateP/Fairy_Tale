@@ -1,0 +1,58 @@
+﻿{
+  "title": "혼자 할 수 있어요",
+  "author": "애플트리",
+  "illustrator": "채승연",
+  "isbn": "9788968730597",
+  "readAge": "유아",
+  "publishedYear": 2014,
+  "publisher": "키움북스",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 5,
+  "paragraphInfo": [
+    {
+      "srcTextID": "42574",
+      "srcText": "래미는 파란색 양말도 혼자 고르고 노란색 바지도 혼자 골랐어요. 짜잔! 어때요? “나 혼자 할 수 있어요!” “내가 제일 좋아하는 곰돌이 가방을 메야지!\" 가방을 열어 차곡차곡 챙겨요! \"나 혼자 할 수 있어요!\"",
+      "srcPage": 6,
+      "srcSentenceEA": 7,
+      "srcWordEA": 34,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42575",
+      "srcText": "아기 곰 래미가 아침 일찍 일어났어요. “아함, 잘 잤다!” 래미는 이불도 혼자 착착 베개도 혼자 가지런히 놓을 수 있어요. “나 혼자 할 수 있어요!”",
+      "srcPage": 1,
+      "srcSentenceEA": 4,
+      "srcWordEA": 25,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42576",
+      "srcText": "어푸∼ 어푸∼ 래미는 세수도 혼자 깨끗하게 할 수 있어요. “나 혼자 할 수 있어요!” 치카치카 치카치카 물론 이도 혼자 잘 닦을 수 있어요.",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42579",
+      "srcText": "치카치카 치카치카. 물론 이도 혼자 잘 닦을 수 있어요. 래미는 옷도 혼자 입을 수 있어요. “그래! 초록색 옷으로 입어야지!”",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42578",
+      "srcText": "“오호, 래미 혼자 다 했네! 정말 잘 했어!” 엄마의 칭찬을 받은 아기 곰 래미는 매우 기뻤어요. “다녀오겠습니다!”",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

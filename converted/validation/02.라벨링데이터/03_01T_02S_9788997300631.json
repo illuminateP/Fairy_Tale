@@ -1,0 +1,104 @@
+﻿{
+  "title": "누구 팬티일까?",
+  "author": "타카기 산고",
+  "illustrator": "타카기 산고",
+  "isbn": "9788997300631",
+  "publishedYear": 2016,
+  "publisher": "(주)푸름이닷컴",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "7025",
+      "srcText": "팬티, 팬티 조그만 팬티 누구 팬티일까? 깡충깡충 토끼 팬티. 팬티, 팬티 커다란 팬티 누구 팬티일까? 음매음매 젖소 팬티.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21,
+      "character": "토끼,젖소,팬티",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "커다란 팬티 누구 팬티일까,음매음매 젖소 팬티",
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "조그만 팬티는 누구의 팬티였나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "토끼",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7026",
+      "srcText": "팬티, 팬티 삼각팬티. 누구 팬티일까? 귀여운 내 팬티. 예쁜 내 팬티.",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 14,
+      "character": "팬티",
+      "setting": null,
+      "action": null,
+      "feeling": "귀여운,예쁜",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "누구 팬티일까,예쁜 내 팬티.",
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "삼각팬티는 누구의 팬티였나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "내 팬티",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7027",
+      "srcText": "팬티, 팬티 줄무늬 팬티. 누구 팬티일까? 히힝 히힝 얼룩말 팬티. 팬티, 팬티 기다란 팬티. 누구 팬티일까? 킁킁 기린 팬티.",
+      "srcPage": 10,
+      "srcSentenceEA": 6,
+      "srcWordEA": 24,
+      "character": "얼룩,기린,팬티",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "기다란 팬티. 누구 팬티일까,킁킁 기린 팬티",
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "줄무늬 팬티는 누구의 팬티였나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "얼룩말",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

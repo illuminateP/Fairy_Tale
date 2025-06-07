@@ -1,0 +1,58 @@
+﻿{
+  "title": "행복한 꼬마 비행기",
+  "author": "정수현",
+  "illustrator": "박로사",
+  "isbn": "9788963830087",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "별똥별",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 5,
+  "paragraphInfo": [
+    {
+      "srcTextID": "15607",
+      "srcText": "꼬마 비행기가 붕붕붕! “하늘에 나 혼자인가 봐.” “아래를 봐! 우리가 있잖아.” 알록달록 열기구들이 두둥실!",
+      "srcPage": 2,
+      "srcSentenceEA": 5,
+      "srcWordEA": 16,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "15610",
+      "srcText": "“위를 봐! 내가 있지.” 커다란 여객기가 위이잉!",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 9,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "15609",
+      "srcText": "“앞을 봐! 내가 있어!” 전투기가 쌩쌩쌩!",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 8,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "15611",
+      "srcText": "탈탈탈! 위이잉! 붕붕붕! 두둥실! 쌩쌩쌩! “잠깐, 나도 있어.” 폭신한 구름이 몽실몽실. 꼬마 비행기가 붕붕붕! “모두 함께 있어 행복해.”",
+      "srcPage": 8,
+      "srcSentenceEA": 8,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "15608",
+      "srcText": "“뒤를 봐! 나도 있는걸.” 헬리콥터가 탈탈탈!",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 8,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+﻿{
+  "title": "노아는 무엇을 깨달았을까?",
+  "author": "조정옥",
+  "illustrator": "김형주",
+  "isbn": "9791128208508",
+  "publishedYear": 2017,
+  "publisher": "아람",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "49022",
+      "srcText": "\"필릴리, 필릴리!\" 노아의 풀피리 소리가 호숫가에 울려 퍼졌어. 꾸벅꾸벅 졸던 새들은 푸드덕 춤을 추었고, 꽃봉오리들은 꽃잎을 활짝 펼쳤지. \"이 세상에 나보다 풀피리를 잘 부는 사람은 없을 거야.\" 노아는 풀피리를 불며 늘 으스댔어.",
+      "srcPage": 4,
+      "srcSentenceEA": 5,
+      "srcWordEA": 35,
+      "character": "노아,풀피리,새들,꽃봉오리,꽃잎",
+      "setting": "호숫가",
+      "action": "울려 퍼졌어,춤을 추었고",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "노아의 풀피리 소리가 호숫가에 울려 퍼졌어",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "꽃봉오리들은 무엇을 활짝 펼쳤나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "꽃잎",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "풀피리 소리는 어디에서 들렸나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "호숫가",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

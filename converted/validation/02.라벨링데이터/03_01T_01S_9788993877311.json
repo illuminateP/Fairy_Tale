@@ -1,0 +1,132 @@
+﻿{
+  "title": "티티가 소풍을 가요",
+  "author": "아이글터",
+  "illustrator": "Zuni",
+  "isbn": "9788993877311",
+  "publishedYear": 2009,
+  "publisher": "어깨동무",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "14148",
+      "srcText": "티티가 이제 가방을 챙겨요. 과자와 음료수를 넣고, 모자도 잊지 않아요. \"티티야 소풍 가자!\" 친구들이 도착했어요. 티티는 소풍가는 날이 정말 좋아요.",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 23,
+      "character": "티티,친구들",
+      "setting": null,
+      "action": "넣고,도착했어요,챙겨요",
+      "feeling": "정말 좋아요",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "소풍을 같이 가기 위해 누가 왔나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "친구들",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "티티는 가방에 무엇을 챙겨 넣었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "과자와 음료수를 넣고, 모자도 잊지 않아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "14147",
+      "srcText": "그리고 좋아하는 파란색 멜빵바지를 입었지요. 알록달록 예쁜 양말도 신었고요. 티티는 운동화 끈을 혼자서도 맬 수 있어요. 어떻게 하는지 보여 드릴게요.",
+      "srcPage": 3,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23,
+      "character": "멜빵바지,양말,운동화 끈,티티",
+      "setting": null,
+      "action": "입었지요,신었고요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "티티가 좋아하는 파란색 무엇을 입었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "멜빵바지",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "14021",
+      "srcText": "창문 밖에 아침 해가 떠오르고 있어요. 오늘은 소풍 가는 날이라 늦으면 안 돼요. \"빨리 준비해야지!\" 티티는 제일 먼저 세수를 했어요.",
+      "srcPage": 1,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22,
+      "character": "해,티티",
+      "setting": null,
+      "action": "세수를 했어요",
+      "feeling": null,
+      "causalRelationship": "오늘은 소풍 가는 날이라 늦으면 안 돼요.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "오늘은 누가 소풍을 가나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "티티",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "티티는 소풍을 가기 위해 일어나서 제일 먼저 무엇을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "세수를 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

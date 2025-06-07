@@ -1,0 +1,40 @@
+﻿{
+  "title": "레몬을 먹은 건 누구?",
+  "author": "곽선주",
+  "illustrator": "김은혜",
+  "isbn": "9788993828108",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "별똥별",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "15336",
+      "srcText": "떡볶이를 먹은 건 누구? 아이, 매워! 약을 먹은 건 누구? 아이, 써!",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 15,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "15335",
+      "srcText": "레몬을 먹은 건 누구? 아이, 시어! 소금을 먹은 건 누구? 아이, 짜!",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 15,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "15337",
+      "srcText": "사탕을 먹은 건 누구? 노랑이, 까망이, 빨강이, 하양이 모두 먹었다. 동글동글 사탕, 아이, 달콤해!",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

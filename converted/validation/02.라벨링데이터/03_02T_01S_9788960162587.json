@@ -1,0 +1,70 @@
+﻿{
+  "title": "닭아, 훨훨 날아봐 ",
+  "author": "예종화",
+  "illustrator": "신순칠",
+  "isbn": "9788960162587",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "49265",
+      "srcText": "꼬꼬 엄마 닭은 온종일 병아리랑 놀아요. 엄마 닭은 구구구! 병아리는 삐약삐약! 엄마 닭의 등은 병아리들의 놀이터예요. 주르륵주르륵! 미끄럼 타며 놀아요.",
+      "srcPage": 5,
+      "srcSentenceEA": 6,
+      "srcWordEA": 25,
+      "character": "엄마 닭,병아리",
+      "setting": "엄마 닭의 등",
+      "action": "놀아요,미끄럼 타며 놀아요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "꼬꼬 엄마 닭은 온종일 누구랑 놀까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "병아리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "병아리들은 엄마 닭의 등에서 무엇을 하며 놀까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "미끄럼 타며 놀아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "병아리들의 놀이터는 어디인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엄마 닭의 등",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

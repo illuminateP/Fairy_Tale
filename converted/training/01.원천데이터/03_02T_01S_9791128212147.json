@@ -1,0 +1,40 @@
+﻿{
+  "title": "나 잡아 봐라!",
+  "author": "고지혜",
+  "illustrator": "안은진",
+  "isbn": "9791128212147",
+  "readAge": "유아",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "2029",
+      "srcText": "\"나 잡아 봐라!\" 아람이가 무릎으로 엉금옹금 요리조리 도망가요. 어? 그런데 어빠는 어디 갔지요? ",
+      "srcPage": 1,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "2030",
+      "srcText": "\"나 잡아 봐라!\" 아람이가 어깨를 들썩들썩 요리조리 도망가요. \"나 잡아 봐라!\" 아람이가 팔을 쭈욱쭈욱 요리조리 도망가요.",
+      "srcPage": 1,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "2031",
+      "srcText": "\"나 잡아 봐라!\"아빠가 흔들흔들 아람이 허리를 꼭 잡았어요. \"나 잡아 봐라!\" 아람이가 엉덩이를 실룩샐룩 요리조리 도망가요. ",
+      "srcPage": 1,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

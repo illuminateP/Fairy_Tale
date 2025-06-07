@@ -1,0 +1,94 @@
+﻿{
+  "title": "내 동생이 최고야!",
+  "author": "애플트리",
+  "illustrator": "김지영",
+  "isbn": "9788968730900",
+  "readAge": "유아",
+  "publishedYear": 2014,
+  "publisher": "키움북스",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 9,
+  "paragraphInfo": [
+    {
+      "srcTextID": "42693",
+      "srcText": "동생은 매일 나랑만 놀려고 해요. 나는 그런 동생이 너무 귀찮아요. “따라오지 마!” 나는 동생에게 말하며 놀이터로 뛰었어요.",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42690",
+      "srcText": "“형아, 나도 같이 가.” 앗, 동생이에요! 동생이 또 나를 따라오려고 해요. “형아, 형아, 형아!”",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42695",
+      "srcText": "“앗! 형아다.” 그러자 동생은 금방 울음을 그치고는 나를 보며 환하게 웃어요. 나는 동생의 손을 잡고 놀이터로 향했어요. 그러고는 같이 축구를 했지요. 자, 받아 봐. 와! 형아 정말 잘한다.",
+      "srcPage": 21,
+      "srcSentenceEA": 7,
+      "srcWordEA": 35,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42691",
+      "srcText": "어쩌지요? 동생은 축구도 잘 못한단 말이에요. 나는 동생 몰래 담벼락에 숨었어요. 이렇게 숨으면 동생도 집에 가겠지요?",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42694",
+      "srcText": "“같이 가.” 그런데 동생이 울면서 계속 따라와요. “따라오지 말라니까! 빨리 엄마한테 가!” 내가 더 빨리 뛸수록 동생은 더 크게 울면서 쫓아와요. “형아! 으앙, 같이 갈래!”",
+      "srcPage": 10,
+      "srcSentenceEA": 6,
+      "srcWordEA": 29,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42696",
+      "srcText": "“우리 형아는 축구도 참 잘해. 최고야!” 동생 눈엔 내가 최고로 멋진 형인가 봐요. “그래. 나도 내 동생이 최고야!”",
+      "srcPage": 26,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42697",
+      "srcText": "이리 휙! 저리 휙! 동생은 공도 잘 못 차면서 뭐가 좋은지 자꾸만 웃어요. 동생이 웃는 모습을 보니 나도 자꾸 웃음이 나와요. 이제 집에 갈 시간이에요. 나는 동생의 손을 꼭 잡고 집으로 향했어요.",
+      "srcPage": 26,
+      "srcSentenceEA": 6,
+      "srcWordEA": 37,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42689",
+      "srcText": "나는 축구를 제일 좋아해요. 나는 오늘도 친구들이랑 축구를 하려고 집을 나섰어요. “엄마, 축구하고 올게요!”",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42692",
+      "srcText": "“형아! 형아! 으아아아앙.” 앗, 동생이 집에도 안 가고 계속 울기만 해요. 나를 찾는 동생을 보니까 마음이 좋지 않아요. 나는 할 수 없이 동생에게 다가갔어요.",
+      "srcPage": 17,
+      "srcSentenceEA": 5,
+      "srcWordEA": 29,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

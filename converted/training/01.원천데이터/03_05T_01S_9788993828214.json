@@ -1,0 +1,31 @@
+﻿{
+  "title": "괴물도 꼼짝 못할 거야",
+  "author": "윤지연",
+  "illustrator": "서혜진",
+  "isbn": "9788993828214",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "별똥별",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "16644",
+      "srcText": "저게 뭐야? 아이, 무서워. 괴물이 아닐까?",
+      "srcPage": 2,
+      "srcSentenceEA": 3,
+      "srcWordEA": 8,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "16645",
+      "srcText": "아니, 아니야! 괴물이 고슴도치처럼 삐죽삐죽하면 어떡해? 괜찮아, 괜찮아! 간질간질 우리 엄마 간지럼 공격이면 괴물도 꼼짝 못할 테니까.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

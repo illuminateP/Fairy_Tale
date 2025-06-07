@@ -1,0 +1,180 @@
+﻿{
+  "title": "과일이 주렁주렁",
+  "author": "꼬두람이",
+  "illustrator": "꼬두람이",
+  "isbn": "9791165432348",
+  "publishedYear": 2021,
+  "publisher": "아람키즈",
+  "paragraphInfoCount": 5,
+  "paragraphInfo": [
+    {
+      "srcTextID": "7053",
+      "srcText": "포도나무에 포도가 주렁주렁! “포도 좀 줄까?” “네, 고마워요!” 탱글탱글 포도 맛있겠다.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 12,
+      "character": "포도나무,포도",
+      "setting": null,
+      "action": null,
+      "feeling": "고마워요",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "탱글탱글 맛있겠다고 표현한 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "포도",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7054",
+      "srcText": "수박밭에 수박이 주렁주렁! “수박 좀 줄까?” “아, 너무 무거워요! 어떡하지?” “우리가 도와줄게.” “모두 함께 과일 파티를 하러 가자!”",
+      "srcPage": 6,
+      "srcSentenceEA": 6,
+      "srcWordEA": 19,
+      "character": "수박,과일",
+      "setting": "수박밭",
+      "action": "줄까,도와줄게,파티를 하러 가자",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "수박이 주렁주렁 하게 있는 장소는 어디인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "수박밭",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "무엇이 너무 무겁다고 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "수박",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7051",
+      "srcText": "바나나 줄기에 바나나가 주렁주렁! “바나나 좀 줄까?” “네, 고마워요!” 말랑말랑 바나나 맛있겠다.",
+      "srcPage": 2,
+      "srcSentenceEA": 4,
+      "srcWordEA": 13,
+      "character": "바나나, 줄기",
+      "setting": null,
+      "action": null,
+      "feeling": "고마워요",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "바나나 줄기에 무엇이 주렁주렁 하나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "바나나",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7052",
+      "srcText": "딸기밭에 딸기가 주렁주렁! “딸기 좀 줄까?” “네, 고마워요!” 새콤달콤 딸기 맛있겠다.",
+      "srcPage": 3,
+      "srcSentenceEA": 4,
+      "srcWordEA": 12,
+      "character": "딸기밭,딸기",
+      "setting": null,
+      "action": null,
+      "feeling": "고마워요",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "무엇이 새콤달콤하다고 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "딸기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7050",
+      "srcText": "사과나무에 사과가 주렁주렁! “사과 좀 줄까?” “네, 고마워요!” 사각사각 사과 맛있겠다.",
+      "srcPage": 1,
+      "srcSentenceEA": 4,
+      "srcWordEA": 12,
+      "character": "사과나무,사과",
+      "setting": null,
+      "action": null,
+      "feeling": "고마워요",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "사과나무에 무엇이 주렁주렁하다고 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "사과",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

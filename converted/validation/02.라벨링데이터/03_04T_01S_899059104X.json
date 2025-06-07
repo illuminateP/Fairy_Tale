@@ -1,0 +1,56 @@
+﻿{
+  "title": "새싹이 술래야",
+  "author": "이슬기",
+  "illustrator": "한창수",
+  "isbn": "899059104X",
+  "publishedYear": 2003,
+  "publisher": "생각의샘",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "49554",
+      "srcText": "재잘재잘. 아이들이 마당에 모였어요. 머리를 맞대고 둥글게 모였어요. “숨바꼭질 하자.” “가위 바위 보! 가위 바위 보!” “와아!”",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 20,
+      "character": "아이들,머리",
+      "setting": null,
+      "action": "모였어요,숨바꼭질 하자",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "머리를 맞대고 모인 아이들은 무슨 놀이를 하기로 했나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "숨바꼭질",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "재잘재잘 떠드는 아이들은 어디에 모여있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "마당",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

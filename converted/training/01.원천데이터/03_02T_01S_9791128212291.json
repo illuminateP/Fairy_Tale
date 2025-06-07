@@ -1,0 +1,31 @@
+﻿{
+  "title": "지구가 아파요",
+  "author": "유미나",
+  "illustrator": "이지원",
+  "isbn": "9791128212291",
+  "readAge": "유아",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "2404",
+      "srcText": "지끈지끈, 후끈후끈! 지구가 아파요. 어떡하지요? 날씨가 추워지면 집 안에서도 꼭꼭 내복을 입어요.그러면 난방열을 아낄 수 있어요. 치카치카 양치질을 할 때는 꼭꼭 수도꼭지를 잠가요. 그러면 물을 아낄 수 있어요. 텔레비전을 안 볼 때는 꼭꼭 꺼 놓아요. 그러면 전기를 아낄 수 있어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 9,
+      "srcWordEA": 48,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "2405",
+      "srcText": "요기조기 닦을 때는 꼭꼭 손수건으로 닦아요. 빈 땅에는 씨앗을 심고\n꼭꼭 정성껏 가꿔요. 그러면 쓰레기를 줄일 수 있어요. 그러면 땅이 푸르를 거예요.",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

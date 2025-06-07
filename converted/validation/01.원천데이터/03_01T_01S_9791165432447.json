@@ -1,0 +1,31 @@
+﻿{
+  "title": "매일매일 행복해",
+  "author": "꼬두람이",
+  "illustrator": "꼬두람이",
+  "isbn": "9791165432447",
+  "readAge": "유아",
+  "publishedYear": 2021,
+  "publisher": "아람키즈",
+  "classification": "의사소통",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "7385",
+      "srcText": "산들산들 바람 부는 날, 바스락바스락 나뭇잎을 밟을 수 있어서 행복해. 펑펑 눈 내리는 날, 소복소복 하얀 나무가 예뻐서 행복해. 모두 모두 잠자는 까만 밤, 반짝반짝 별이 빛나서 행복해.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 30,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "7384",
+      "srcText": "포근포근 따뜻한 날, 알록달록 꽃이 있어서 행복해. 쨍쨍 더운 날, 찰싹찰싹 파도 소리가 좋아서 행복해. 똑똑 비 오는 날, 개굴개굴 개구리 노래를 들어서 행복해.",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 26,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

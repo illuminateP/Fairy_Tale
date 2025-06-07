@@ -1,0 +1,67 @@
+﻿{
+  "title": "기침을 콜록콜록",
+  "author": "애플트리",
+  "illustrator": "김연주",
+  "isbn": "9788968730856",
+  "readAge": "유아",
+  "publishedYear": 2014,
+  "publisher": "키움북스",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 6,
+  "paragraphInfo": [
+    {
+      "srcTextID": "43205",
+      "srcText": "케로는 주사를 맞는 건 정말 싫었어요. 하지만 엉덩이에 주사를 꾸욱. 쓴 약을 먹는 것도 싫었지만 용기를 내서 꿀꺽.",
+      "srcPage": 16,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "43209",
+      "srcText": "이렇게 팔짝팔짝 뛸 수도 있는 걸요. “엄마, 이제 아프지 않아요! 악어새네 집에 놀러 갔다 올게요.” 신이 난 케로는 다시 악어새네 집으로 놀러 갔어요.",
+      "srcPage": 24,
+      "srcSentenceEA": 4,
+      "srcWordEA": 25,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "43204",
+      "srcText": "케로가 아침 일찍 눈을 떴어요. 그런데 머리가 어질어질, 얼굴이 화끈화끈 몸이 이상해요. “이런, 케로야. 열이 나는구나. 오늘은 집에서 쉬렴.”",
+      "srcPage": 7,
+      "srcSentenceEA": 5,
+      "srcWordEA": 22,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "43207",
+      "srcText": "엄마가 말했지만 케로는 오늘 악어새와 놀기로 약속했는걸요. “엄마, 전 괜찮아요.” 하지만 케로는 엄마의 말을 듣지 않고 악어새네 집에 놀러 갔어요.",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "43206",
+      "srcText": "일찍 잠드는 것도 싫었지만 해가 지자마자 잠을 쿨쿨. 그리고 아침이 되자 케로는 눈이 번쩍 떠졌어요. 이제 열도 안 나고 기침도 안 나와요.",
+      "srcPage": 23,
+      "srcSentenceEA": 3,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "43208",
+      "srcText": "그런데 콧물이 쭈욱! 재채기를 캥! 머리가 어질어질. 기침을 콜록콜록! 케로는 할 수 없이 엄마와 병원에 갔어요. “이런, 감기에 걸렸구나. 주사 맞고, 푹 쉬면 좋아질 거야.” 의사 선생님이 말했어요.",
+      "srcPage": 13,
+      "srcSentenceEA": 8,
+      "srcWordEA": 34,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

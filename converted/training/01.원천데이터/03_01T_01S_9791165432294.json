@@ -1,0 +1,31 @@
+﻿{
+  "title": "어떻게 하지?",
+  "author": "꼬두람이",
+  "illustrator": "꼬두람이",
+  "isbn": "9791165432294",
+  "readAge": "유아",
+  "publishedYear": 2021,
+  "publisher": "아람키즈",
+  "classification": "의사소통",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "7442",
+      "srcText": "후후 불어 볼까? 쿵쿵 발을 굴러 볼까? 우리가 도와줄게. 모두 함께 손수건으로 놀이하자! 아이, 재미있어!",
+      "srcPage": 6,
+      "srcSentenceEA": 5,
+      "srcWordEA": 19,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "7259",
+      "srcText": "예쁜 손수건들이 나뭇가지에 걸려 있어. 아, 갖고 싶다! 어떻게 하지? 폴짝폴짝 뛰어 볼까?",
+      "srcPage": 2,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

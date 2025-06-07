@@ -1,0 +1,42 @@
+﻿{
+  "title": "해님과 달님",
+  "author": "최서윤",
+  "illustrator": "강기현",
+  "isbn": "9788961911610",
+  "publishedYear": 2008,
+  "publisher": "한얼교육",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47897",
+      "srcText": "해님은 후끈후끈 낮을 밝혀 주고, 달님은 반짝반짝 밤을 밝혀 줘요. 해님과 달님은 하루에 두 번 인사를 나눠요. 밤이 되어 해님이 집으로 돌아갈 때 한 번, 아침이 되어 달님이 집으로 돌아갈 때 한 번.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 35,
+      "character": "해님,달님",
+      "setting": "낮,밤,집",
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_고학년",
+          "question": "반짝반짝 밤을 밝혀 주는 건 누구인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "달님",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

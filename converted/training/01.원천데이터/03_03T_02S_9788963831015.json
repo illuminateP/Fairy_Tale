@@ -1,0 +1,40 @@
+﻿{
+  "title": "처음 낚시를 갔어요",
+  "author": "백민",
+  "illustrator": "백민",
+  "isbn": "9788963831015",
+  "readAge": "초등_저학년",
+  "publishedYear": 2010,
+  "publisher": "별똥별",
+  "classification": "사회관계",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "7826",
+      "srcText": "끙끙! \"이걸 가져가면 걱정 없겠지.\" \"꿀떡이는 아직 안 왔네? 상어가 잡히지는 않을까? 아참, 상어는 바다에 살지! 헤헤.\"",
+      "srcPage": 7,
+      "srcSentenceEA": 5,
+      "srcWordEA": 20,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "7827",
+      "srcText": "\"심심하다.\" \"흥! 아직 한마리도 못잡았군.\" 꿀떡이가 몽둥이를 가지고 나타났어요. \"물고기는 말이야, 이렇게 잡는거라고.\" 꽝! \"와, 신기하다!\" \"오늘 즐거웠어! 내일 봐.\" \"잘 가! 내일 봐.\" 휴, 살았다! 어? 왜 그냥 가지?",
+      "srcPage": 12,
+      "srcSentenceEA": 12,
+      "srcWordEA": 38,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "7825",
+      "srcText": "집돼지 꿀꿀이와 멧돼지 꿀떡이가 물고기를 잡기로 했어요. 낚시대는 잠자리채로, 낚싯줄은 연줄을 끊어서, 낚싯바늘은 옷핀을 구부려서 만들었어요. 꿀꿀이는 갑자기 걱정이 되었어요. \"물고기가 너무 많이 잡히면 어떡하지?\"",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 27,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+﻿{
+  "title": "세상에서 제일 좋은 장난감",
+  "author": "꿈바라기",
+  "illustrator": "묘랑",
+  "isbn": "9788927206644",
+  "readAge": "초등_저학년",
+  "publishedYear": 2011,
+  "publisher": "태동출판사",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 8,
+  "paragraphInfo": [
+    {
+      "srcTextID": "16140",
+      "srcText": "삼촌의 말에 수철이는 신이 났어요. 장난감 가게에 들어선 수철이는 장난감을 고르기 시작했어요. 곰 인형, 자동차, 로봇, 블록! 모두 다 갖고 싶어요.",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "17811",
+      "srcText": "“안전마크가 뭐예요?” “장난감을 만들 때, 어린이가 사용해도 좋은지 검사를 하고 안전한 제품에만 붙여 주는 표시야.” 어린이가 사용해도 좋을 크기와 무게 등을 검사해요. 성능, 안전성 등을 정밀하게 검사해요.",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 29,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "16142",
+      "srcText": "\"장난감뿐 아니라 우리가 사용하는 대부분의 제품에 표시하는데, 예전에는 ‘검, 품’ 등 다양하게 표시했지만 최근에는 하나로 합쳐서 ‘KC(케이시)’ 라고만 표시한단다.\" 그러자 수철이도 생각난 게 있었어요. \"맞아요. 저도 집에서 본 적이 있어요. 텔레비전, 장난감, 선풍기 등에 다 붙어 있었어요!\"",
+      "srcPage": 12,
+      "srcSentenceEA": 6,
+      "srcWordEA": 42,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "16141",
+      "srcText": "그때 수철이의 눈에 기차놀이 블록이 눈에 띄었어요. \"삼촌! 이거 사 주세요.\" 그런데 삼촌이 상자의 제품 설명서를 꼼꼼하게 살피더니 말씀하셨어요.",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "16143",
+      "srcText": "\"삼촌, 감사합니다!\" 수철이는 오늘 세상에서 제일 좋은 장난감을 선물로 받았어요. 삼촌의 사랑이 담긴 가장 안전한 장난감 말이에요!",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "16144",
+      "srcText": "삼촌은 장난감들을 살펴보더니 나무로 된 기차놀이 장난감을 골랐어요. \"이게 좋겠다. 안전마크도 있고 모서리도 매끈해서 다치지 않을 거야.\"",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "16139",
+      "srcText": "오늘은 수철이의 생일이에요. 오랜만에 온 가족이 모였어요. “수철아, 같이 장난감 가게에 가자. 삼촌이 멋진 장난감 사 줄게.”",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "17810",
+      "srcText": "\"음, 이건 안 될 것 같구나.\" \"왜요?\" \"장난감은 안전마크가 있는 걸 골라야 해. 재료에 몸에 해로운 화학 물질이 들어 있을 수도 있거든.\"",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

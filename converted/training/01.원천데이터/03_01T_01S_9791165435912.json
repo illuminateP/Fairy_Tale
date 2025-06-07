@@ -1,0 +1,58 @@
+﻿{
+  "title": "무얼 입고 있나요?",
+  "author": "코넬리아 뵈제",
+  "illustrator": "이나 하텐하우어",
+  "isbn": "9791165435912",
+  "readAge": "유아",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "classification": "의사소통",
+  "paragraphInfoCount": 5,
+  "paragraphInfo": [
+    {
+      "srcTextID": "2487",
+      "srcText": "사근사근 사자가 멋을 부려요. 아이코, 바지 단추가 달랑달랑! 얼룩덜룩 바지. 하늘하늘 하마가 춤을 춰요. 원피스를 입고 빙그르르! 사락사락 원피스.",
+      "srcPage": 4,
+      "srcSentenceEA": 6,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "2486",
+      "srcText": "호똘호똘 호랑이가 운동을 해요. 러닝셔츠를 입고 영차영차! 줄무늬 러닝셔츠. 부엉부엉 부엉이가 뜨개질을 해요. 스웨터를 꼼지락꼼지락! 포근포근 스웨터.",
+      "srcPage": 2,
+      "srcSentenceEA": 6,
+      "srcWordEA": 22,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "2490",
+      "srcText": "아장아장 아기 박쥐는 아빠 흉내를 내요. 아빠 잠옷을 입고 아빠처럼 펄럭펄럭! 커다란 아빠 잠옷.",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "2488",
+      "srcText": "까악까악 까마귀가 차를 마셔요. 양말을 신고 호로록! 보들보들 양말. 얼룩얼룩 얼룩소가 킥보드를 타요. 어머나, 신발 한 짝이 휘릭! 헐렁헐렁 신발 한 짝.",
+      "srcPage": 6,
+      "srcSentenceEA": 6,
+      "srcWordEA": 27,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "2489",
+      "srcText": "강중강중 강아지가 물장난을 쳐요. 아차차! 털모자를 깜박했네요. 복슬복슬 털모자. 개골개골 개구리가 가방을 챙겨요. 비옷을 입고 차곡차곡! 반질반질 비옷.",
+      "srcPage": 8,
+      "srcSentenceEA": 7,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

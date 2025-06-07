@@ -1,0 +1,40 @@
+﻿{
+  "title": "쑥쑥 자라서",
+  "author": "하늘땅",
+  "illustrator": "노성빈",
+  "isbn": "9791128212093",
+  "readAge": "유아",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "2065",
+      "srcText": " “싫어요, 싫어요! 밥 먹기 싫어요! 나는 밥 먹는 게 세상에서 가장 싫어요!” “그러면 뭘 하고 싶니?”",
+      "srcPage": 1,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "2069",
+      "srcText": "“나는 키가 아주아주 큰 왕자님과 결혼할 거예요.” “아, 빨리 결혼하고 싶어요.” “그러면 밥을 많이 먹고 무럭 무럭 자라야지.” “그럼 나도 밥을 아주아주 많이 먹을 거예요. 그러면.” “키가 아주아주 큰 공주님이 되겠지요?” ",
+      "srcPage": 7,
+      "srcSentenceEA": 6,
+      "srcWordEA": 32,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "2066",
+      "srcText": "“예쁜 드레스 입고 결혼하고 싶어요!” “엄마가 입었던 드레스 같은 거?” “아니, 아니. 엄마의 드레스는 레이스가 너무 짧아요.” “나는 레이스가 아주아주 긴 드레스를 입을 거예요.”",
+      "srcPage": 3,
+      "srcSentenceEA": 5,
+      "srcWordEA": 25,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+﻿{
+  "title": "어디에서 누가 만들까요?",
+  "author": "김서경",
+  "illustrator": "최윤영",
+  "isbn": "9791165957391",
+  "publishedYear": 2023,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48396",
+      "srcText": "사과는 과수원에서 와요. 비바람이 불어도 햇살이 따가워도 열심히 일하는 농부 아저씨! 사과가 주렁주렁 열리면 농부 아저씨 얼굴에 웃음꽃이 피어요.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21,
+      "character": "사과,과수원,비바람,햇살,농부 아저씨",
+      "setting": null,
+      "action": "웃음꽃이 피어요,열리면",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "사과는 과수원에서 와요.",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "사과는 어디에서 오나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "과수원",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "사과가 주렁주렁 열리면 농부 아저씨 얼굴은 어떻게 되나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "웃음꽃이 피어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

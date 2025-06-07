@@ -1,0 +1,58 @@
+﻿{
+  "title": "빅터의 하얀 운동화",
+  "author": "애플트리",
+  "illustrator": "김미은",
+  "isbn": "9788968730702",
+  "readAge": "유아",
+  "publishedYear": 2014,
+  "publisher": "키움북스",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 5,
+  "paragraphInfo": [
+    {
+      "srcTextID": "42526",
+      "srcText": "그러자 빅터의 운동화가 다시 하얀 운동화가 되었어요. “역시 내 운동화가 최고야!” 빅터는 하얀 운동화를 신고 다시 신 나게 놀았어요!",
+      "srcPage": 27,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42522",
+      "srcText": "오늘은 빅터의 생일이에요. “빅터야, 생일 축하한다.” 아빠가 빅터에게 생일 선물을 주며 말했어요.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42525",
+      "srcText": "“짜잔! 내 것보다 훨씬 멋있잖아!” 하지만 너무 무거워서 걸을 수가 없어요. 발가락이 형의 운동화 속에서 꼼지락꼼지락.",
+      "srcPage": 19,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42523",
+      "srcText": "“짜잔! 아빠 신발을 신으면 멋있어 보일 거야!” 하지만 너무 커서 걸을 수가 없어요. 발가락이 아빠의 구두 속에서 꼼지락꼼지락.",
+      "srcPage": 15,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42524",
+      "srcText": "“짜잔! 엄마의 구두도 나쁘지 않은걸!” 하지만 너무 높아서 걸을 수가 없어요. 발가락이 엄마의 구두 속에서 꼼지락꼼지락.",
+      "srcPage": 17,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

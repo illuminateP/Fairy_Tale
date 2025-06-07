@@ -1,0 +1,49 @@
+﻿{
+  "title": "미안해!",
+  "author": "장선혜",
+  "illustrator": "아람북스",
+  "isbn": "9791128212512",
+  "readAge": "유아",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "classification": "의사소통",
+  "paragraphInfoCount": 4,
+  "paragraphInfo": [
+    {
+      "srcTextID": "7383",
+      "srcText": "그때, 뻥튀기 기계가 또다시 터졌어요. “미안해, 미안해.” 뻥구리가 머리를 긁적이며 사과해요. “괜찮아, 다 같이 먹으면 돼.”",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "7381",
+      "srcText": "토끼가 집 밖으로 데구루루. “깜짝 놀랐잖아!” “놀라게 해서 미안해.” 다람쥐가 눈물을 글썽글썽.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 13,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "7380",
+      "srcText": "조용한 숲 속에서 달그락 돌돌, 덜그럭 돌돌. 뻥구리가 무얼 하는 걸까요? 뻥구리가 기계 뚜껑을 툭!",
+      "srcPage": 2,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "7382",
+      "srcText": "“아야, 볼에 맞았잖아!” “아프게 해서 미안해.” 거위가 화내며 꿱꿱꿱. “들판이 지저분해졌잖아!” “어지럽혀서 미안해.”",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 14,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

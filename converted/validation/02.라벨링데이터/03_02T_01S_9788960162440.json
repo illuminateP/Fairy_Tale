@@ -1,0 +1,56 @@
+﻿{
+  "title": "원숭이 엉덩이는 왜 빨갛지? ",
+  "author": "김영이",
+  "illustrator": "이미라",
+  "isbn": "9788960162440",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51764",
+      "srcText": "유치원에서 동물원에 갔어요. 멋진 돌고래 쇼도 보고 타조가 춤추는 것도 보았어요. 원숭이 우리 앞에 서자 원숭이들이 꽥꽥 소리쳤어요. \"야, 받아!\" 바나나를 내밀자 냉큼 가져갔어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 27,
+      "character": "유치원,돌고래,타조,원숭이,바나나",
+      "setting": "동물원",
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "유치원에서 어디를 갔나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "동물원",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "바나나를 내밀자 냉큼 가져간 동물은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "원숭이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

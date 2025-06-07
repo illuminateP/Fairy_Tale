@@ -1,0 +1,49 @@
+﻿{
+  "title": "개구쟁이 내 동생",
+  "author": "오자키 요코",
+  "illustrator": "오자키 요코",
+  "isbn": "9788992111584",
+  "readAge": "초등_저학년",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "classification": "의사소통",
+  "paragraphInfoCount": 4,
+  "paragraphInfo": [
+    {
+      "srcTextID": "4619",
+      "srcText": "그러다 솔이가 곰이보다 더 커지면 어떻게 될까요? “내 거야.  곰이 너는 그리지 마.” “큰 것은 내가 먹을 거야.” “내가 만든 성이야. 건드리지 마.”",
+      "srcPage": 9,
+      "srcSentenceEA": 6,
+      "srcWordEA": 26,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "4617",
+      "srcText": "곰이는 놀이터에서 친구랑 놀았어요. “모래 산을 만들어 나무를 심고, 터널을 만들어 칙칙폭폭.” ‘나랑 솔이가 쌍둥이라면 아주 좋을 텐데. 같이 재미있게 놀 수도 있고 말이야.’",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 26,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "4618",
+      "srcText": "“아빠, 솔이가 빨리 컸으면 좋겠어요. 그럼 같이 놀 수 있잖아요.” 어느새 곰이는 스르르 잠이 들었어요.",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "4620",
+      "srcText": "“솔이야, 여기 있었구나.” 곰이는, 개구쟁이지만 작은 솔이가 좋았답니다. “역시 내 동생 솔이가 좋아!”",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

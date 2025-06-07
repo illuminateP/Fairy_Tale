@@ -1,0 +1,194 @@
+﻿{
+  "title": "돈은 변신쟁이야!",
+  "author": "하빈영",
+  "illustrator": "박우희",
+  "isbn": "9791165436247",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 5,
+  "paragraphInfo": [
+    {
+      "srcTextID": "40734",
+      "srcText": "암호 화폐를 거래하면 모든 기록이 저장돼. 하지만 누가 거래하는지는 꼭꼭 숨겨져 있어. 그래서 나쁜 사람들이 암호 화폐를 나쁜 일에 사용하기도 해. 암호 화폐는 엄청난 전기를 쓰기 때문에 환경 오염을 일으켜.",
+      "srcPage": 16,
+      "srcSentenceEA": 4,
+      "srcWordEA": 33,
+      "character": "암호 화폐,사람들",
+      "setting": null,
+      "action": "거래하면,사용하기",
+      "feeling": null,
+      "causalRelationship": "하지만 누가 거래하는지는 꼭꼭 숨겨져 있어. 그래서 나쁜 사람들이 암호 화폐를 나쁜 일에 사용하기도 해.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "엄청난 전기를 쓰기 때문에 환경 오염을 일으키는 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "암호 화폐",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "나쁜 사람들은 암호 화폐를 어떻게 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "나쁜 일에 사용하기도 해.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "40731",
+      "srcText": "돈은 조개껍데기, 동전, 눈에 보이지 않는 돈까지 여러 가지 새로운 모양으로 변해 왔어. 우리 생활이 돈의 모양을 바꿀 수도 있고 돈의 모양이 우리 생활을 바꿀 수도 있지. 돈이 또 어떻게 변할지 궁금하지? 자, 돈의 변신을 기대해!",
+      "srcPage": 17,
+      "srcSentenceEA": 4,
+      "srcWordEA": 39,
+      "character": "돈,조개껍데기,동전",
+      "setting": null,
+      "action": "변해 왔어,바꿀 수도 있고",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "우리 생활이 돈의 모양을 바꿀 수도 있고 돈의 모양이 우리 생활을 바꿀 수도 있지.",
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "무엇이 조개껍데기와 동전과 눈에 보이지 않는 돈까지 여러 가지 새로운 모양으로 변해 왔나요? ",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "돈",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "40733",
+      "srcText": "동전과 지폐는 중앙은행에서 만들고 가상 화폐는 가상 공간에서 만들어. 그러면 암호 화폐는 어디에서 만들까? 사실 암호 화폐는 만드는 게 아니라 광부가 곡괭이로 금을 캐는 것처럼 사람이 컴퓨터로 수학 문제를 풀어서 암호 화폐를 갖게 되는 거야.",
+      "srcPage": 15,
+      "srcSentenceEA": 3,
+      "srcWordEA": 37,
+      "character": "동전,지폐,가상 화폐,중앙은행,가상 공간,암호 화폐,광부,곡괭이,금,컴퓨터",
+      "setting": null,
+      "action": "만들고,풀어서,갖게 되는 거야",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "동전과 지폐는 어디에서 만드나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "중앙은행",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "40730",
+      "srcText": "가상 화폐와 비슷해 보이지만 실제 가치가 있는 돈도 생겨났어. 컴퓨터의 암호로 만들어진 암호 화폐야. 암호는 관련된 사람끼리만 알 수 있게 약속한 비밀 기호지. 그래서 비밀스러운 암호 화폐가 안전하다고 해.",
+      "srcPage": 14,
+      "srcSentenceEA": 4,
+      "srcWordEA": 32,
+      "character": "가상 화폐,돈,컴퓨터,암호 화폐,사람",
+      "setting": null,
+      "action": "생겨났어,만들어진",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "비밀스러운 암호 화폐가 안전하다고 해.",
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "컴퓨터의 암호로 만들어진 화폐는 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "암호 화폐",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "40732",
+      "srcText": "전자 화폐이지만 진짜 돈은 아닌 돈이 나타났어. 실제 동전이나 지폐가 없고, 오직 실제가 아닌 가상 공간에서 숫자로만 있는 가상 화폐야. 포인트나 게임 머니처럼 말이야.",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 26,
+      "character": "전자 화폐,돈,동전,지폐,가상 화폐,포인트,게임 머니",
+      "setting": "가상 공간",
+      "action": "나타났어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "무엇이 게임 머니처럼 전자 화폐이지만 진짜 돈은 아닌 돈이 나타났다고 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "가상 화폐",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "가상 화폐는 오직 실제가 아닌 어디에서만 숫자로 있나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "가상 공간",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+﻿{
+  "title": "그래그래, 괜찮아!",
+  "author": "콰르토 편집부",
+  "illustrator": "아넬리스드로즈",
+  "isbn": "9791165436063",
+  "readAge": "유아",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "classification": "의사소통",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "3359",
+      "srcText": "아기 곰이 달리기를 하고 있어. “난 느리지만, 달리는 게 좋아.” 그래그래! 좋아하는 걸 해 봐.",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "3361",
+      "srcText": "아기 곰은 잘하지 못해도 하고 또 해. 그리고 끝까지 해내지. “난 내가 참 자랑스러워!” 그래그래! 아기 곰아, 넌 진짜 멋져!",
+      "srcPage": 11,
+      "srcSentenceEA": 5,
+      "srcWordEA": 23,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "3355",
+      "srcText": " 아기 곰이 물놀이를 하러 왔어.  “물놀이는 처음이라 무서워!” “아기 곰아, 나도 처음엔 무서웠어.” 그래그래! 누구나 처음엔 겁이 나. 조금만 용기를 내 봐.",
+      "srcPage": 4,
+      "srcSentenceEA": 6,
+      "srcWordEA": 26,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

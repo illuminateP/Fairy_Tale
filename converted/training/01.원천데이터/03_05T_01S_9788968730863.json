@@ -1,0 +1,103 @@
+﻿{
+  "title": "내 똥 어때?",
+  "author": "애플트리",
+  "illustrator": "문채빈",
+  "isbn": "9788968730863",
+  "readAge": "유아",
+  "publishedYear": 2014,
+  "publisher": "키움북스",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 10,
+  "paragraphInfo": [
+    {
+      "srcTextID": "43056",
+      "srcText": "“와, 이번에는 노란색 호박을 먹네.” “냠냠, 호박 맛있어.” 그리고는 달팽이가 끄응, 끙.",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "43059",
+      "srcText": "아기 토끼는 왈칵 울음을 터트렸어요. 그러자 엄마가 다가와 말했어요. “와아, 우리 아기. 건강한 똥이 나왔네. 토끼는 동글동글 갈색 똥을 싸야 건강한 거란다.” 아기 토끼는 무척 기뻤어요. 달팽이처럼 예쁜 색은 아니지만, 건강한 똥을 쌀 수 있으니까요!",
+      "srcPage": 27,
+      "srcSentenceEA": 7,
+      "srcWordEA": 40,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "43058",
+      "srcText": "그러고는 풀밭에서 끄응, 끙 힘을 주었지요. 앗! 그런데 동글동글 갈색 똥을 쌌어요! “으앙, 나는 왜 예쁜 색 똥이 안 나오지?”",
+      "srcPage": 25,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "43051",
+      "srcText": "그러고는 달팽이가 끄응, 끙. 예쁜 주황색 똥을 뿌지직! “앗, 주황색 똥이야!” 아기 토끼는 깜짝 놀랐어요.",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "43055",
+      "srcText": "그러고는 달팽이가 끄응, 끙. 예쁜 빨간색 똥을 뿌지직! “앗, 빨간색 똥이다!” 아기 토끼는 깜짝 놀랐어요.",
+      "srcPage": 13,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "43057",
+      "srcText": "예쁜 노란색 똥을 뿌지직! “와, 노란색 똥이야!” 아기 토끼는 깜짝 놀랐어요.",
+      "srcPage": 17,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "43054",
+      "srcText": "아기 토끼는 달팽이가 정말 신기했어요. 그리고 아기 토끼도 예쁜 색의 똥을 싸고 싶었지요. 그래서 아기 토끼는 달팽이처럼 주황색 당근을 오독오독. 빨간색 딸기를 냠냠. 노란색 호박을 꿀꺽.",
+      "srcPage": 21,
+      "srcSentenceEA": 5,
+      "srcWordEA": 30,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "43052",
+      "srcText": "“달팽이야, 이번에는 무얼 먹니?” “맛있는 딸기를 먹지. 춥춥, 달콤한 딸기!”",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 11,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "43050",
+      "srcText": "“와, 달팽이잖아! 달팽이야, 뭐 하니?” “맛있는 당근을 먹지. 오독오독, 맛있는 당근!”",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 13,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "43049",
+      "srcText": "아기 토끼네는 싱싱한 채소를 길러요. 맛있는 당근과 딸기, 호박이 가득하지요. 그러던 어느 날, 토끼네 밭에 귀여운 달팽이가 나타났어요.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

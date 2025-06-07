@@ -1,0 +1,301 @@
+﻿{
+  "title": "부릉부릉 안전하게 타요",
+  "author": "꿈바라기",
+  "illustrator": "최승화",
+  "isbn": "9788927206552",
+  "publishedYear": 2011,
+  "publisher": "태동출판사",
+  "paragraphInfoCount": 8,
+  "paragraphInfo": [
+    {
+      "srcTextID": "17755",
+      "srcText": "아침이에요. 힘찬이는 엄마와 함께 어린이집 버스를 타러 나왔어요. 어린이집 버스 정류장에는 친구들이 줄을 서 있었어요. \"얘들아, 안녕?\" \"힘찬아, 어서 와.\"",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22,
+      "character": "힘찬이,엄마,어린이집 버스,친구들",
+      "setting": "아침,어린이집 버스 정류장",
+      "action": "타러 나왔어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "힘찬이가 무엇을 타러 나왔나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "어린이집 버스",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "친구들이 줄을 서 있는 곳은 어디인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "어린이집 버스 정류장",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "17760",
+      "srcText": "\"와! 이제 모두 질서를 잘 지키는구나.\" \"앞으로도 버스에 오르내릴 땐 천천히 차례차례!\" \"그리고 버스 안에서는 꼭 안전띠를 매요. 알았죠?\" \"네!\"",
+      "srcPage": 14,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22,
+      "character": "버스,안전띠",
+      "setting": null,
+      "action": "오르내릴 땐,매요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "버스 안에서 꼭 해야 하는 건 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "안전띠",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "17759",
+      "srcText": "그러자 선생님이 말씀하셨어요. \"얘들아, 이렇게 떠들고 장난치면 기사 아저씨가 운전을 하기 힘들잖니! 그러다가 큰 사고가 날 수도 있단다.\" 쾅!",
+      "srcPage": 11,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21,
+      "character": "선생님,기사 아저씨",
+      "setting": null,
+      "action": "말씀하셨어요,장난치면",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "운전을 해주시는 건 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "기사 아저씨",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "17846",
+      "srcText": "멀리서 어린이집 버스가 오는 게 보였어요. \"야, 버스 온다!\" 힘찬이가 신이 나서 버스를 향해 달려갔어요.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16,
+      "character": "어린이집 버스,힘찬이",
+      "setting": null,
+      "action": "달려갔어요,오는 게",
+      "feeling": "신이 나서",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "멀리서 오는 건 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "어린이집 버스",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "어린이집 버스가 오는 게 보이자 힘찬이는 무엇을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "버스를 향해 달려갔어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "17758",
+      "srcText": "힘찬이는 자리에 앉자마자 안전띠를 맸어요. 엉덩이를 의자 뒤에 붙이고 안전띠를 허리에 착! 하지만 다른 친구들은 이리저리 움직이고 떠드느라 정신이 없었어요. 으라차 ! 짝짝짝! 가위 바위 보!",
+      "srcPage": 10,
+      "srcSentenceEA": 6,
+      "srcWordEA": 30,
+      "character": "힘찬이,안전띠,엉덩이,의자,허리,친구들",
+      "setting": null,
+      "action": "맸어요,붙이고,움직이고",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "이리저리 움직이고 떠드느라 정신없는 건 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "다른 친구들",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "17756",
+      "srcText": "그러자 엄마가 힘찬이를 붙잡았어요. \"어머, 버스가 멈춘 뒤에 차례차례 타야지. 그렇게 갑자기 뛰어들면 다친단다!\" \"네, 엄마!\"",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17,
+      "character": "엄마,힘찬이,버스",
+      "setting": null,
+      "action": "붙잡았어요,타야지",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "힘찬이를 붙잡은 건 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엄마",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "17757",
+      "srcText": "힘찬이는 버스에 올랐어요. “엄마, 다녀오겠습니다!” “그래, 잘 다녀오렴.”",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 8,
+      "character": "힘찬이,버스,엄마",
+      "setting": null,
+      "action": "올랐어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "힘찬이는 버스에 타고 나서 누구에게 인사했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엄마",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "17847",
+      "srcText": "\"모두 힘찬이처럼 제자리에 앉고 안전띠를 하렴. 엉덩이를 의자 뒤에 붙이고, 안전띠를 허리까지 잘 잡아당긴 뒤에 버클을 착!\" \"네!\" 드디어 어린이집에 도착했어요. 힘찬이도 차례를 지켜 버스에서 내렸어요.",
+      "srcPage": 12,
+      "srcSentenceEA": 4,
+      "srcWordEA": 29,
+      "character": "힘찬이,안전띠,엉덩이,의자,버클,버스,허리",
+      "setting": "어린이집",
+      "action": "앉고,붙이고,내렸어요,잡아당긴",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "안전띠를 잘 하고 있는 건 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "힘찬이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "버스를 타고 도착한 곳은 어디인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "어린이집",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

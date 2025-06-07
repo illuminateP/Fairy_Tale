@@ -1,0 +1,49 @@
+﻿{
+  "title": "예민한 오렌지",
+  "author": "아이글터",
+  "illustrator": "Zuni",
+  "isbn": "9788993877342",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "어깨동무",
+  "classification": "의사소통",
+  "paragraphInfoCount": 4,
+  "paragraphInfo": [
+    {
+      "srcTextID": "19244",
+      "srcText": "친구들이 집에 가고 조용해지자 오렌지가 드디어 잠이 들었어요. 그런데 이게 웬일이에요? 오렌지가 시끄럽게 코를 골고 있어요. 드르렁! 드르렁!\" 누가 시끄럽게 하는 거야?\"",
+      "srcPage": 6,
+      "srcSentenceEA": 6,
+      "srcWordEA": 27,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "19241",
+      "srcText": "혼자 있기를 좋아하는 오렌지가 있었어요. 왜냐하면 오렌지는 조금만 시끄러워도 잠을 잘 수가 없었거든요. 오렌지가 낮잠을 자려고 할 때였어요.",
+      "srcPage": 1,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "19242",
+      "srcText": "\"오렌지야, 안녕?\" 사과가 손을 흔들며 인사를 했어요. 바나나는 옆에 와서 노래를 불러요. 그 옆에는 포도가 줄넘기를 했고요. \"그만 좀 해. 시끄러워!\"",
+      "srcPage": 3,
+      "srcSentenceEA": 6,
+      "srcWordEA": 25,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "19243",
+      "srcText": "\"우리 나가서 놀자.\" \"아유, 귀찮아. 빨리 나가.\" 친구들은 그만 나가버렸어요.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 12,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

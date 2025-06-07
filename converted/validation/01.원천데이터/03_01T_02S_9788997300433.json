@@ -1,0 +1,40 @@
+﻿{
+  "title": "치카치카",
+  "author": "이시하라 킨",
+  "illustrator": "이시하라 킨",
+  "isbn": "9788997300433",
+  "readAge": "초등_저학년",
+  "publishedYear": 2016,
+  "publisher": "(주)푸름이닷컴",
+  "classification": "의사소통",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "8341",
+      "srcText": "‘코오~’ 하고 입을 벌리고 윗니 아랫니 쓱싹쓱싹! 돼지야 돼지야, 너는 어떻게 이를 닦니? ‘꾸울~’ 하고 입을 벌리고 윗 니 아랫니 쓱싹쓱싹!",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 25,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "8340",
+      "srcText": "하마야 하마야, 너는 어떻게 이를닦니? ‘하마’ 하고 입을 벌리고 윗니 아랫니 쓱싹쓱싹! 코끼리야 코끼리야, 너는 어       떻게 이를 닦니?",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 28,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "8342",
+      "srcText": "그럼 나는 어떻게 닦을까? ‘아’ 하고 입을 벌리고 치카치카 쓱쓱  ‘이’ 하고 입술을 벌려 치카치카 쓱쓱 반짝반짝 기분 좋은 이 닦기!",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 25,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+﻿{
+  "title": "맛있는 도시락을 냠냠!",
+  "author": "하라구치 가오리",
+  "illustrator": "고타니 요우코",
+  "isbn": "9791165432669",
+  "readAge": "초등_저학년",
+  "publishedYear": 2021,
+  "publisher": "(주)푸른이닷컴",
+  "classification": "의사소통",
+  "paragraphInfoCount": 10,
+  "paragraphInfo": [
+    {
+      "srcTextID": "22668",
+      "srcText": "들판에 도착하자, 엄마 곰은 도시락 보자기를 풀었어요. \"잘 먹겠습니다!\" 푸른 들판에서 곰 가족과 다람쥐들은 도시락을 냠냠 맛있게 먹었어요.",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "22622",
+      "srcText": "오늘은 다람쥐들이 들판으로 소풍을 가는 날이에요. \"자, 출발!\" 다람쥐들은 씩씩하게 걸어갔어요. \"빨리 도시락을 먹고 싶어.\" \"간식도 맛있을 거야.\"",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 19,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "22645",
+      "srcText": "\"우리가 아기 곰의 엄마와 아빠를 찾아 주자.\" \"그래, 그래!\" 다람쥐들은 배낭을 내려놓고 나무에 올라가 주변을 둘러보았어요. 그런데.",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "22628",
+      "srcText": "그때, 다람쥐들이 길에서 무언가를 발견했어요. \"뭐지? 이상한 소리가 나네.\" 딸랑 딸랑 딸랑! \"아기 장난감이다!\" \"그래, 맞아!\"",
+      "srcPage": 6,
+      "srcSentenceEA": 5,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "22654",
+      "srcText": "\"이런, 뺨에 밥풀이 잔뜩 붙어 있네. 다람쥐들의 도시락을 다 먹어 버렸구나. 우리 도시락을 나눠 먹어야겠다.\" 곰 가족도 들판으로 소풍을 가던 중이었거든요.",
+      "srcPage": 12,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "22655",
+      "srcText": "다람쥐들은 놀라서 나무에서 후닥닥 내려왔어요. \"어떡해, 아기 곰이 우리 도시락을 다 먹어 버렸어!\" \"으아앙!\" 다람쥐들은 슬프게 울기 시작했어요. \"으앙으앙!\" 그러자 아기 곰도 따라서 큰 소리로 울기 시작했지요.",
+      "srcPage": 12,
+      "srcSentenceEA": 4,
+      "srcWordEA": 29,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "22634",
+      "srcText": "\"아기 곰이야.\" \"아빠랑 엄마는 어디 갔을까?\" \"쯧쯧, 길을 잃었나 봐.\"",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 10,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "22635",
+      "srcText": "\"얘들아, 저기 풀숲에 누가 있나 봐.\" 다람쥐들은 풀숲을 들여다보고 깜짝 놀랐어요. \"우아, 곰이잖아?\"",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "22661",
+      "srcText": "\"어머, 우리 아기 여기 있었네! 엄마가 찾았단다.\" 엄마 곰이 나타나서 말했어요.",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "22662",
+      "srcText": "\"어이쿠, 우리 아기 여기 있었구나! 아빠도 찾았단다.\" 아빠 곰이 나타나서 말했어요.",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

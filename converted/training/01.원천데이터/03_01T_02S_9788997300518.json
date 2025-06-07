@@ -1,0 +1,40 @@
+﻿{
+  "title": "변신쿠키",
+  "author": "마츠오카 올리브",
+  "illustrator": "토리이 마치에",
+  "isbn": "9788997300518",
+  "readAge": "초등_저학년",
+  "publishedYear": 2016,
+  "publisher": "(주)푸름이닷컴",
+  "classification": "의사소통",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "6784",
+      "srcText": "접시 위에서 쿠키들이 소곤소곤! “뭐 재미난 일 좀 없을까?” “모양 바꾸기 놀이 어때?”",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "7178",
+      "srcText": "“그럼 이번에는?” 짜자잔, 나방 애벌레! 꼬물꼬물 애벌레가 됐어요. “그런데 어떡하지? 벌써 간식 시간이 됐네.” 즐거운 간식 시간, 맛있게 냠냠!",
+      "srcPage": 11,
+      "srcSentenceEA": 6,
+      "srcWordEA": 23,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "7177",
+      "srcText": "“좋아! 그럼 내가 먼저.” 짜자잔, 병아리! 삐악삐악 병아리가 됐어요. “자, 그럼 다음에는?” 짜자잔, 눈사람! 데굴데굴 눈사람이 됐어요.",
+      "srcPage": 7,
+      "srcSentenceEA": 6,
+      "srcWordEA": 22,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

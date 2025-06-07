@@ -1,0 +1,31 @@
+﻿{
+  "title": "나랑 친구 할래?",
+  "author": "김경수",
+  "illustrator": "조수진",
+  "isbn": "9791128216978",
+  "readAge": "유아",
+  "publishedYear": 2019,
+  "publisher": "아람북스",
+  "classification": "의사소통",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "3788",
+      "srcText": "큰 새가 연못 속을 걸어가요. “큰 새야, 나랑 같이 놀래?” “넌 길고 멋진 다리도 없잖아!”",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "3792",
+      "srcText": "그때 공작 한 마리가 날아와요. \"작은 새야, 나랑 같이 놀자.\" 작은 새는 깜짝 놀라요.",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

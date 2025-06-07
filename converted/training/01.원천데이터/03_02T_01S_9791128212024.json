@@ -1,0 +1,58 @@
+﻿{
+  "title": "알록달록 나뭇잎으로",
+  "author": "고지혜",
+  "illustrator": "정하진",
+  "isbn": "9791128212024",
+  "readAge": "유아",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 5,
+  "paragraphInfo": [
+    {
+      "srcTextID": "2236",
+      "srcText": "살랑살랑 바람이 불어요. 팔랑팔랑 나뭇잎이 떨어져요. 방 안으로 떨어져요.",
+      "srcPage": 1,
+      "srcSentenceEA": 3,
+      "srcWordEA": 11,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "2238",
+      "srcText": "알록달록 나뭇잎으로 팔랑팔랑 치마를 꾸며요. 빨강, 노랑, 빨강, 노랑. 쪼르르 쪼르르 놓아요. 이제 나뭇잎으로 무얼 할까요?",
+      "srcPage": 3,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "2241",
+      "srcText": "울긋불긋 나뭇잎으로 포근포근 이불을 만들어요. 작고, 크고, 작고, 크고. 살포시 덮어 줘요.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "2239",
+      "srcText": "푸릇푸릇 나뭇잎으로 냠냠 짭짭 밥을 만들어요. 포크, 숟가락, 포크, 숟가락. 폭폭 떠서 인형에게 먹여요. 이제 나뭇잎으로 무얼 할까요?",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "2240",
+      "srcText": "발긋발긋 나뭇잎으로 칙칙폭폭 기차를 만들어요. 문어, 거북, 문어, 거북. 차례차례 태워요. 이제 나뭇잎으로 무얼 할까요?",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

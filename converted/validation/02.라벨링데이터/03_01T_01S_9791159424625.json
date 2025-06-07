@@ -1,0 +1,56 @@
+﻿{
+  "title": "브레멘 음악대",
+  "author": "문이재 독서논술연구소",
+  "illustrator": "홍형석",
+  "isbn": "9791159424625",
+  "publishedYear": 2020,
+  "publisher": "무지개",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47508",
+      "srcText": "늙은 당나귀가 있었어요. 젊었을 때 너무 일을 많이 해서 지금은 힘든 일을 할 수가 없었지요. “너 같은 놈은 필요 없어!” 못된 주인은 당나귀를 쫓아냈어요.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 26,
+      "character": "당나귀",
+      "setting": null,
+      "action": "쫓아냈어요",
+      "feeling": null,
+      "causalRelationship": "젊었을 때 너무 일을 많이 해서 지금은 힘든 일을 할 수가 없었지요.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "누가 늙었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "당나귀",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "못된 주인은 당나귀가 힘든 일을 못 하게 되자 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "당나귀를 쫓아냈어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

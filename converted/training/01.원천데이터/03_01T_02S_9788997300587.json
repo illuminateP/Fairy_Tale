@@ -1,0 +1,40 @@
+﻿{
+  "title": "꼬마 자동차",
+  "author": "타다 히로시",
+  "illustrator": "타다 히로시",
+  "isbn": "9788997300587",
+  "readAge": "초등_저학년",
+  "publishedYear": 2016,
+  "publisher": "(주)푸름이닷컴",
+  "classification": "의사소통",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "8346",
+      "srcText": "노란 자동차를 타고 거리로 나가요. 자, 신나게 달려 볼까요? 와, 정말 빠르네요. 씽씽 쌩쌩 스포츠카!",
+      "srcPage": 3,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "8348",
+      "srcText": "기름이 가득 들었어요. 뿌앙 뿌앙 유조차! 승객을 많이 태웠어요. 키다리 이층 버스!",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 15,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "8349",
+      "srcText": "자동차들을 옮겨 줘요. 힘센 자동차 운반차! 짐을 잔뜩 실었어요. 기다란 트레일러!",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 14,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

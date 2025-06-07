@@ -1,0 +1,85 @@
+﻿{
+  "title": "복주머니 찾기",
+  "author": "졸자야 투르바트",
+  "illustrator": "이진경",
+  "isbn": "9791165432799",
+  "readAge": "초등_고학년",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "classification": "예술경험",
+  "paragraphInfoCount": 8,
+  "paragraphInfo": [
+    {
+      "srcTextID": "42279",
+      "srcText": "나비는 어느새 방 안으로 쏙. 차가운 윗목을 지나 따뜻한 아랫목으로 가 보니, 방바닥이 뜨끈뜨끈. 내 복주머니는 이불 밖에도 없고, 이불 안에도 없네.",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42272",
+      "srcText": "햇빛 막아 주고 바람 막아 주는 창문 아래에도 없네. 벽장 밖에도 없고 벽장 안에도 없네. 병풍 앞에도 없고 병풍 뒤에도 없네.",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42276",
+      "srcText": "내 복주머니는 곳간에도 없고, 장독대에도 없고, 뒷간에도 없고, 부엌에도 없고, 방에도 없네. 아무리 찾아도 보이지 않는 내 복주머니. 높은 대들보 위에 있을까? 높디높은 지붕 위에 있을까? “까치야, 까치야. 내 복주머니 거기 있니?”",
+      "srcPage": 13,
+      "srcSentenceEA": 6,
+      "srcWordEA": 36,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42275",
+      "srcText": "“나비야, 내 복주머니 어디에 숨겼니?” 나비를 따라왔더니 고소한 냄새가 폴폴 나는 부엌. 부엌문 밖에도 내 복주머니가 없네. 삐죽이 문이 열려 있는 부엌으로 들어가 보자.",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 27,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42278",
+      "srcText": "“할머니, 제 복주머니 못 보셨어요?” 뜨끈뜨끈 부뚜막 위에도 없고, 부뚜막 아래에도 없네. 폴폴 김이 나는 떡시루 옆에도 없고, 풀풀 김이 나는 가마솥 옆에도 없네. 아궁이 안을 들여다보니 이글이글 불길만 가득.",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 33,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42277",
+      "srcText": "“세배하러 가자!” 올록볼록 돌담 너머에서 들리는 친구들 목소리. 발딱 일어나 나가려는데 무언가 빠진 것 같아. “어! 내 복주머니 어디 갔지?”",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42274",
+      "srcText": "곳간에도 없으니 돌담 따라 뒷마당으로 가 보자. 햇볕 잘 들고 바람 잘 통하는 뒷마당에는 옹기종기 장독대. 불룩한 큰 항아리 옆에도 없고 볼록한 작은 항아리 옆에도 없네. “꼬꼬닭아, 꼬꼬닭아. 내 복주머니 못 봤니?”",
+      "srcPage": 7,
+      "srcSentenceEA": 5,
+      "srcWordEA": 35,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42273",
+      "srcText": "할머니가 만들어 주신 내 복주머니. 대청마루 위에도 없고 대청마루 아래에도 없네. “나비야, 나비야. 네가 내 복주머니 숨겼니?”",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

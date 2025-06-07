@@ -1,0 +1,76 @@
+﻿{
+  "title": "트램펄린 위에서 점프!",
+  "author": "애플트리",
+  "illustrator": "노은정",
+  "isbn": "9788968730641",
+  "readAge": "유아",
+  "publishedYear": 2014,
+  "publisher": "키움북스",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 7,
+  "paragraphInfo": [
+    {
+      "srcTextID": "42616",
+      "srcText": "“와, 케니야. 정말 높이 뛰는구나! 나도 너처럼 높이 뛰고 싶어!” 포니가 말하자 케니는 깔깔대며 웃었어요. “하하, 말도 안 돼! 넌 나처럼 절대 못 뛸 거야!”",
+      "srcPage": 9,
+      "srcSentenceEA": 6,
+      "srcWordEA": 29,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42622",
+      "srcText": "마지막으로 한 번 더 점프! 그러자 구름 위까지 슈웅. 이제 포니는 점프를 잘해요. 트램펄린만 있으면 문제없지요!",
+      "srcPage": 27,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42618",
+      "srcText": "그러자 포니가 정말 높이 뛰어올랐어요. 케니보다도 훨씬 높이요! 한 번 더 휘잉! 이번에는 동네가 다 보여요!",
+      "srcPage": 23,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42621",
+      "srcText": "포니는 트램펄린을 가지고 높은 언덕에 올랐어요. “후유.” 포니는 천천히 숨을 가다듬고는 트램펄린 위에서 점프를 할 준비를 했어요. 그리고 다그닥다그닥 재빠르게 달려나가 점프를 했지요.",
+      "srcPage": 18,
+      "srcSentenceEA": 3,
+      "srcWordEA": 25,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42617",
+      "srcText": "짜잔! 어때요? 포니가 멋진 트램펄린을 만들었어요! 토끼가 콩콩, 거북이 폴짝! 모두 신이 나요.",
+      "srcPage": 15,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42620",
+      "srcText": "하지만 그냥 포기할 포니가 아니지요. 포니는 집으로 달려가 커다란 보자기를 꺼냈어요. 그리고 나무로 기둥을 만들고 바늘과 실로 커다란 천을 엮었지요.",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42619",
+      "srcText": "당나귀 포니가 산책을 해요. 그때 저 멀리서 캥거루 케니가 폴짝폴짝 점프를 하며 오는 것이 보였어요. 캥거루의 뒷발은 좁고 길며, 뒷다리는 힘이 세요. 빨리 움직일 때에는 두 발로 껑충껑충 뛰어요.",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 32,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

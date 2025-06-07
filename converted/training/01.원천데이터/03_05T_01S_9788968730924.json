@@ -1,0 +1,76 @@
+﻿{
+  "title": "내 손수건이 어디 있지?",
+  "author": "애플트리",
+  "illustrator": "신희경",
+  "isbn": "9788968730924",
+  "readAge": "유아",
+  "publishedYear": 2014,
+  "publisher": "키움북스",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 7,
+  "paragraphInfo": [
+    {
+      "srcTextID": "42641",
+      "srcText": "그러자 다람쥐들도 아저씨를 쫓아 달리기 시작했어요. “아저씨, 이불 여기에 있어요!” 하지만 곰 아저씨는 유령이 계속 쫓아오자 얼른 풀숲에 몸을 숨겼어요. “여기에 숨자!”",
+      "srcPage": 16,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42638",
+      "srcText": "그건 커다란 이불이었어요. 다람쥐들이 다 덮고도 남을 만큼 컸지요. 다람쥐들은 이불의 주인을 찾아 주기로 했어요. “마을로 가 보자! 영차영차.”",
+      "srcPage": 8,
+      "srcSentenceEA": 5,
+      "srcWordEA": 22,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42640",
+      "srcText": "그때 곰 아저씨는 바람에 날아간 빨랫감을 찾으러 숲으로 나왔어요. 그런데 나무 사이로 하얀 뭔가가 보여요! 곰 아저씨는 너무 놀라 허겁지겁 도망을 쳤어요.",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42639",
+      "srcText": "그러자 다람쥐들은 입을 모아 말했지요. “아저씨, 정말 맛있어요!” 물론 다람쥐들에겐 너무 큰 케이크였지만요!",
+      "srcPage": 27,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42643",
+      "srcText": "그러자 곰 아저씨가 웃으며 말했어요. “맞아. 그런데 이건 이불이 아니라 내 손수건이란다.” 곰 아저씨는 손수건을 찾아 준 다람쥐들에게 맛있는 케이크를 대접했어요.",
+      "srcPage": 25,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42637",
+      "srcText": "다람쥐들이 언덕에서 낮잠을 자고 있어요. 그런데 바람이 휘잉 불자, 하얀 뭔가가 언덕으로 날아왔어요. 우아, 엄청 커!",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42642",
+      "srcText": "그리고 유령이 다가오자, 크르르릉! 크왕! 앗, 그런데 다람쥐들이네요! “아이코, 너희들이었니?” 곰 아저씨는 머리를 긁적이며 사과를 했어요. 그리고 빨랫감도 찾았지요. “이 이불 아저씨 것 맞지요?”",
+      "srcPage": 20,
+      "srcSentenceEA": 7,
+      "srcWordEA": 28,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

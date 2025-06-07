@@ -1,0 +1,85 @@
+﻿{
+  "title": "나눠 먹고! 같이 먹고!",
+  "author": "하루 ",
+  "illustrator": "김삼현",
+  "isbn": "9791165958343",
+  "readAge": "초등_저학년",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 8,
+  "paragraphInfo": [
+    {
+      "srcTextID": "33225",
+      "srcText": "그때 낚시 곰의 배가 꾸르륵꾸르륵! “아이고, 배야. 날름 고양이야, 화장실에 다녀올 동안 물고기 좀 지켜 줄래?” 꾸르륵꾸르륵! “응! 걱정 말고 다녀와.” 낚시 곰은 화장실로 후다닥 뛰어갔어.",
+      "srcPage": 5,
+      "srcSentenceEA": 6,
+      "srcWordEA": 30,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "33231",
+      "srcText": "‘아니야! 날름 고양이는 물고기를 먹지 않을 거야. 날름 고양이는 배가 고파도 물고기를 지켜 줄 거야.’ 낚시 곰이 돌아와서 보니 물고기 5마리가 그대로 있었어. “날름 고양이야, 고마워!”",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 29,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "33226",
+      "srcText": "끙끙! 끙끙! 낚시 곰이 똥을 누다 보니, 갑자기 걱정이 되었어. ‘혹시 날름 고양이가 배가 고프면 어쩌지?’ ‘날름 고양이가 배가 고파서 물고기 4마리를 날름날름 먹어 버리면 어떡하지? 그러면 나는 물고기 1마리, 날름 고양이는 물고기 4마리!’",
+      "srcPage": 7,
+      "srcSentenceEA": 5,
+      "srcWordEA": 39,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "33228",
+      "srcText": "“그럼, 내가 3마리를 먹을게. 날름 고양이, 너는 2마리만 먹어 봐. 내가 주고 싶어서 그래.” “아냐, 아냐! 네가 잡은 물고기잖아.” 날름 고양이는 물고기를 큰 바구니에 다시 모았어.",
+      "srcPage": 11,
+      "srcSentenceEA": 6,
+      "srcWordEA": 30,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "33227",
+      "srcText": "“내가 물고기 좀 줄게. 난 2마리만 먹으면 돼. 3마리는 너 먹어.” “물고기를 3마리나 준다고? 아니야, 괜찮아.” 날름 고양이는 물고기를 큰 바구니에 모았어.",
+      "srcPage": 10,
+      "srcSentenceEA": 6,
+      "srcWordEA": 26,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "33224",
+      "srcText": "낚시 곰이 낚시를 하는데 날름 고양이가 구경을 왔어. “우아, 물고기를 5마리나 잡았네!” 날름 고양이가 부러운 듯 말하자 낚시 곰은 기분이 좋았지.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "33230",
+      "srcText": "“아니야, 정말 괜찮아.” 날름 고양이는 물고기를 큰 바구니에 다시 모았어. 그 순간, 꼬르륵! 꼬르륵! “날름 고양이야, 너, 배고프구나! 우리 물고기 나누지 말고 그냥 같이 먹자.”",
+      "srcPage": 13,
+      "srcSentenceEA": 6,
+      "srcWordEA": 29,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "33229",
+      "srcText": "“나 혼자 먹기에 물고기 5마리는 너무 많아. 내가 4마리를 먹을게. 날름 고양이야, 너도 1마리만 먹어 봐.”",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

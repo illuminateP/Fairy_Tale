@@ -1,0 +1,94 @@
+﻿{
+  "title": "엄마 품으로 쏙",
+  "author": "허이령",
+  "illustrator": "최양숙",
+  "isbn": "9791165432829",
+  "readAge": "초등_고학년",
+  "publishedYear": 2021,
+  "publisher": "아람키즈",
+  "classification": "예술경험",
+  "paragraphInfoCount": 9,
+  "paragraphInfo": [
+    {
+      "srcTextID": "42196",
+      "srcText": "멍멍개야, 짖지 마라. 우리 아가 잠을 깰라. 자장자장 자장자장 잘도 잔다, 우리 아가.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42203",
+      "srcText": "아가랑 작디작은 병아리를 업고 이고 자박자박 길을 걷는데, 엄마 닭이 꼬꼬댁 꼬꼬. 병아리 종종 종종 뛰어가네. 병아리는 엄마 닭이 내미는 먹이를 날름.",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42202",
+      "srcText": "아가랑 작디작은 병아리랑 아기 원숭이를 업고 이고 안고 타박타박 길을 걷는데, 엄마 원숭이가 끼기긱 끼기긱. 아기 원숭이도 냉큼 뛰어 달려가네. 아기 원숭이 엄마 품으로 쏙. ",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 27,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42204",
+      "srcText": "아가 울음소리에 어디선가 숨 가쁜 발걸음 소리. 타다닥 타다다닥. “아이고, 우리 아가 왔구나.” 엄마는 아가를 얼른 받아 안더니 옷고름을 푸네. 아가는 엄마 품에 찰싹 붙어 엄마 젖을 쪽쪽.",
+      "srcPage": 13,
+      "srcSentenceEA": 5,
+      "srcWordEA": 31,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42201",
+      "srcText": "아가랑 작디작은 병아리랑 아기 원숭이랑 강아지를 업고 이고 안고 아기 호랑이를 데리고 길을 걷는데, 엄마 호랑이가 그르릉 크르릉. 호랑이 형제들도 으르릉 그르릉. 아기 호랑이가 펄쩍 뛰어 달려가네. 아기 호랑이 신이 나 겅중겅중. ",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 35,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42197",
+      "srcText": "아가랑 작디작은 병아리랑 아기 원숭이랑 강아지를 업고 이고 안고 터벅터벅 길을 걷는데, 엄마 개가 월! 월! 강아지 폴짝 내려가 달려가네. 아기 강아지 엄마 등에 찰싹.",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 28,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42200",
+      "srcText": "아가랑 작디작은 병아리랑 아기 원숭이를 업고 이고 안고 길을 걷는데, 바위 뒤에서 깨갱깨갱. 작은 구덩이 속에서 으르렁으르렁. 바위 뒤에도 구덩이 속에도 누가 있네. “강아지야, 왜 여기에 있니? 아기 호랑이는 구덩이에 빠졌구나.” ",
+      "srcPage": 7,
+      "srcSentenceEA": 5,
+      "srcWordEA": 34,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42198",
+      "srcText": "새근새근 잠든 아가를 업고 숲속에서 길을 걷는데, 작디작은 풀이 흔들흔들. 어? 풀숲에 누가 있네.  “안녕, 병아리야. 길을 잃었구나.”",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 21,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42199",
+      "srcText": "아가랑 작디작은 병아리를 업고 이고 숲속 길을 걷는데, 작은 나뭇가지가 흔들흔들. 어? 가지 위에 누가 있네. “아기 원숭이야, 엄마는 어디 있어?”",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

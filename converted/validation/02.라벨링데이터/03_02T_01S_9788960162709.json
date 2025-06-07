@@ -1,0 +1,42 @@
+﻿{
+  "title": "하루살이는 진짜 하루만 살까? ",
+  "author": "정명숙",
+  "illustrator": "김민선",
+  "isbn": "9788960162709",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51614",
+      "srcText": "‘아이, 간지러워라. 어머, 이게 뭐야? 날개가 돋았네.’ 하루살이 애벌레는 제 몸을 보고 깜짝 놀랐어요.",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17,
+      "character": "날개,하루살이 애벌레",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "하루살이 애벌레는 제 몸을 보고 깜짝 놀랐어요.",
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "제 몸을 보고 깜짝 놀란 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "하루살이 애벌레",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

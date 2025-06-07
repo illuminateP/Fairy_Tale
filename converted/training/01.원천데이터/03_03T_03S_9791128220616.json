@@ -1,0 +1,103 @@
+﻿{
+  "title": "세상에서 가장 특별한 닉 부이치치",
+  "author": "장선혜",
+  "illustrator": "이주현",
+  "isbn": "9791128220616",
+  "readAge": "초등_고학년",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "classification": "사회관계",
+  "paragraphInfoCount": 10,
+  "paragraphInfo": [
+    {
+      "srcTextID": "40302",
+      "srcText": "아빠는 수많은 사람들 앞에서 이야기해요. “우리는 넘어졌을 때 다시 일어날 수 있는 힘이 없다고 느껴질 때가 있습니다. 그러나 계속 실패해도 다시 시도하고 다시 시도한다면 그것은 실패한 것이 아닙니다. 저는 백 번이라도 일어나기 위해 노력할 것입니다.” ",
+      "srcPage": 14,
+      "srcSentenceEA": 4,
+      "srcWordEA": 37,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "40304",
+      "srcText": "아빠가 정말 특별한 이유는 누구보다도 자기 자신을 가장 사랑하고 있다는 거예요. 스스로를 남들과 다르지 않다고 생각하며 불쌍하게 여기지도 않아요. 그래서 이 세상 누구보다도 행복하다고 생각해요. 우리 아빠처럼 자신을 사랑하고 행복하다고 생각한다면 누구나 특별한 사람이 될 수 있을 거예요. ",
+      "srcPage": 16,
+      "srcSentenceEA": 4,
+      "srcWordEA": 41,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "40297",
+      "srcText": "그런데 아빠는 보통 사람들과 좀 달라요. 아빠에게는 팔과 다리가 없거든요. 대신 아빠가 닭발이라고 말하는 발가락이 두 개인 작은 발이 하나 있어요. 태어날 때부터 그랬대요. ",
+      "srcPage": 11,
+      "srcSentenceEA": 4,
+      "srcWordEA": 27,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "40300",
+      "srcText": "그래서 아빠가 더 특별하다는 거예요. 서핑도, 수영도, 골프도, 컴퓨터도 충분히 잘 해내니까요. 특히 나를 안아 줄 때도 문제없어요.",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "40301",
+      "srcText": "하지만 처음부터 잘한 것은 아니래요. 혼자서 일어서기 위해서 백 번도 더 연습을 해야만 했고, 혼자서 옷을 입기 위해서 오백 번도 더 연습을 했대요. 아빠는 여덟 살 때 팔과 다리가 없는 자신의 모습이 너무 싫어서 사는 것을 포기하려고 한 적도 있었대요. ",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 42,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "40299",
+      "srcText": "그 사람은 컴퓨터도 잘해요. 인터넷을 검색해서 원하는 정보도 얻고요. 자신에게 오는 수많은 메일을 읽고, 하나하나 정성 들여 답장도 해요.",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "40296",
+      "srcText": "그 사람은 골프도 잘 쳐요. 특히 골프공을 굴려서 홀에 정확하게 넣을 때 “우아, 대단해!” 소리가 저절로 나요. 얼마나 연습을 많이 했을까요? ",
+      "srcPage": 7,
+      "srcSentenceEA": 5,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "40298",
+      "srcText": "그 사람은 수영도 잘해요. 나는 사실 아직 물속으로 들어가는 게 무섭거든요. 그런데 물속으로 깊이 들어갔다가 몸을 빙글빙글 돌리면서 물 위로 올라오는 모습을 보면 유명한 수영 선수 같아요.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 29,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "40295",
+      "srcText": "그 사람은 보드를 아주 잘 타요. 나도 못하는 편은 아니지만, 나는 이제 겨우 스케이트보드를 타는 정도예요. 그런데 그 사람은 스케이트보드뿐 아니라 파도가 치는 바다에서 서핑을 해요. 보드를 타고 파도를 가를 때면 꼭 날아오르는 것만 같아요. ",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 38,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "40303",
+      "srcText": "사람들은 아빠의 이야기를 듣고 눈물을 흘려요. 그리고 아빠를 꼭 안고는 이렇게 말해요. “고마워요, 포기하지 않을게요. 당신이 있어서 다행이에요.” 아빠는 그런 말을 들을 때마다 사람들에게 이야기하기를 참 잘했다는 생각이 든대요.",
+      "srcPage": 15,
+      "srcSentenceEA": 5,
+      "srcWordEA": 32,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

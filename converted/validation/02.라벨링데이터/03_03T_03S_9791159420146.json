@@ -1,0 +1,521 @@
+﻿{
+  "title": "진정한 친구",
+  "author": "이정하",
+  "illustrator": "장순복",
+  "isbn": "9791159420146",
+  "publishedYear": 2016,
+  "publisher": "무지개 아이다움 태동출판사",
+  "paragraphInfoCount": 16,
+  "paragraphInfo": [
+    {
+      "srcTextID": "20218",
+      "srcText": "“궁궐까지는 나 혼자도 갈 수 있네. 난 나와 함께 임금님 앞에 가 줄 친구가 필요한 걸세.” 남자는 친구의 손을 잡으며 애원했습니다.",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23,
+      "character": "궁궐,나,임금님,친구,남자,손,혼자,난",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "남자는 친구의 손을 잡으며 애원했습니다.",
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "남자는 친구의 무엇을 잡으며 애원했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "손",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "20208",
+      "srcText": "마음씨 좋기로 소문난 한 남자가 있었습니다. 친구들은 물론이고 마을 사람들도 모두 그를 좋아했습니다. 그러던 어느 날, 임금님이 보낸 사람이 남자를 찾아왔습니다.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23,
+      "character": "남자,친구들,마을 사람들,임금님,사람,모두,그",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": "마음씨 좋기로 소문난 한 남자가 있었습니다. 친구들은 물론이고 마을 사람들도 모두 그를 좋아했습니다.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "임금님이 보낸 사람은 누구를 찾아왔나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "남자",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "20210",
+      "srcText": "서로 무엇이든 줄 수 있을 만큼 친한 친구였습니다. “임금님께서 갑자기 나를 보자고 하시네. 같이 궁궐에 가 줄 수 있겠나?”",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20,
+      "character": "친한 친구,임금님,나",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "임금님께서 갑자기 나를 보자고 하시네. 같이 궁궐에 가 줄 수 있겠나",
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "남자는 친구에게 어디에 같이 가자고 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "궁궐",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "20211",
+      "srcText": "임금님이 무슨 일로 자신을 찾는지 도무지 짐작할 수 없었기 때문입니다. 몹시 걱정이 된 남자는 친구들에게 도움을 청하기로 했습니다. 먼저 가장 친한 친구를 찾아갔습니다.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 25,
+      "character": "임금님,남자,친구들,친구",
+      "setting": null,
+      "action": null,
+      "feeling": "걱정이 된",
+      "causalRelationship": "몹시 걱정이 된 남자는 친구들에게 도움을 청하기로 했습니다.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "남자는 누구에게 도움을 청하기로 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "친구들",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "20213",
+      "srcText": "괜히 나까지 벌을 받게 되면 어쩌나.” 친구는 대문을 쾅 닫고 안으로 들어가 버렸습니다. ‘그토록 친했던 친구가 어떻게 나한테 이럴 수가 있을까.’",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23,
+      "character": "나,친구,대문",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": "친구는 대문을 쾅 닫고 안으로 들어가 버렸습니다.",
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "친구는 무엇을 쾅 닫고 안으로 들어갔나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "대문",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "20214",
+      "srcText": "남자는 너무 실망스러워 눈물이 날 지경이었습니다. 그는 할 수 없이 두 번째로 친한 친구의 집으로 발길을 돌렸습니다. ‘그 친구만은 나를 도와줄 수 있을 거야.’",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 26,
+      "character": "남자,눈물,친구,집,그 친구,나",
+      "setting": null,
+      "action": null,
+      "feeling": "실망스러워",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "남자는 실망스러워 무엇이 나올 것 같았나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "눈물",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "20209",
+      "srcText": "“임금님께서 당신을 찾고 계시오. 서둘러 궁궐로 들어오도록 하시오.” 그 말을 들은 남자는 깜짝 놀랐습니다.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16,
+      "character": "임금님,당신,궁궐,남자",
+      "setting": null,
+      "action": null,
+      "feeling": "놀랐습니다",
+      "causalRelationship": "임금님께서 당신을 찾고 계시오. 서둘러 궁궐로 들어오도록 하시오.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "누가 남자를 찾았나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "임금님",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "20212",
+      "srcText": "친구는 냉정한 표정을 지으며 말했습니다. “임금님께서 자네에게 벌을 내리시려나 보군. 그렇다면 나는 안 가겠네.",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15,
+      "character": "친구,임금님,나",
+      "setting": null,
+      "action": "말했습니다,안 가겠네",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": " 그렇다면 나는 안 가겠네",
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "냉정한 표정을 지으며 안 가겠다고 한 건 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "친구",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "20215",
+      "srcText": "남자는 절박한 심정으로 친구의 집에 도착했습니다. “어서 오게.” 반갑게 맞이해 주는 친구를 보자 남자는 한결 마음이 놓였습니다.",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18,
+      "character": "남자,친구,집",
+      "setting": null,
+      "action": null,
+      "feeling": "절박한,반갑게",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "남자는 누구의 집에 도착했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "친구",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "20223",
+      "srcText": "“자네같이 착한 사람이 설마 벌이야 받겠는가? 만약 임금님이 벌을 내리신다면 자네는 그럴 사람이 아니라고 말씀드리겠네.” 그 친구는 서둘러 길을 나설 채비를 했습니다. “정말 고맙네.” 남자는 눈물을 흘리며 친구의 손을 꼭 잡았습니다.",
+      "srcPage": 14,
+      "srcSentenceEA": 5,
+      "srcWordEA": 34,
+      "character": "자네,착한 사람,임금님,사람,친구,길,남자,눈물,손",
+      "setting": null,
+      "action": "말씀드리겠네,길을 나설,눈물을 흘리며,손을 꼭 잡았습니다",
+      "feeling": "착한,고맙네",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "친구는 남자에게 어떤 사람이라고 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "착한 사람",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "20219",
+      "srcText": "“미안하네. 난 요즘 일이 바빠서.” 친구는 괜히 일을 하는 척하며 딴청을 피웠습니다. 남자는 다시 다른 친구를 찾아 나섰습니다.",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21,
+      "character": "친구,남자,다른 친구",
+      "setting": null,
+      "action": "딴청을 피웠습니다,찾아 나섰습니다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "남자는 다시 누구를 찾으러 나섰나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "다른 친구",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "20220",
+      "srcText": "오며 가며 인사를 나누는 정도의 사이여서 어려운 부탁은 들어주지 않을 게 뻔했습니다. ‘하지만 다른 도리가 없어. 어렵겠지만 말이라도 꺼내 보자.’ 남자는 무거운 발걸음으로 그 친구의 집으로 향했습니다.",
+      "srcPage": 12,
+      "srcSentenceEA": 4,
+      "srcWordEA": 30,
+      "character": "남자,친구,집",
+      "setting": null,
+      "action": null,
+      "feeling": "어려운,어렵겠지만",
+      "causalRelationship": null,
+      "outcomeResolution": "오며 가며 인사를 나누는 정도의 사이여서 어려운 부탁은 들어주지 않을 게 뻔했습니다.",
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "남자는 무거운 발걸음으로 어디로 갔나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "친구의 집",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "20221",
+      "srcText": "뜻밖에도 친구는 선뜻 대답을 해 주었습니다. “나 때문에 자네까지 벌을 받게 될지도 모르는데 말인가?” 남자는 도무지 믿기질 않았습니다.",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19,
+      "character": "친구,나,벌,남자",
+      "setting": null,
+      "action": "대답을 해 주었습니다",
+      "feeling": "믿기질 않았습니다",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "남자는 친구에게 나 때문에 자네까지 무엇을 받게 될지도 모른다고 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "벌",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "20222",
+      "srcText": "친구의 집에 도착한 남자는 어렵게 자신의 이야기를 들려주었습니다. “걱정하지 말게. 내가 함께 가 주겠네.”",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15,
+      "character": "친구,집,남자,자신",
+      "setting": null,
+      "action": "이야기를 들려주었습니다,가 주겠네",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "친구의 집에 도착한 남자는 누구의 이야기를 들려주었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "자신",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "20216",
+      "srcText": "“그건 정말 어려운 부탁이군. 나까지 곤란해질 수 있으니 말이야. 하지만 우린 친구이니 궁궐 문 앞까지만 함께 가 주겠네.”",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20,
+      "character": "나,친구,궁궐,문,우린",
+      "setting": null,
+      "action": null,
+      "feeling": "어려운,곤란해질 수",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "친구는 어디까지 함께 가주기로 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "궁궐 문 앞",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "20217",
+      "srcText": "“부탁이 있어서 왔네.” “자네의 부탁이라면 내 뭐든지 들어주겠네, 허허!” 남자는 한결 편안한 마음으로 자신의 사정을 이야기했습니다.",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17,
+      "character": "남자,자신,자네",
+      "setting": null,
+      "action": "들어주겠네,이야기했습니다",
+      "feeling": "편안한",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "친구에게 자신의 사정을 이야기 한 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "남자",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "친구가 부탁을 뭐든 들어준다고 하니 남자는 어떤 마음으로 사정을 이야기 했나요?",
+          "queType": 4,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "편안한 마음",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

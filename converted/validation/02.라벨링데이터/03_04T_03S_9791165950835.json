@@ -1,0 +1,56 @@
+﻿{
+  "title": "이상한 아저씨",
+  "author": "조선학",
+  "illustrator": "조성애",
+  "isbn": "9791165950835",
+  "publishedYear": 2020,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48147",
+      "srcText": "우리 동네에 낯선 동양인 아저씨가 이사를 왔어요. 아저씨는 말없이 우두커니 서서 늘 무언가를 바라보았어요. 나는 아저씨가 어떤 사람인지 몹시 궁금했어요.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22,
+      "character": null,
+      "setting": "동네",
+      "action": "이사를 왔어요,바라보았어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "아저씨는 말없이 우두커니 서서 늘 무슨 행동을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "무언가를 바라보았어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "낯선 동양인 아저씨가 이사 온 곳은 어디인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "우리 동네",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

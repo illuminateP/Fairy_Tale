@@ -1,0 +1,121 @@
+﻿{
+  "title": "난 멋져! ",
+  "author": "우와조아",
+  "illustrator": "박용하",
+  "isbn": "9788964170038",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "어깨동무",
+  "classification": "예술경험",
+  "paragraphInfoCount": 12,
+  "paragraphInfo": [
+    {
+      "srcTextID": "15696",
+      "srcText": "\"온 몸이 홀라당 타 버렸네.\" 까마귀는 새카매졌지요. \"더 못난이가 되어버렸어. 어떡해.\"",
+      "srcPage": 11,
+      "srcSentenceEA": 4,
+      "srcWordEA": 13,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "15682",
+      "srcText": "\"이야! 다이아몬드다! 드디어 찾았다!\" 쾅! 아이구! 이를 어째! \"에이! 차가운 얼음 덩어리잖아!\"",
+      "srcPage": 5,
+      "srcSentenceEA": 6,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "15686",
+      "srcText": "그런데 이게 웬일이에요. 까마귀는 날개로 탁! 탁! 박수를 쳤어요. \"이야! 찾았다. 내 보물.\"",
+      "srcPage": 9,
+      "srcSentenceEA": 6,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "15687",
+      "srcText": "까마귀는 바다에 풍덩 빠지고 말았어요. \"에구구! 난 수영 못해. 살려줘.\" 물에 젖은 까마귀는 햇빛에 몸을 말렸어요.",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "15685",
+      "srcText": "까마귀는 배고팠지만 다시 날았어요. \"히야! 빨간빛 루비다!\" 콕! 콕! \"어? 이건 달콤한 감이네. 냠냠! 맛있다.\" \"훠이, 훠이, 저리 가지 못해!\" \"으악! 까마귀 살려.\"",
+      "srcPage": 7,
+      "srcSentenceEA": 9,
+      "srcWordEA": 30,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "15699",
+      "srcText": "\"하암, 잘 잤다.\" 잠에서 깨어난 까마귀는 깜짝 놀랐어요. \"이야! 내 털이 반짝반짝 윤이 나네.\" 까마귀는 너무 기뻐서 깍깍 소리쳤어요. \"난 멋져!\"",
+      "srcPage": 13,
+      "srcSentenceEA": 5,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "15680",
+      "srcText": "\"이야! 여기 해님이 흘리고 간 보석이 잔뜩있네.\" 까마귀는 휘익 땅으로 내려갔어요. 꽝! 에구구! 저런! \"아이구! 너무 단단해.\"",
+      "srcPage": 3,
+      "srcSentenceEA": 6,
+      "srcWordEA": 23,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "15688",
+      "srcText": "까마귀는 해님을 향해 올라가고, 올라갔지요. \"앗! 뜨거워. 아이구! 내 날개!\" 저런! 까마귀의 날개에 불이 붙어버렸어요. \"물! 물! 까마귀 살려!\"",
+      "srcPage": 10,
+      "srcSentenceEA": 8,
+      "srcWordEA": 26,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "15679",
+      "srcText": "반짝반짝 해님이 짠! 떠올랐어요. \"해님이 있는 곳에 가면 보물이 이만큼 있을 거야.\" 까마귀는 날개를 퍼드덕거리며 날아갔지요. \"보물을 찾아서 멋지게 꾸며야지!\"",
+      "srcPage": 2,
+      "srcSentenceEA": 5,
+      "srcWordEA": 22,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "15697",
+      "srcText": "까마귀는 한참을 울다가 잠이 들었어요. \"쌔근쌔근\" 까마귀는 하루를 자고 또 하루를 잤어요. 그동안의 여행이 너무 힘들었거든요.",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "15681",
+      "srcText": "한참을 날아다니다가 이번엔 금을 발견했어요. \"와! 저기 금가루가 있다.\" 번쩍번쩍 온통 금가루뿐이었어요. 사르르륵, 사르르륵! \"엥? 이건 모래잖아! 속았다.\"",
+      "srcPage": 4,
+      "srcSentenceEA": 6,
+      "srcWordEA": 23,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "15683",
+      "srcText": "까마귀는 너무 힘들어서 풀밭에 내려앉았어요. 그런데 이게 웬일이에요. \"이야! 초록빛 에메랄드다!\" 까마귀는 발톱으로 탁! 탁! 보물을 팠어요. \"에이, 이건 꽁꽁 언 토끼풀이잖아.\"",
+      "srcPage": 6,
+      "srcSentenceEA": 7,
+      "srcWordEA": 27,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

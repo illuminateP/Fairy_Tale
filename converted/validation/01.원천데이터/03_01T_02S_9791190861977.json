@@ -1,0 +1,85 @@
+﻿{
+  "title": "바사삭 와사삭, 맛있는 모험",
+  "author": "이윤진",
+  "illustrator": "꾸엉",
+  "isbn": "9791190861977",
+  "readAge": "초등_저학년",
+  "publishedYear": 2020,
+  "publisher": "아람",
+  "classification": "의사소통",
+  "paragraphInfoCount": 8,
+  "paragraphInfo": [
+    {
+      "srcTextID": "14869",
+      "srcText": "맛있는 모험이라고? 툭툭 투욱! 나는 과자 상자를 열었어.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 10,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "14874",
+      "srcText": "이번엔 뭘까? 살며시 눈을 떠 보니, 내 옆에 예서가 서 있지 뭐야! 이번에는 진짜 행복한 모험이야.",
+      "srcPage": 15,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "14871",
+      "srcText": "이번엔 구름 과자를 바사삭 와사삭 꿀꺽! 음, 솜사탕처럼 사르르 녹았어. 그때 눈앞에 해님이 나타났어.",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "14868",
+      "srcText": "“고마워. 이거 먹으렴.” 곰 아저씨는 과자 상자를 내밀었어. “과자를 먹으면 맛있는 모험이 시작된단다. 멈추고 싶으면 ‘그만!’ 하고 외치렴.” 곰 아저씨는 5층에서 내렸어.",
+      "srcPage": 5,
+      "srcSentenceEA": 6,
+      "srcWordEA": 27,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "16831",
+      "srcText": "다음은 공룡 과자를 바사삭 와사삭 꿀꺽! 음, 톡톡 터지는 짜릿한 맛이야. 그때 쿵쿵 공룡들의 소리가 들렸어.",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "14870",
+      "srcText": "물고기 과자를 바사삭 와사삭 꿀꺽! 음, 고소하고 짭조름해. 그때 눈앞에 푸른 바닷속이 펼쳐졌어.",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "14872",
+      "srcText": "“으악! 살려 줘!” 무시무시한 공룡이 달려오잖아? 나는 있는 힘껏 소리쳤어. “그 그만!”",
+      "srcPage": 13,
+      "srcSentenceEA": 4,
+      "srcWordEA": 15,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "14873",
+      "srcText": "휴, 공룡들이 사라지고 다시 엘리베이터 안이야. 정말 큰일 날 뻔했어. 이제 딱 하나 남은 도깨비방망이 과자를 바사삭 와사삭!",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

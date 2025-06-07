@@ -1,0 +1,76 @@
+﻿{
+  "title": "먹고 먹은 똥 ",
+  "author": "김희남",
+  "illustrator": "김세현",
+  "isbn": "9791128212277",
+  "readAge": "유아",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 7,
+  "paragraphInfo": [
+    {
+      "srcTextID": "29392",
+      "srcText": "뿌지직! 많이도 누었네. 당근 먹은 토끼 먹은 여우 먹은 호랑이 똥! 파리가 호랑이 똥을 꿀꺽! 배고파, 배고파! 배 속이 텅 비었어.",
+      "srcPage": 6,
+      "srcSentenceEA": 5,
+      "srcWordEA": 26,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "30201",
+      "srcText": "호랑이가 당근 먹은 토끼 먹은 여우를 꿀꺽! 이게 무슨 소리야? 뱅글뱅글 돌더니 꾸르륵꾸르륵.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "30200",
+      "srcText": "여우가 당근 먹은 토끼를 꿀꺽! 배고파, 배고파! 배 속이 텅 비었어.",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "30203",
+      "srcText": "족제비가 호랑이 똥 먹은 파리 먹은 개구리를 꿀꺽! 배고파, 배고파! 배 속이 텅 비었어.",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "30202",
+      "srcText": "개구리가 호랑이 똥 먹은 파리를 꿀꺽! 배고파, 배고파! 배 속이 텅 비었어.",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "29393",
+      "srcText": "호랑이가 호랑이 똥 먹은 파리 먹은 개구리 먹은 족제비를 꿀꺽! 호랑이가 이번에는 무슨 똥을 눌까? 당근 먹은 토끼 먹은 여우 먹은 호랑이 똥 먹은 파리 먹은 개구리 먹은 족제비 먹은 호랑이 똥!",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 34,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "29391",
+      "srcText": "배고파, 배고파! 배 속이 텅 비었어. 토끼가 당근을 꿀꺽! 배고파, 배고파! 배 속이 텅 비었어.",
+      "srcPage": 2,
+      "srcSentenceEA": 5,
+      "srcWordEA": 19,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

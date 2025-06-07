@@ -1,0 +1,31 @@
+﻿{
+  "title": "지구가 아프면 나도 아파요",
+  "author": "하늘땅",
+  "illustrator": "백정석",
+  "isbn": "9791165957032",
+  "readAge": "초등_고학년",
+  "publishedYear": 2023,
+  "publisher": "아람북스",
+  "classification": "사회관계",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "41820",
+      "srcText": "더 이상 갈 곳이 없어요. 더 이상 걸을 힘도 없어요. 지구가 아프면 나도 아파요. ",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "41821",
+      "srcText": "사람들이 조용조용 운전하기 시작해요. 저기 아빠도 보여요. 이젠 새들이 놀라지 않아요.",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

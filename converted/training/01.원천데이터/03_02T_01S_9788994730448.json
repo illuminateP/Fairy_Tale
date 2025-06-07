@@ -1,0 +1,193 @@
+﻿{
+  "title": "나는 장구, 아빠는 꽹과리",
+  "author": "김은중",
+  "illustrator": "이상미",
+  "isbn": "9788994730448",
+  "readAge": "유아",
+  "publishedYear": 2010,
+  "publisher": "인북",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 20,
+  "paragraphInfo": [
+    {
+      "srcTextID": "18997",
+      "srcText": "\"얘들아, 점심 먹자!\" 엄마가 선우와 지혜를 불렀어요. 돗자리 위에는 여러 가지 음식이 가득 차려져 있었어요.",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "18998",
+      "srcText": "\"우아! 내가 좋아하는 것만 있네!\" 선우는 이것저것 맛보느라 바빠요. 그때 지혜에게 좋은 생각이 떠올랐어요.",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "18986",
+      "srcText": "덩덩 쿵덕쿵! 개갱 개갱 갠지갱 남사당패 흥겨운 풍물 소리에 선우와 지혜는 어깨가 절로 들썩거려요. \"나는 둥둥 울리는 북이 가장 좋아.\" 개구쟁이 선우가 북 치는 시늉을 했어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 28,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "19001",
+      "srcText": "\"이번엔  나도 정말 멋진 그래프를 만들 거야!\" 지혜는 줄타기와 탈놀이를 구경하면서 곰곰이 생각했어요. 그러다 아주 멋진 생각이 떠올랐지요. \"그래, 유치원에서 했던 인기투표를 하면 재미있겠다!\" 하늘 유치원 인기투표 지혜 태우 민서 1 2 3 4 5 6 7 8.",
+      "srcPage": 13,
+      "srcSentenceEA": 5,
+      "srcWordEA": 42,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "18999",
+      "srcText": "\"김밥 중에서 가장 많은 건 게살 김밥이야.\" 지혜가 김밥으로 그래프를 만들었어요. \"아빠가 네 김밥 그래프를 먹어야겠다.\"",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "19000",
+      "srcText": "아빠는 젓가락으로 김치 김밥을 얼른 집었어요. 어쩔 수 있나요? 온 가족이 김밥 그래프를 맛있게 먹어 버렸지요. 내가 만든 김밥 그래프야. 게살 김밥 김치 김밥 야채 김밥.",
+      "srcPage": 12,
+      "srcSentenceEA": 5,
+      "srcWordEA": 30,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "18994",
+      "srcText": "\"선우가 그래프를 그렸구나. 대단한걸!\" 엄마가 칭찬하자 선우는 싱글벙글해요. \"그래프? 그게 뭔데?\" 지혜가 눈을 동그랗게 뜨고 물었어요.",
+      "srcPage": 9,
+      "srcSentenceEA": 5,
+      "srcWordEA": 20,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "18995",
+      "srcText": "\"이렇게 여러 가지 자료를 한눈에 알아보기 쉽게 나타낸 게 그래프야.\" 선우가 으쓱거리며 설명했어요. 놀기가 가장 자신 있어!",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "18991",
+      "srcText": "\"못 알아보겠어? 그러면 그림으로 그려 볼까?\" 선우는 쓱쓱 그림을 그렸어요. 그림이라면 자신 있었거든요.",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "18992",
+      "srcText": "\"우리 가족이 가장 좋아하는 악기는 바로 장구네!\" 지혜는 장구가 일 등을 해서 생글생글 웃음이 나요. 지혜야, 내 그림 솜씨 어때? 최고야, 오빠.",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 25,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "18993",
+      "srcText": "\"지혜야, 이제 알아보기 쉽지?\" 선우가 그림을 보여 주었어요. \"응. 그림으로 보니까 금방 알겠는걸.\"",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "19002",
+      "srcText": "\"인기는 내가 최고지!\" 선우가 까불거리며 말했어요. \"오빠 말고, 남사당놀이 인기투표!\"",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 11,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "19003",
+      "srcText": "지혜는 스티커를 가지고 부지런히 돌아다녔어요. 사람들이 좋아하는 남사당놀이가 뭔지 알아보러 말이에요. 스티커를 가장 많이 받은 남사당놀이는 무엇일까요? 난 꼭두각시 놀음. 난 줄타기가 좋아! 사물놀이 버나돌리기",
+      "srcPage": 14,
+      "srcSentenceEA": 6,
+      "srcWordEA": 30,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "19004",
+      "srcText": "\"오빠, 내 그래프 어때?\" 지혜가 뽐내자 선우도 엄지손가락을 들었어요. \"그래, 지혜가 그래프 도사다!\" 가장 인기 있는 남사당놀이를 조사해 보았어. 풍물놀이 버나돌리기 재주넘기 줄타기 탈놀이 꼭두각시놀음",
+      "srcPage": 15,
+      "srcSentenceEA": 5,
+      "srcWordEA": 28,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "19005",
+      "srcText": "그건 바로 아슬아슬 줄타기! 줄타기가 스티커를 가장 많이 받았어요. \"와! 우리 지혜, 그래프 도사가 되었네.\" 지혜가 만든 그래프를 보며 엄마가 엄지손가락을 치켜세웠어요.",
+      "srcPage": 15,
+      "srcSentenceEA": 4,
+      "srcWordEA": 25,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "18989",
+      "srcText": "\"그거야 금방 알아보면 돼!\" 선우는 가족들에게 좋아하는 풍물 악기를 묻고 그 대답을 종이에 적어 지혜에게 주었어요. \"이게 뭐야? 뒤죽박죽 하나도 모르겠네.\"",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "18990",
+      "srcText": "지혜는 입을 뾰로통 내밀었어요. 지혜야, 잘 알겠지? 뒤죽박죽 하나도 모르겠는데?",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "18987",
+      "srcText": "\"나는 허리가 잘록한 장구가 좋은걸.\" \"아빠는 꽹과리가 좋다!\" 지혜는 장구, 아빠는 꽹과리가 좋대요.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "18988",
+      "srcText": "그러고 보니 좋아하는 풍물 악기가 저마다 달라요. \"우리 가족이 가장 좋아하는 풍물 악기는 뭘까?\" 궁금해진 지혜가 고개를 갸우뚱갸우뚱. 장구가 좋아. 난 꽹과리. 난 북이 좋아. 징이 최고지.",
+      "srcPage": 6,
+      "srcSentenceEA": 7,
+      "srcWordEA": 32,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "18996",
+      "srcText": "\"흥! 나도 그래프 그릴 수 있다, 뭐!\" 지혜는 그래프로 그릴 게 뭐가 있나 하고 두리번거렸어요. 그러다 어느새 남사당놀이에 흠뻑 빠져 버렸지요.",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

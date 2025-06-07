@@ -1,0 +1,118 @@
+﻿{
+  "title": "레몬을 먹은 건 누구?",
+  "author": "곽선주",
+  "illustrator": "김은혜",
+  "isbn": "9788993828108",
+  "publishedYear": 2009,
+  "publisher": "별똥별",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "15336",
+      "srcText": "떡볶이를 먹은 건 누구? 아이, 매워! 약을 먹은 건 누구? 아이, 써!",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 15,
+      "character": "떡볶이,약",
+      "setting": null,
+      "action": "먹은",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": "아이, 써",
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "무엇이 매울까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "떡볶이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "15335",
+      "srcText": "레몬을 먹은 건 누구? 아이, 시어! 소금을 먹은 건 누구? 아이, 짜!",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 15,
+      "character": "레몬,소금",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": "아이, 짜!",
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "무엇을 먹으면 신맛이 날까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "레몬",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "15337",
+      "srcText": "사탕을 먹은 건 누구? 노랑이, 까망이, 빨강이, 하양이 모두 먹었다. 동글동글 사탕, 아이, 달콤해!",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16,
+      "character": "사탕",
+      "setting": null,
+      "action": "먹은,먹었다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": "아이,달콤해!",
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "무엇을 먹었을까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "사탕",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "사탕을 어떻게 했을까요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "먹었다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

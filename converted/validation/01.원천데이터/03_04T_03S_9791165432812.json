@@ -1,0 +1,67 @@
+﻿{
+  "title": "어디 어디 있나",
+  "author": "폴리나 리피나",
+  "illustrator": "김삼현",
+  "isbn": "9791165432812",
+  "readAge": "초등_고학년",
+  "publishedYear": 2021,
+  "publisher": "아람키즈",
+  "classification": "예술경험",
+  "paragraphInfoCount": 6,
+  "paragraphInfo": [
+    {
+      "srcTextID": "42153",
+      "srcText": "하양, 하양, 하양, 하양 국화. 어디에 숨을까? 숨었다. 떡살 안에. 새하얀 절편에 내려앉아 깨끗한 마음을 주지. 찾았다! 바로 여기, 소반 위에 있네!",
+      "srcPage": 13,
+      "srcSentenceEA": 7,
+      "srcWordEA": 28,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42154",
+      "srcText": "빨강, 파랑, 노랑, 검정, 하양 알록달록 오방색. 어디에 있을까? 찾았다. 우리 아빠 두루주머니, 우리 엄마 바늘겨레, 우리 아가 색동옷. 오래오래 건강하게 살길 바라는 마음이 담겨 있지.",
+      "srcPage": 15,
+      "srcSentenceEA": 5,
+      "srcWordEA": 30,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42151",
+      "srcText": "노랑, 노랑, 노랑, 노랑 용. 어디에 있을까? 바로 여기, 임금님 옷에. 반짝이는 금빛 용은 임금님만 가질 수 있지.",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42152",
+      "srcText": "검정, 검정, 검정, 검정 박쥐. 어디에 숨을까? 숨었다. 담장 위 검은 기와에. 나란히 매달려 집에 복을 불러들이지.",
+      "srcPage": 11,
+      "srcSentenceEA": 5,
+      "srcWordEA": 21,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42150",
+      "srcText": "파랑, 파랑, 파랑, 파랑 물고기. 어디로 갈까? 여기다! 도련님 책상 위에. 푸른 물살을 가르는 물고기처럼 도련님이 장원 급제하길 바라지.",
+      "srcPage": 7,
+      "srcSentenceEA": 5,
+      "srcWordEA": 23,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42155",
+      "srcText": "빨강, 빨강, 빨강, 빨강 도깨비. 어디에 숨을까? 숨었다. 지붕 위 빨강 기와로. 붉은 얼굴, 무서운 표정을 하고 나쁜 귀신을 쫓아내지. ",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

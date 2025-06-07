@@ -1,0 +1,166 @@
+﻿{
+  "title": "몽이의 세계 여행",
+  "author": "김태남",
+  "illustrator": "작가정보없음",
+  "isbn": "9788964172056",
+  "readAge": "초등_고학년",
+  "publishedYear": 2023,
+  "publisher": "어깨동무",
+  "classification": "사회관계",
+  "paragraphInfoCount": 17,
+  "paragraphInfo": [
+    {
+      "srcTextID": "17160",
+      "srcText": "\"토끼나라 돈을 오리나라에서는 못 쓰는구나. 나라마다 돈이 다 다른가봐. 다람쥐나라에서는 다람쥐나라 돈을 쓰겠지?\"",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "17161",
+      "srcText": "몽이는 주머니에서 '100총' 을 꺼내요. \"얘야, 오리나라에서는 오리나라 돈을 내야지. 저기 느티나무 옆 은행에 가보렴. 토끼나라 돈을 오리나라 돈으로 바꿔 줄게다.\"",
+      "srcPage": 9,
+      "srcSentenceEA": 5,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "14649",
+      "srcText": "몽이는 토끼나라 돈을 오리나라 돈으로 바꿔요. 그리고 다람쥐나라 돈도 미리 바꿔둬요. 다람쥐나라에 가면 필요할 테니까요.",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "14646",
+      "srcText": "몽이는 '50총' 을 내고 당근 빵을 사요. 그리고 당근 빵을 먹으며 시내를 구경해요. '예쁜 귀 토끼 대회' 도 구경하고, 토끼 왕이 사는 궁전도 구경해요. 그리고 오리나라로 가는 버스를 탔답니다.",
+      "srcPage": 7,
+      "srcSentenceEA": 5,
+      "srcWordEA": 33,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "17159",
+      "srcText": "몽이는 은행에서 돈을 바꿔요. \"원숭이나라돈을 토끼나라에서는 못 쓰는구나.\" 돈에 원숭이 대신 토끼가 그려져 있는 게 어색하고 또 신기해요.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "17156",
+      "srcText": "몽이가 세계지도를 펼쳐요. \"이번엔 꼭 밍밍을 만나고 말 거야.\" 밍밍은 다람쥐나라에 있는 몽이의 여자 친구예요. 원숭이나라에서 출발하면 토끼나라, 오리나라를 지나야 다람쥐나라에 도착해요.",
+      "srcPage": 2,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "17163",
+      "srcText": "나라마다 돈 크기가 서로 다른가 봐요. 몽이는 호떡을 하나만 먹고, 하나는 가방에 넣어요. 다람쥐나라 역에서 기다리고 있을 밍밍이에게 줄 선물이에요.",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "17164",
+      "srcText": "몽이는 다람쥐나라 돈 '50땡글' 을 두 장 내고 호떡을 두 개 받았어요. '100꽥' 과 '50땡글' 이 같은 크기의 돈이라니 알쏭달쏭 신기해요.",
+      "srcPage": 13,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "14650",
+      "srcText": "\"아저씨, 호덕 하나에 얼마예요?\" \"오리나라 돈으로는 '100꽥' 다람쥐나라 돈으로는 '50땡글' 이란다.\"",
+      "srcPage": 12,
+      "srcSentenceEA": 4,
+      "srcWordEA": 13,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "14651",
+      "srcText": "기차에 올라타자 어디선가 달콤한 냄새가 나요. \"자자, 크고 달콤한 꿀 호떡입니다. 곰나라에서 직접 가져왔어요. 맛보세요.\"",
+      "srcPage": 12,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "17162",
+      "srcText": "몽이는 '100꽥' 을 내고 신기한 물을 사요. 물을 마시며 시내를 구경해요. '시끄러운 오리 대회' 도 구경하고, 미운오리새끼가 살았다는 집도 구경해요. 그리고 다람쥐나라로 가는 기차를 탔답니다.",
+      "srcPage": 11,
+      "srcSentenceEA": 5,
+      "srcWordEA": 29,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "14647",
+      "srcText": "\"그냥 물은 '50꽥' 이고, 먹어도, 먹어도 줄지 않는 물은 '100꽥' 이란다.\" 먹어도, 먹어도 물이 줄지 않는다니, 신기하죠?",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "14648",
+      "srcText": "오리나라에 도착했어요. 목이 마른 몽이는 버스에서 내리자마자 가게로 달려갔어요. \"물 한 병만 주세요.\"",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "17157",
+      "srcText": "\"얘야, 토끼나라에서는 토끼나라 돈을 내야지. 저기 샘물 앞 은행에 가보렴. 원숭이나라 돈을 토끼나라 돈으로 바꿔 줄게다.\"",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "17158",
+      "srcText": "원숭이나라에서는 돈을 '몽' 이라고 하지만 토끼나라에서는 돈을 '총' 이라고 해요. 몽이는 주머니에서 '50몽' 을 꺼내요.",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 19,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "14644",
+      "srcText": "원숭이나라는 섬이에요. 토끼나라로 가려면 바나나 배를 타야 해요. 몽이는 원숭이나라 돈 '100몽'을 내고 배에 올라타요. 한국 친구들이 사는 곳에선 돈을 '원'이라고 하지만, 몽이네 나라에서는 '몽'이라고 한답니다.",
+      "srcPage": 3,
+      "srcSentenceEA": 7,
+      "srcWordEA": 32,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "14645",
+      "srcText": "토끼나라에 도착했어요. 어디선가 맛있는 냄새가 나네요. \"한입만 먹어도 배부른 신기한 당근 빵입니다!\" \"아저씨, 당근 빵 하나만 주세요!\" \"여기 있다, '50총' 이다.\"",
+      "srcPage": 4,
+      "srcSentenceEA": 6,
+      "srcWordEA": 23,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

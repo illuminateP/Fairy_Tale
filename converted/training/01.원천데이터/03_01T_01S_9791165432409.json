@@ -1,0 +1,58 @@
+﻿{
+  "title": "아하! 그랬구나!",
+  "author": "꼬두람이",
+  "illustrator": "꼬두람이",
+  "isbn": "9791165432409",
+  "readAge": "유아",
+  "publishedYear": 2021,
+  "publisher": "아람키즈",
+  "classification": "의사소통",
+  "paragraphInfoCount": 5,
+  "paragraphInfo": [
+    {
+      "srcTextID": "12836",
+      "srcText": "나 기분이 안 좋아. 아하, 혼자 있어서 심심했구나! 우리랑 놀자.",
+      "srcPage": 2,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "12835",
+      "srcText": "나 기분이 안 좋아. 아하, 사과를 떨어뜨려서 슬펐구나! 내 거 나눠 줄게.",
+      "srcPage": 1,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "12839",
+      "srcText": "나 기분이 안 좋아. 아하, 배가 고파서 속상했구나! 그럼 우리랑 함께 가자!",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "12837",
+      "srcText": "나 기분이 안 좋아. 아하, 여우에게 꼬리를 밟혀서 아팠구나! 우리가 ‘호’ 해 줄게.",
+      "srcPage": 3,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "12838",
+      "srcText": "나 기분이 안 좋아. 아하, 다리 건너기가 무서웠구나! 내가 손잡아 줄게.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

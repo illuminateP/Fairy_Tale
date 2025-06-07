@@ -1,0 +1,42 @@
+﻿{
+  "title": "비눗방울 편지",
+  "author": "김이리",
+  "illustrator": "한주연",
+  "isbn": "8990591252",
+  "publishedYear": 2003,
+  "publisher": "생각의샘",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "46818",
+      "srcText": "“우리 색종이로 만들기하자.” “그래그래. 난 해를 만들어야지.” 별이는 빨간 색종이로 해를 만들었습니다. 돌이는 노란 색종이로 달을 만들었습니다.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20,
+      "character": "색종이,별이,돌이,우리",
+      "setting": null,
+      "action": "만들기하자,만들어야지,만들었습니다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": " 빨간 색종이로 해를 만든 건 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "별이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

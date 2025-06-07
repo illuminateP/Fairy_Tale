@@ -1,0 +1,94 @@
+﻿{
+  "title": "이상한 샘물",
+  "author": "문이재 독서논술연구소",
+  "illustrator": "김영근",
+  "isbn": "9791159425042",
+  "readAge": "유아",
+  "publishedYear": 2020,
+  "publisher": "무지개",
+  "classification": "의사소통",
+  "paragraphInfoCount": 9,
+  "paragraphInfo": [
+    {
+      "srcTextID": "43134",
+      "srcText": "옛날 옛날 어느 산골에 마음씨 착하고 부지런한 할아버지, 할머니가 살고 있었어요. 하지만 이 부부에게는 아이가 없었어요. “영감, 우리에게 아이만 있다면 더 이상 부러울 게 없을 것 같아요.”",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 28,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "43135",
+      "srcText": "할머니의 말에 할아버지가 위로했어요. “할멈, 걱정 말아요. 우리에게 아이가 생길 줄 누가 알겠소.”",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "43140",
+      "srcText": "아버지와 할머니는 욕심쟁이 할아버지가 걱정이 돼서 샘터로 갔어요. “응애! 응애!” 샘터에 욕심쟁이 할아버지는 없고 웬 아기가 울고 있었어요. 욕심쟁이 할아버지가 젊어지고 싶은 마음에 샘물을 너무 많이 마신 거예요. 착한 할아버지와 할머니는 하늘이 준 아기라 믿고 열심히 키우며 행복하게 살았대요.",
+      "srcPage": 11,
+      "srcSentenceEA": 5,
+      "srcWordEA": 43,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "43137",
+      "srcText": "한참을 부지런히 일하는데, “뾰로롱! 뾰로롱!” 예쁜 새 한 마리가 날아왔어요. 그런데 할아버지가 다가가면 도망가고, 다가가면 또 도망가는 거예요.",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "43133",
+      "srcText": "할아버지는 자기도 모르게 새를 쫓아갔어요. 그런데 그곳에 옹달샘이 있지 뭐예요. “오호! 이런 데 샘물이 있다니.” 새를 쫓아오느라 목이 말랐던 할아버지는 맑은 샘물을 마시자마자 이상하게도 졸렸어요.",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 28,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "43141",
+      "srcText": "다음 날 할아버지는 할머니를 데리고 젊어지는 샘물이 있는 곳으로 갔어요. 할머니도 맑은 샘물을 마시자 역시 젊은 새색시로 변했어요. 이 소문을 들은 욕심쟁이 할아버지가 젊어지는 샘물이 어디에 있는지 물었어요.",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 30,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "43138",
+      "srcText": "한참을 자고 일어난 할아버지는 힘이 세지고 기분이 좋아졌어요. 나무들을 지게에 가득 싣고 집으로 돌아왔지요. “할멈, 나 왔어!”",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "43139",
+      "srcText": "할머니가 부엌에서 나오다 깜짝 놀랐어요. “에구, 깜짝이야! 젊은이가 왜 나를 찾소?” “어허! 나라니까!” 자세히 보니 진짜 할아버지였어요.",
+      "srcPage": 9,
+      "srcSentenceEA": 5,
+      "srcWordEA": 20,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "43136",
+      "srcText": "할아버지는 지게를 지고 산으로 나무를 하러 갔어요. “산에 가세! 산에 가세! 산에 가면 나무도 많고.” 할아버지는 노래를 부르며 일을 했어요.",
+      "srcPage": 6,
+      "srcSentenceEA": 5,
+      "srcWordEA": 23,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

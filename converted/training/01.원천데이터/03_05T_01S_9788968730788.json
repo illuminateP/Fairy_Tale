@@ -1,0 +1,49 @@
+﻿{
+  "title": "코코 도시락이 어디 있지?",
+  "author": "애플트리",
+  "illustrator": "김선영, 김정수, 김현미",
+  "isbn": "9788968730788",
+  "readAge": "유아",
+  "publishedYear": 2014,
+  "publisher": "키움북스",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 4,
+  "paragraphInfo": [
+    {
+      "srcTextID": "42497",
+      "srcText": "오늘은 아기 동물들의 즐거운 소풍날이에요. 그런데 저 멀리서 코코가 헐레벌떡 뛰어오네요. “얘들아, 나 도시락을 잃어버렸어.” 그러자 모두들 코코를 위로하며 말했어요. “코코야, 걱정하지 마. 같이 찾아보자.”",
+      "srcPage": 7,
+      "srcSentenceEA": 6,
+      "srcWordEA": 28,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42499",
+      "srcText": "그래서 아기 동물들은 다 함께 코코의 도시락을 찾아 나섰어요. 그런데 강가에 다다랐을 때였어요. “어? 저기 있다! 코코의 도시락!” 아기 돼지가 외쳤어요.",
+      "srcPage": 9,
+      "srcSentenceEA": 5,
+      "srcWordEA": 25,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42500",
+      "srcText": "도대체 코코의 도시락은 어디에 있을까요? 아기 동물들은 빈 나무 구멍도 찾아보고, 풀밭도 샅샅이 찾아보았어요. 하지만 코코의 도시락은 어디에도 없었어요. “얘들아, 내 도시락은 정말 없어졌나 봐.” 코코가 말하자 동물 친구들은 힘이 쭉 빠졌어요.",
+      "srcPage": 18,
+      "srcSentenceEA": 5,
+      "srcWordEA": 35,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42498",
+      "srcText": "이번에는 언덕을 지날 때였어요. “찾았다! 저기 울타리 밑에!” 아기 다람쥐가 큰 소리로 말했어요.",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

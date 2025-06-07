@@ -1,0 +1,49 @@
+﻿{
+  "title": "괜찮아!",
+  "author": "이선아",
+  "illustrator": "아람북스",
+  "isbn": "9791128212710",
+  "readAge": "유아",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "classification": "의사소통",
+  "paragraphInfoCount": 4,
+  "paragraphInfo": [
+    {
+      "srcTextID": "7441",
+      "srcText": "바람이 쌩쌩. “아기 북극곰아, 춥지?” 괜찮아. 엄마 가슴에 꼭 파고들면 돼. 눈보라가 휘이잉. “아기 펭귄아, 너도 춥지?” 괜찮아. 아빠 발 위에 사뿐 올라서면 돼.",
+      "srcPage": 6,
+      "srcSentenceEA": 8,
+      "srcWordEA": 29,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "7417",
+      "srcText": "웅덩이 물이 찰랑찰랑. “아기야, 어떻게 건너가지?” 괜찮아. 엄마, 아빠 손잡고 훌쩍 건너면 돼.",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 15,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "7440",
+      "srcText": "보슬비가 보슬보슬. “아기 병아리야, 축축하지?” 괜찮아. 엄마 품에 폭 안기면 돼. 나뭇가지가 흔들흔들. “아기 호랑이야, 무섭지?” 괜찮아. 엄마가 도와주길 기다리면 돼.",
+      "srcPage": 4,
+      "srcSentenceEA": 8,
+      "srcWordEA": 26,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "7439",
+      "srcText": "햇볕이 쨍쨍. “아기 타조야, 덥지?” 괜찮아. 엄마 날개 밑에 쏙 들어가면 돼. 나뭇잎이 바스락바스락. “아기 캥거루야, 깜짝 놀랐지?” 괜찮아. 엄마 주머니에 쏘옥 숨으면 돼.",
+      "srcPage": 2,
+      "srcSentenceEA": 8,
+      "srcWordEA": 29,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

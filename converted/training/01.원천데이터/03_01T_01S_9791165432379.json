@@ -1,0 +1,67 @@
+﻿{
+  "title": "마음에 쏙 들어요",
+  "author": "꼬두람이",
+  "illustrator": "꼬두람이",
+  "isbn": "9791165432379",
+  "readAge": "유아",
+  "publishedYear": 2021,
+  "publisher": "아람키즈",
+  "classification": "의사소통",
+  "paragraphInfoCount": 6,
+  "paragraphInfo": [
+    {
+      "srcTextID": "7885",
+      "srcText": "초록 천으로 무얼 만들어 줄까? 우아, 초록 모자다! 마음에 쏙 들어요.",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "7270",
+      "srcText": "주황 천으로 무얼 만들어 줄까? 우아, 주황 바지다! 마음에 쏙 들어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "7269",
+      "srcText": "빨강 천으로 무얼 만들어 줄까? 우아, 빨강 치마다! 마음에 쏙 들어요.",
+      "srcPage": 1,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "7271",
+      "srcText": "이런, 자투리 천만 남았네. 무얼 만들어 줄까? 우아, 알록달록 무지개 드레스다! 정말 마음에 들어요.",
+      "srcPage": 21,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "7884",
+      "srcText": "노랑 천으로 무얼 만들어 줄까? 우아, 노랑 티셔츠다! 마음에 쏙 들어요.",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "7886",
+      "srcText": "파랑 천으로 무얼 만들어 줄까? 우아, 파랑 코트다! 마음에 쏙 들어요.",
+      "srcPage": 17,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

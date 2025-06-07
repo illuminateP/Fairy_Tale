@@ -1,0 +1,49 @@
+﻿{
+  "title": "생쥐와 초콜릿 하나",
+  "author": "유지현",
+  "illustrator": "장현경",
+  "isbn": "9788994730103",
+  "readAge": "유아",
+  "publishedYear": 2010,
+  "publisher": "인북",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 4,
+  "paragraphInfo": [
+    {
+      "srcTextID": "19041",
+      "srcText": "밖으로 나갔더니 우아, 맛있는 초콜릿도 하나 1! 앗, 조심해! 와, 많아졌네!",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "19046",
+      "srcText": "다시 초콜릿 하나를 만들자! 그런 다음 똑같이 나누면. 열 중 하나 0.1씩 냠냠냠!",
+      "srcPage": 18,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "19040",
+      "srcText": "생쥐와 초콜릿 하나. 생쥐없다 0. 생쥐하나 1. 까꿍! 다시 생쥐 하나 1.",
+      "srcPage": 7,
+      "srcSentenceEA": 5,
+      "srcWordEA": 16,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "19044",
+      "srcText": "모두 가지고 가자! 어쩌지? 잉, 다 녹아 버렸어. 그때, 생쥐 하나가 빼꼼! \"맛있겠다!\" \"들어와. 같이 먹자!\" 그런데.",
+      "srcPage": 15,
+      "srcSentenceEA": 6,
+      "srcWordEA": 22,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

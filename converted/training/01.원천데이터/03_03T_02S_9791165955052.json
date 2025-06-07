@@ -1,0 +1,103 @@
+﻿{
+  "title": "와, 도서관이네",
+  "author": "하늘땅",
+  "illustrator": "무카",
+  "isbn": "9791165955052",
+  "readAge": "초등_저학년",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "classification": "사회관계",
+  "paragraphInfoCount": 10,
+  "paragraphInfo": [
+    {
+      "srcTextID": "4238",
+      "srcText": "토토 앞에 책으로 만든 집이 있었어요. 토토는 그곳을 쏙 빠져나왔지요. 하지만 토토를 쫓아오던 친구들은 책으로 만든 집을 와르르 무너뜨리고 말았어요.",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "4235",
+      "srcText": "진우는 토토를 데리고 도서관에 왔어요. “우아, 책이 정말 많다!” 토토는 눈이 동그래졌어요.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "4240",
+      "srcText": "넘어졌던 토토가 얼른 일어나서 친구들에게 말했어요. “도서관에서는 사뿐사뿐 걸어야 해요.” 그러자 뛰어오던 친구들이 사뿐사뿐. “쉿, 도서관에서는 모두 조용조용.” 그러자 큰 소리로 책을 읽던 친구들이 조용조용 책을 읽었어요.",
+      "srcPage": 12,
+      "srcSentenceEA": 5,
+      "srcWordEA": 29,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "4242",
+      "srcText": "사서 선생님이 토토를 보고 방긋 웃었어요. “도서관 예절을 잘 아는구나. 이제부터 토토는 도서관 특별 회원이야.” 토토는 기뻐서 방방 뛰고 싶었지만 빙그레 웃기만 했어요. ",
+      "srcPage": 14,
+      "srcSentenceEA": 4,
+      "srcWordEA": 25,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "4234",
+      "srcText": "“토토 넌 쪼르르 쪼르르 뛰어다니잖아. 도서관에서는 뛰면 안 돼.” “뛰어다니지 않을게!” “책으로 장난쳐도 안 되고, 과자를 먹거나 큰 소리로 말해서도 안 돼.” “모두 지킬 수 있어. 약속할게!”",
+      "srcPage": 5,
+      "srcSentenceEA": 6,
+      "srcWordEA": 29,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "4236",
+      "srcText": "그때 책 읽는 소리가 들렸어요. “토끼는 쿨쿨 잠이 들었고. 거북이 토끼를 이겼어요.” “뭐라고? 거북이 이겼다고? 하하!” 토토는 큰 소리로 웃었어요.",
+      "srcPage": 7,
+      "srcSentenceEA": 6,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "4241",
+      "srcText": "토토는 계속 말했어요. “읽은 책은 제자리에 착착 놓고, 책으로 장난치면 안 돼요. 또 도서관에서는 과자를 먹으면 안 되지요.”",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "4239",
+      "srcText": "“으악!” 힘껏 달리던 토토가 과자 봉지를 밟고 미끄러졌어요. “토토야!” 진우가 깜짝 놀라 토토에게 달려왔어요. 옆에 있던 사서 선생님도 깜짝 놀랐지요.",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "4233",
+      "srcText": "햄스터 토토는 책을 좋아해요. “도서관에는 책이 많다고? 그럼 나도 데려가 줘!” 토토의 부탁에 진우는 손을 내저었어요",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "4237",
+      "srcText": "그러자 도서관에 있던 친구들이 토토한테 모여들었어요. “햄스터가 나타났다!” 책을 읽던 친구가 토토를 가리켰어요. 토토는 쪼르르 도망치기 시작했어요. “햄스터야, 같이 놀자!” 친구들이 토토를 쫓아 뛰기 시작했어요. ",
+      "srcPage": 9,
+      "srcSentenceEA": 6,
+      "srcWordEA": 28,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

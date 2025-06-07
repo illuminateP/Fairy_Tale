@@ -1,0 +1,56 @@
+﻿{
+  "title": "수탉이 된 나무꾼",
+  "author": "정설아",
+  "illustrator": "현민우",
+  "isbn": "9788960164789",
+  "publishedYear": 2011,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "46580",
+      "srcText": "옛날에 깊은 산속에서 나무꾼이 나무를 하고 있을 때였어요. 사슴 한 마리가 다급히 뛰어오며 소리쳤어요. \"사냥꾼이 쫓아와요! 저 좀 숨겨 주세요!\" 나무꾼은 재빨리 사슴을 숨겨 주었어요. 곧바로 활을 든 사냥꾼이 쫓아왔지요. \"사슴 한 마리 못 봤소?\" 나무꾼은 수풀을 가리키며 말했어요. \"저 너머로 갔소.\" 그러자 사냥꾼은 툴툴대며 나무꾼이 가리킨 곳으로 달려갔어요.",
+      "srcPage": 2,
+      "srcSentenceEA": 10,
+      "srcWordEA": 55,
+      "character": "나무꾼,나무,사슴,활,수풀,사냥꾼",
+      "setting": null,
+      "action": "뛰어오며 소리쳤어요,숨겨 주었어요,말했어요,달려갔어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "사슴은 누가 쫒아온다고 말했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "사냥꾼",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "나무꾼은 사슴을 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "숨겨 주었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿{
+  "title": "쿨쿨 잘도 자네요",
+  "author": "토요카 가즈히코",
+  "illustrator": "토요카 가즈히코",
+  "isbn": "9788997300457",
+  "readAge": "초등_저학년",
+  "publishedYear": 2016,
+  "publisher": "(주)푸름이닷컴",
+  "classification": "의사소통",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "15598",
+      "srcText": "두 눈이 말똥말똥! “악어야, 뭐 하니?” 악어가 콜콜 낮잠을 자고 있어요. 뱀이 씩씩 낮잠을 자고 있어요.",
+      "srcPage": 3,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "15599",
+      "srcText": "고양이가 음냐음냐 낮잠을 자고 있어요. 개구리가 그렁그렁 낮잠을 자고 있어요. 엄마 캥거루는 쌕쌕, 아기 캥거루도 색색 낮잠을 자고 있어요. 코끼리는 드르렁드르렁, 나비는 새근새근 낮잠을 자고 있어요. 모두 모두 쿨쿨쿨 낮잠을 자고 있어요.",
+      "srcPage": 8,
+      "srcSentenceEA": 5,
+      "srcWordEA": 36,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

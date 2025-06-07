@@ -1,0 +1,118 @@
+﻿{
+  "title": "초원의 말",
+  "author": "낸시 윌슨 홀",
+  "illustrator": "춤추는코끼리",
+  "isbn": "9788993828702",
+  "publishedYear": 2009,
+  "publisher": "별똥별",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "7934",
+      "srcText": "따가닥따가닥 달리기도 잘하지요. 말은 다리가 길쭉길쭉하고, 튼튼해요. 따가닥따가닥 달리면 풀 풀 갈기가 휘날려요.",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15,
+      "character": "말,갈기",
+      "setting": null,
+      "action": "달리기도",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "달리기를 잘하는 것은 누구일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "말",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7933",
+      "srcText": "작은 소리에도 깜짝깜짝 놀라는 망아지예요. 망아지는 언제나 엄마를 쫄랑쫄랑 따라다녀요. 망아지가 쑥쑥 자라 어른 말이 되면 힘도 아주 세져요.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21,
+      "character": "망아지,엄마,어른 말",
+      "setting": null,
+      "action": "따라다녀요,자라",
+      "feeling": "놀라는",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "망아지가 쑥쑥 자라면 무엇이 될까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "어른 말",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7935",
+      "srcText": "푸르르푸르르! 말은 힘차게 달릴 때 가장 멋져요. 말은 옹기종기 여럿이 있는 것을 좋아해요. 초원에서 오물오물 풀을 먹는 것도 좋아하지요.",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22,
+      "character": "말,풀",
+      "setting": "초원",
+      "action": "달릴,먹는",
+      "feeling": "멋져요,좋아해요",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "힘차게 달릴 때 가장 멋진 것은 누구일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "말",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "말은 풀을 어디에서 먹을까요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "초원",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

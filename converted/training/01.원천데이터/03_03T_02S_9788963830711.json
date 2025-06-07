@@ -1,0 +1,76 @@
+﻿{
+  "title": "꼬물아, 생일 축하해",
+  "author": "소희",
+  "illustrator": "소희",
+  "isbn": "9788963830711",
+  "readAge": "초등_저학년",
+  "publishedYear": 2010,
+  "publisher": "별똥별",
+  "classification": "사회관계",
+  "paragraphInfoCount": 7,
+  "paragraphInfo": [
+    {
+      "srcTextID": "6795",
+      "srcText": "“악어 형, 집에 있어? 뭐 해?” 꼬물이는 악어 형을 불렀어요. 그런데 아무 대답이 없었어요.",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "6796",
+      "srcText": "“이상하다, 들어가 보자.” “아! 깜깜해. 아무것도 안 보여. 악어 형, 어디 있어?\"",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 15,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "6793",
+      "srcText": "친구 거북이 보따리를 지고 가만가만 지나갔어요. “그 보따리에 뭐 들었어?” “아이, 깜짝이야. 음, 그건 비밀이야.” 거북이 부지런히 달아나는데, 사뿐사뿐! “치, 꽃이네!”",
+      "srcPage": 7,
+      "srcSentenceEA": 6,
+      "srcWordEA": 23,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "6790",
+      "srcText": "게으른 뱀 꼬물이가 아침 일찍 눈을 떴어요. 살랑살랑 봄바람이 따뜻했어요. “오늘은 내 생일인데, 누가 축하해 줄까?”",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "6791",
+      "srcText": "친구 목도리도마뱀이 바구니를 들고 살금살금 지나갔어요. “그 바구니에 뭐 들었어?” “아이, 깜짝이야. 음, 그건 비밀이야.”",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "6794",
+      "srcText": "“친구들은 내 생일을 모르나 봐.” 그런데 악어 형이 보이지 않았어요. 꼬물이가 슬슬 몸을 흔들며 악어 형을 찾아갔어요. “악어 형은 내 생일을 알까?”",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "6792",
+      "srcText": "친구 카멜레온이 상자를 들고 조심조심 지나갔어요. “그 상자에 뭐 들었어?” “아이, 깜짝이야. 음, 그건 비밀이야.” 카멜레온이 후다닥 달아나는데, 데굴데굴! “치, 물컵이네.”",
+      "srcPage": 6,
+      "srcSentenceEA": 6,
+      "srcWordEA": 23,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

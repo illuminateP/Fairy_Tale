@@ -1,0 +1,40 @@
+﻿{
+  "title": "동글동글 동그라미",
+  "author": "유가은",
+  "illustrator": "그림작가정보없음",
+  "isbn": "9791128212086",
+  "readAge": "유아",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "37330",
+      "srcText": "반듯반듯 점잖은 네모! 동그라미, 세모, 네모! 모두 모두 모여라. 여러 가지 재미난 얼굴이 되었네.",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "37328",
+      "srcText": "길쭉길쭉 동글동글, 모두 모두 모여라! 하나씩 하나씩 탁탁탁 자르면. 동글동글 귀여운 동그라미가 되어요.",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "37329",
+      "srcText": "동글동글 동그라미 탁탁탁 자르면. 뾰족뾰족 심술쟁이 세모가 되고요. 동글동글 동그라미 탁탁탁탁 자르면.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+﻿{
+  "title": "여기가 치과인가요?",
+  "author": "최혜영",
+  "illustrator": "이현희",
+  "isbn": "9788963830766",
+  "readAge": "초등_저학년",
+  "publishedYear": 2010,
+  "publisher": "별똥별",
+  "classification": "사회관계",
+  "paragraphInfoCount": 10,
+  "paragraphInfo": [
+    {
+      "srcTextID": "9468",
+      "srcText": "곰곰이는 아주 기분이 좋았어요. 아픈 이도 낫고, 훨씬 씩씩해진 것 같았거든요. “내일도 치과에 가야지. 한 번에 찾아올 수 있어.” 와, 곰곰이가 정말 용감해졌어요! 그 뒤로 곰곰이는 어디든지 혼자 잘 찾아갔어요.",
+      "srcPage": 15,
+      "srcSentenceEA": 6,
+      "srcWordEA": 34,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "9466",
+      "srcText": "곰곰이는 용기를 내어 위층으로 올라갔어요. 똑똑 문을 두드리고 생쥐에게 물었어요. “여기가 치과인가요?” “네, 맞아요. 이쪽으로 앉으세요. 아픈 이를 치료해 드릴게요.” 생쥐가 곰곰이의 이를 치료했어요. 드르륵드르륵! 곰곰이는 몸이 움찔움찔했지만 두 눈을 꼭 감고, 두 손을 꼭 쥐고 참았어요.",
+      "srcPage": 12,
+      "srcSentenceEA": 9,
+      "srcWordEA": 43,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "9459",
+      "srcText": "곰곰이는 겁 많은 아기 곰이에요. \"으악, 무서워!\" 조그만 다람쥐가 달려와도 깜짝 놀랐어요. 어느 날 아침, 곰곰이는 이가 살살 아팠어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "9460",
+      "srcText": "밥을 먹어도 아프고, 방귀를 뀌어도 아프고, 펄쩍 재주넘기를 해도 자꾸 아팠어요. ‘이를 깨끗이 안 닦아서 그런가 봐!’ 그래서 곰곰이는 숲 너머 치과에 가기로 했어요. 곰곰이는 치과를 잘 찾을 수 있을까요?",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 33,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "9464",
+      "srcText": "곰곰이는 드디어 치과를 찾았어요. 하지만 겁이 나서 올라가기 싫었어요. 아프지 않을까? 그냥 되돌아갈까? 아니야, 그러면 안 돼!",
+      "srcPage": 10,
+      "srcSentenceEA": 5,
+      "srcWordEA": 21,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "9465",
+      "srcText": "곰곰이는 오솔길을 지나 이층집을 보았어요. 똑똑 아래층 문을 두드리고 토끼에게 물었어요. “여기가 치과인가요?” “아니에요. 여기는 책 가게예요. 재미있는 그림책을 팔지요. 치과는 바로 위층이에요.” 네, 고마워요. ",
+      "srcPage": 10,
+      "srcSentenceEA": 7,
+      "srcWordEA": 30,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "9467",
+      "srcText": "\"자, 다 됐어요. 오늘부터 칫솔질을 더 열심히 하세요. 그리고 내일 한 번 더 오세요.\" 어, 이가 거짓말처럼 아프지 않았어요. 곰곰이는 생쥐에게 인사하고 치과를 나섰어요.",
+      "srcPage": 13,
+      "srcSentenceEA": 5,
+      "srcWordEA": 28,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "9463",
+      "srcText": "한참을 더 걷던 곰곰이는 또 다른 작은 집을 보았어요. 똑똑 문을 두드리고 돼지에게 물었어요. “여기가 치과인가요?” “아니에요, 여기는 꽃 가게예요. 예쁜 꽃과 화분을 팔지요.”",
+      "srcPage": 8,
+      "srcSentenceEA": 5,
+      "srcWordEA": 26,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "9461",
+      "srcText": "길을 나선 곰곰이는 작은 집을 보았어요. 똑똑 문을 두드리고 고양이에게 물었어요. “여기가 치과인가요?” “아니에요, 여기는 사진관이에요. 사진을 멋지게 찍어 주지요.”",
+      "srcPage": 6,
+      "srcSentenceEA": 5,
+      "srcWordEA": 22,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "9462",
+      "srcText": "길을 가던 곰곰이는 다른 작은 집을 보았어요. 똑똑 문을 두드리고 암탉에게 물었어요. \"여기가 치과인가요?\" \"아니에요, 여기는 미용실이에요. 머리를 아름답게 바꿔 드려요.\"",
+      "srcPage": 7,
+      "srcSentenceEA": 5,
+      "srcWordEA": 23,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

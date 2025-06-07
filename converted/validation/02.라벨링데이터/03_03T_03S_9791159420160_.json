@@ -1,0 +1,411 @@
+﻿{
+  "title": "지혜로운 새와 어리석은 사람",
+  "author": "이정하",
+  "illustrator": "강경아",
+  "isbn": "9791159420160\t",
+  "publishedYear": 2016,
+  "publisher": "무지개 아이다움 태동출판사",
+  "paragraphInfoCount": 12,
+  "paragraphInfo": [
+    {
+      "srcTextID": "7298",
+      "srcText": "새의 말에 사냥꾼은 귀가 솔깃해졌습니다. “그게 정말이냐?” 사냥꾼이 관심을 보이자 새가 말했습니다. “하지만 조건이 있어요. 세 가지 규칙을 꼭 지켜야 해요.” ",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 23,
+      "character": "새,사냥꾼,귀",
+      "setting": null,
+      "action": "말했습니다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "새의 말에 관심을 보인 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "사냥꾼",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7302",
+      "srcText": "“이제 저를 놓아주고 세 가지 규칙만 지킨다면 당신의 소원이 이루어질 거예요.” 사냥꾼은 약속대로 새를 놓아주었습니다. 그러자 새는 날개를 펼치더니 높은 나뭇가지 위로 올라갔습니다. ",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 25,
+      "character": "사냥꾼,새,날개,나뭇가지 위",
+      "setting": null,
+      "action": "놓아주었습니다,올라갔습니다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "새가 올라간 곳은 어디인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "높은 나뭇가지 위",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7306",
+      "srcText": "새는 사냥꾼을 내려다보며 말했습니다. “당신은 정말 바보로군요. 내가 당신에게 규칙을 말해 준 지 몇 분도 채 지나지 않아 그것을 모두 어기다니.” 가까스로 몸을 일으킨 사냥꾼이 새에게 소리쳤습니다. “내가 무슨 규칙을 어겼단 말이냐?” ",
+      "srcPage": 12,
+      "srcSentenceEA": 5,
+      "srcWordEA": 34,
+      "character": "새,사냥꾼,몸",
+      "setting": null,
+      "action": "내려다보며 말했습니다,소리쳤습니다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "내가 무슨 규칙을 어겼단 말이냐?",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "규칙을 어긴 바보라고 사냥꾼을 놀린 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "새",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "새는 누구를 내려다보며 말했나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "사냥꾼",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7304",
+      "srcText": "이 말을 들은 사냥꾼은 새를 놓아준 것이 몹시 후회스러웠습니다. 그래서 새를 다시 잡으려고 나무 위로 오르기 시작했습니다. 하지만 얼마 못 올라가서 아래로 떨어지고 말았습니다. ",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 26,
+      "character": "사냥꾼,새,나무 위",
+      "setting": null,
+      "action": "오르기 시작했습니다,떨어지고 말았습니다",
+      "feeling": "후회스러웠습니다",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "사냥꾼이 새를 다시 잡으려고 올라간 곳은 어디일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "나무 위",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "새를 잡으려고 나무 위로 오르던 사냥꾼은 결국 어떻게 되었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아래로 떨어지고 말았습니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7305",
+      "srcText": "“아이구, 허리야.” 땅바닥에 떨어진 사냥꾼은 더욱 약이 바짝 올랐습니다. “내 손에 잡히면 가만두지 않겠다!” 사냥꾼은 다시 몸을 일으켜 보려 했지만 허리를 다쳐 일어설 수가 없었습니다. ",
+      "srcPage": 11,
+      "srcSentenceEA": 4,
+      "srcWordEA": 27,
+      "character": "허리,땅바닥,사냥꾼,손,몸",
+      "setting": null,
+      "action": null,
+      "feeling": "약이 바짝 올랐습니다",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "땅바닥에 떨어진 사냥꾼이 다친 곳은 어디일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "허리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7303",
+      "srcText": "새는 사냥꾼을 내려다보며 말했습니다. “당신은 바보로군요. 내 말을 그대로 믿다니. 내가 무슨 수로 당신의 소원을 들어주겠어요? 나처럼 말하는 새를 데리고 있으면 큰돈을 벌 수 있을 텐데.” ",
+      "srcPage": 9,
+      "srcSentenceEA": 5,
+      "srcWordEA": 29,
+      "character": "새,사냥꾼,큰돈",
+      "setting": null,
+      "action": "내려다보며 말했습니다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "말하는 새를 데리고 있으면 무엇을 얻을 수 있다고 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "큰돈",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7307",
+      "srcText": "“이미 일어난 일에 대해 절대로 후회하지 말라고 했는데 당신은 나를 놓아준 것을 후회했지요. 믿을 수 없는 것은 절대로 믿지 말라는 규칙 역시 어겼어요. 소원을 들어주겠다는 내 말을 믿었으니까요.” ",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 30,
+      "character": "당신,나,규칙",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": "이미 일어난 일에 대해 절대로 후회하지 말라고 했는데 당신은 나를 놓아준 것을 후회했지요. 믿을 수 없는 것은 절대로 믿지 말라는 규칙 역시 어겼어요. 소원을 들어주겠다는 내 말을 믿었으니까요",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "새를 놓아준 것을 후회한 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "사냥꾼",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7309",
+      "srcText": "마지막으로, 얻을 수 없는 것을 얻으려고 애쓰지 말라는 규칙을 어겼어요. 날개가 달린 새를 잡으려고 맨손으로 나무에 오르다니 정말 어리석군요. 당신이 어리석어서 정말 다행이지 뭐예요. ",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 26,
+      "character": "날개,새,나무",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": "얻을 수 없는 것을 얻으려고 애쓰지 말라는 규칙을 어겼어요. 날개가 달린 새를 잡으려고 맨손으로 나무에 오르다니 정말 어리석군요. 당신이 어리석어서 정말 다행이지 뭐예요",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "사냥꾼은 새를 잡으려고 어디로 올라갔나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "나무",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7299",
+      "srcText": "“어서 말해 보거라.” 마음이 급해진 사냥꾼은 새를 재촉했습니다. “첫째, 이미 일어난 일에 대해서는 절대로 후회하지 말 것.” ",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18,
+      "character": "사냥꾼,새",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": "마음이 급해진 사냥꾼은 새를 재촉했습니다",
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "마음이 급해져 새를 재촉한 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "사냥꾼",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7296",
+      "srcText": "그 말을 들은 새는 사냥꾼에게 빌었습니다. “제발 저를 놓아주세요. 그러면 당신의 소원을 들어 드리겠어요.” ",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15,
+      "character": "새,사냥꾼,말",
+      "setting": null,
+      "action": "빌었습니다,놓아주세요,들은",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "새는 누구에게 놓아달라고 부탁했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "사냥꾼",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7297",
+      "srcText": "사냥꾼이 새 한 마리를 잡았습니다. 그 새는 말을 할 수 있는 특별한 새였습니다. “하하, 내게 이런 행운이 오다니. 이 새만 있으면 많은 돈을 벌 수 있겠구나.” ",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 28,
+      "character": "사냥꾼,새,돈",
+      "setting": null,
+      "action": "잡았습니다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "사냥꾼이 잡은 것은 무엇일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "새",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7301",
+      "srcText": "셋째, 얻을 수 없는 것을 얻으려고 절대로 애쓰지 말 것. 새의 말을 들은 사냥꾼은 머리를 갸웃거렸습니다. 알쏭달쏭한 말이었지만 소원을 이룰 수 있다니 못할 것도 없을 것 같았습니다. ",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 29,
+      "character": "새,사냥꾼,머리",
+      "setting": null,
+      "action": "머리를 갸웃거렸습니다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "얻을 수 없는 것을 얻으려고 애쓰지 말라고 말한 것은 누구일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "새",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

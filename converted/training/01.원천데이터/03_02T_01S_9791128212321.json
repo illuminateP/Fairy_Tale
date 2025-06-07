@@ -1,0 +1,49 @@
+﻿{
+  "title": "색 방귀를 뿌웅!",
+  "author": "고지혜",
+  "illustrator": "김유대",
+  "isbn": "9791128212321",
+  "readAge": "유아",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 4,
+  "paragraphInfo": [
+    {
+      "srcTextID": "6590",
+      "srcText": "무엇이든 하얀 하양 나라. 여기를 봐도 하양, 저기를 봐도 하양. 모두 모두 하양을 좋아해. 아기 돼지만 빼고!",
+      "srcPage": 3,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "6593",
+      "srcText": "“또 해 보자!” 아기 돼지가 파랑 사탕을 날름날름. 파랑 방귀를 뽀옹!",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "6592",
+      "srcText": "“따라 하지 마!” 아기 돼지가 노랑 레몬을 야금야금. 노랑 방귀를 뿡 뿌웅~.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "6594",
+      "srcText": "“또 해 보자!” 아기 돼지가 빨강 토마토를 오물오물. 빨강 방귀를 뿌우욱!",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

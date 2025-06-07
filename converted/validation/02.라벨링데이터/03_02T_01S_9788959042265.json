@@ -1,0 +1,56 @@
+﻿{
+  "title": "사라진 공룡을 찾아서",
+  "author": "이지예",
+  "illustrator": "김동원",
+  "isbn": "9788959042265",
+  "publishedYear": 2004,
+  "publisher": "(주)한국퍼킨스교육연구원",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51586",
+      "srcText": "아주 오랜 옛날, 우리가 태어나기 훨씬 전에 지구에는 생명체가 많이 살고 있었어요. 그중에서도 공룡은 지금으로부터 약 2억 3,000만 년 전, 지구에 나타나 약 1억 6,500만 년이라는 오랜 시간 동안 지구를 지배하며 살았던 어마어마하게 큰 동물이지요. 지구에 공룡보다 더 먼저 있었던 것은 파충류였어요. ",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 44,
+      "character": "공룡,파충류",
+      "setting": "지구",
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "지구에서 공룡보다 더 먼저 있었던 것은 무엇인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "파충류",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "약 2억 3000만년 전 지구에 살았던 어마어마하게 큰 동물은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "공룡",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

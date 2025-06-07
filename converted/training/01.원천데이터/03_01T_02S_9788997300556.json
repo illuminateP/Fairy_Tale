@@ -1,0 +1,31 @@
+﻿{
+  "title": "무슨 소리지",
+  "author": "노기 세이코",
+  "illustrator": "스즈키 유키에",
+  "isbn": "9788997300556",
+  "readAge": "초등_저학년",
+  "publishedYear": 2016,
+  "publisher": "(주)푸름이닷컴",
+  "classification": "의사소통",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "7249",
+      "srcText": "탁 탁 탁 탁 무슨 소리지? 엄마가 양배추 써는 소리! 좌 르르 좌 르 르 무슨 소리지? 욕조에 목욕물 받는 소리!",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "10994",
+      "srcText": "후드득 후드득 으응, 이건 무슨 소리지? 아, 비가 오네! 어, 누가 왔나 봐! 딩~동 딩~동",
+      "srcPage": 8,
+      "srcSentenceEA": 5,
+      "srcWordEA": 20,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+﻿{
+  "title": "혼자는 안 돼",
+  "author": "윤지연",
+  "illustrator": "정주현",
+  "isbn": "9788993828283",
+  "publishedYear": 2009,
+  "publisher": "별똥별",
+  "paragraphInfoCount": 6,
+  "paragraphInfo": [
+    {
+      "srcTextID": "16486",
+      "srcText": "그때, 고양이가 다가왔어. “고양이야, 내 뿔 좀 꽉 잡아 줄래?” “그래, 좋아.”",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12,
+      "character": "고양이,내 뿔",
+      "setting": null,
+      "action": "다가왔어,잡아 줄래",
+      "feeling": "좋아",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "고양이야, 내 뿔 좀 꽉 잡아 줄래?",
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "누구에게 뿔을 잡아 달라고 말했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "고양이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "16487",
+      "srcText": "다섯이 같이 영치기 영차. “우아, 수박 잡았다!” “커다란 수박 정말 맛있어!”",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 11,
+      "character": "수박",
+      "setting": null,
+      "action": "잡았다,영치기 영차",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "맛있게 먹은 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "수박",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "16484",
+      "srcText": "그때, 양이 다가왔어. “양아, 내 다리 좀 꽉 잡아 줄래?” “그래, 좋아.” 셋이 같이 끼잉 낑.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17,
+      "character": "양,내 다리",
+      "setting": null,
+      "action": "다가왔어,잡아 줄래",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "양아, 내 다리 좀 꽉 잡아 줄래?",
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "누구에게 다리를 꽉 잡아 달라고 말했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "양",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "16482",
+      "srcText": "“오리야, 내 꼬리 좀 꽉 물어 줄래?” “그래, 좋아.” 둘이 같이 끙끙.",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13,
+      "character": "오리,꼬리",
+      "setting": null,
+      "action": "물어,줄래",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "오리야, 내 꼬리 좀 꽉 물어 줄래?",
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "누구에게 꼬리를 물어 달라고 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "오리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "16483",
+      "srcText": "돼지가 다리를 건너는데, 물 위에 수박이 동동 떠 있었어. 돼지가 팔을 쭉 뻗어 잡으려는데, “앙, 나 하나로는 안 되네!” 그때, 오리가 다가왔어.",
+      "srcPage": 3,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24,
+      "character": "돼지,수박,나,오리",
+      "setting": "물 위에,다리",
+      "action": "건너는데,떠 있었어,뻗어,잡으려는데,다가왔어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "누가 다리를 건너고 있었을까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "돼지",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "어디에 수박이 동동 떠 있었나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "물 위",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "16485",
+      "srcText": "그때, 염소가 다가왔어. “염소야, 내 다리 좀 꽉 잡아 줄래?” “그래, 좋아.” 넷이 같이 영차 영차.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17,
+      "character": "염소,내 다리",
+      "setting": null,
+      "action": "다가왔어,잡아 줄래",
+      "feeling": "좋아",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "염소야, 내 다리 좀 꽉 잡아 줄래?",
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "그때, 누가 다가왔나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "염소",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

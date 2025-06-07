@@ -1,0 +1,40 @@
+﻿{
+  "title": "잠이 안 와요",
+  "author": "디디에 자농",
+  "illustrator": "김세정",
+  "isbn": "9791165435868",
+  "readAge": "유아",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "classification": "의사소통",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "3238",
+      "srcText": "원숭이도 나무 위에서 드렁드렁! 아흥이는 점점 어두워지는 하늘을 보았어요. “해님도 자러 가나 봐.”",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "3237",
+      "srcText": "“아흥아, 이제 잘 시간이야.”  “아직 잠이 안 와요.” 아흥이는 주위를 둘러보았어요. 앵무새는 둥지에서 새근새근!",
+      "srcPage": 2,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "3239",
+      "srcText": " 어느새 깜깜한 밤하늘에 노란 달이 동실동실, 노란 별이 반짝반짝! 아흥이는 엄마 옆에 살포시 누웠어요. “아함! 엄마, 졸려요.” “우리 아흥이, 잘 자!”",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿{
+  "title": "뿡뿡 방귀쟁이",
+  "author": "아세가와 가코",
+  "illustrator": "아세가와 가코",
+  "isbn": "9788997300754",
+  "readAge": "초등_저학년",
+  "publishedYear": 2016,
+  "publisher": "(주)푸름이닷컴",
+  "classification": "의사소통",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "7263",
+      "srcText": "토끼가 뽕! 방귀를 뀌고 나면 배 속이 시원해져요. 여우가 뿡! 방귀를 뀌고 나면 배 속이 시원해져요. 돼지가 풍! 방귀를 뀌고 나면 배 속이 시원해져요.",
+      "srcPage": 7,
+      "srcSentenceEA": 6,
+      "srcWordEA": 29,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "7264",
+      "srcText": "생쥐가 뿍! 방귀를 뀌고 나면 배 속이 시원해져요. 빠바방! 코끼리 배 속도 시원해졌대요. 뽕, 뿡, 풍, 뿍, 빠바방! 방귀를 뀌고 나면 배 속이 시원해져요!",
+      "srcPage": 11,
+      "srcSentenceEA": 6,
+      "srcWordEA": 29,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

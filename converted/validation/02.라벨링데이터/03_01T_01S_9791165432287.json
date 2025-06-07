@@ -1,0 +1,118 @@
+﻿{
+  "title": "깨끗이 씻어요",
+  "author": "꼬두람이",
+  "illustrator": "꼬두람이",
+  "isbn": "9791165432287",
+  "publishedYear": 2021,
+  "publisher": "아람키즈",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "7246",
+      "srcText": "아침에 일어나면 무얼 해야 할까요? 어푸어푸 깨끗이 세수를 해요. 간식을 먹기 전에는 무얼 해야 할까요? 뽀득뽀득 깨끗이 손을 씻어요.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22,
+      "character": null,
+      "setting": "아침에 일어나면,간식을 먹기 전에는",
+      "action": "세수를 해요,손을 씻어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "언제 깨끗이 세수를 하나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아침",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "간식을 먹기 전에는 무엇을 해야 할까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "뽀득뽀득 깨끗이 손을 씻어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7248",
+      "srcText": "똥을 눈 다음에는 무얼 해야 할까요? 앞에서 뒤로 깨끗이 씻어요. 잠자기 전에는 무얼 해야 할까요? 보글보글 거품 목욕을 해요.",
+      "srcPage": 13,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22,
+      "character": null,
+      "setting": "똥을 눈 다음,잠자기 전에는",
+      "action": "앞에서 뒤로 깨끗이 씻어요,거품 목욕을 해요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "똥을 눈 다음에는 무엇을 해야 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "앞에서 뒤로 깨끗이 씻어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7247",
+      "srcText": "간식을 먹은 다음에는 무얼 해야 할까요? 치카치카 깨끗이 이를 닦아요. 땀이 많이 났을 때는 무얼 해야 할까요? 솨아솨아 깨끗이 샤워를 해요.",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24,
+      "character": null,
+      "setting": "간식을 먹은 다음,땀이 많이 났을 때는",
+      "action": "이를 닦아요,샤워를 해요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "간식을 먹은 다음에 무엇을 해야 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "치카치카 깨끗이 이를 닦아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+﻿{
+  "title": "키키를 불러 봐!",
+  "author": "강정연",
+  "illustrator": "강윤주",
+  "isbn": "9791165431747",
+  "readAge": "유아",
+  "publishedYear": 2020,
+  "publisher": "아람키즈",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "6133",
+      "srcText": "“키키야, 아빠랑 물놀이할래?” “키키야, 물놀이 재미있니?” “키키야, 이제 그만 자야지?”",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 10,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "6132",
+      "srcText": "“키키야, 밥 먹자.” “키키야, 어디 있니? 아빠 좀 도와줄래?”",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 10,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "6130",
+      "srcText": "꼬마 카멜레온 키키는 숨기 대장이에요. “키키야, 어디 있니?” 키키는 벌써 꼭꼭 숨어 있어요.",
+      "srcPage": 2,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

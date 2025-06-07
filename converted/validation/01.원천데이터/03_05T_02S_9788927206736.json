@@ -1,0 +1,85 @@
+﻿{
+  "title": "자꾸자꾸 보고 싶어요",
+  "author": "꿈바라기",
+  "illustrator": "조은한나",
+  "isbn": "9788927206736",
+  "readAge": "초등_저학년",
+  "publishedYear": 2011,
+  "publisher": "태동출판사",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 8,
+  "paragraphInfo": [
+    {
+      "srcTextID": "16622",
+      "srcText": "만화 영화가 끝났어요. \"영철아, 우리 이제 블록 쌓기 놀이 하자.\"  하지만 영철이는 만화 영화를 더 보고 싶었어요. \"아냐, 우리 만화 영화 하나만 더 보자.\"",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 26,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "16624",
+      "srcText": "\"영철아, 친구가 왔는데 비디오만 보면 어떡하니?\" \"자꾸 보고 싶은 걸 어떡해요.\" \"텔레비전을 계속 보면 눈도 나빠지고, 몸도 약해진단다. 튼튼하게 자라려면 정해진 시간에만 텔레비전을 보는 게 좋아.\"",
+      "srcPage": 12,
+      "srcSentenceEA": 4,
+      "srcWordEA": 27,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "16625",
+      "srcText": "\"텔레비전만 계속 보면 친구도 없어질걸?\" 영철이는 곰곰이 생각해 보았어요. '정말 나만 외톨이가 될 수도 있어. 몸도 약해지고 말이야.'",
+      "srcPage": 13,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "16619",
+      "srcText": "영철이네 집에 현규가 놀러 왔어요. 블록을 가지고 왔어요. \"현규야, 어서 와!\"",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "16623",
+      "srcText": "\"난 블록 쌓기 할래.\" 현규는 만화 영화를 하루에 한 편만 보기로 엄마와 약속했거든요. 영철이는 계속해서 만화 영화만 봤어요. \"이얍! 이얍! 무찔러라, 무찔러!\"",
+      "srcPage": 10,
+      "srcSentenceEA": 5,
+      "srcWordEA": 26,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "16620",
+      "srcText": "\"우리 마법 전사 엑스맨 보자.\" \"좋아!\" 둘은 만화 영화를 보기로 했어요. \"텔레비전을 볼 땐 바른 자세로 보아야 한단다.\" 엄마가 말했어요. \"싫어요. 이게 더 편해요.\"",
+      "srcPage": 6,
+      "srcSentenceEA": 5,
+      "srcWordEA": 27,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "16621",
+      "srcText": "\"엎드려서 보면 목도 아프고 허리도 아프단다. 그러면 병원에 가야 할 텐데, 괜찮겠니?\" \"아니요, 바르게 앉아서 볼게요!\" 영철이는 병원에 가는 건 정말 싫었거든요.",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "16626",
+      "srcText": "\"좋아요! 정해진 시간에만 텔레비전을 볼게요. 지금은 현규랑 정의의 용사 엑스맨 놀이를 하고요!\" \"나도 좋아!\"",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

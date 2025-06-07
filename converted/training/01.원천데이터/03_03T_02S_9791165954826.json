@@ -1,0 +1,103 @@
+﻿{
+  "title": "또 걱정이 돼요",
+  "author": "장선혜",
+  "illustrator": "최은미",
+  "isbn": "9791165954826",
+  "readAge": "초등_저학년",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "classification": "사회관계",
+  "paragraphInfoCount": 10,
+  "paragraphInfo": [
+    {
+      "srcTextID": "4061",
+      "srcText": "유치원에서도 나는 걱정을 많이 했어요. ‘밥이 왜 이렇게 많지? 멸치에 가시가 있으면 어떡해?’ ",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "4068",
+      "srcText": "나는 걱정이 담긴 풍선을 들고 유치원에 갔어요. 점심시간에 풍선 하나를 펑 터뜨리고, 놀이 시간에 나머지 풍선도 펑 터뜨렸어요. 밥을 먹을 때도, 모래놀이를 할 때도 이젠 걱정하지 않았지요. 펑! 펑!",
+      "srcPage": 13,
+      "srcSentenceEA": 5,
+      "srcWordEA": 33,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "4069",
+      "srcText": "펑! 펑! 펑! 펑! 펑! 펑! 내 방에서 풍선이 터지는 소리예요. 내일이면 걱정 풍선이 하나도 안 남아 있겠죠? 내 마음속 걱정도 말이에요.",
+      "srcPage": 14,
+      "srcSentenceEA": 8,
+      "srcWordEA": 30,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "4064",
+      "srcText": "집에 도착하자 엄마가 풍선을 불어 주었어요. “소이 걱정은 풍선 속으로 들어가라!” 그랬더니 신기하게도 걱정이 사라졌어요. 내 마음에 있던 걱정이 진짜로 풍선 속에 들어간 것 같았어요. 후!후! ",
+      "srcPage": 9,
+      "srcSentenceEA": 5,
+      "srcWordEA": 30,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "4066",
+      "srcText": " 그 순간 내 걱정도 펑 하고 사라졌어요. 걱정이 사라지니까, 김이 먹고 싶어졌어요. 김은 정말 맛있었지요. 펑!",
+      "srcPage": 12,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "4067",
+      "srcText": "아빠가 풍선을 보고 말했어요. “소이야, 우리 걱정 풍선을 터뜨려 볼까?” 아빠가 김이 그려진 풍선을 펑 터뜨렸어요.",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "4063",
+      "srcText": " 모래성을 두고 집으로 가는 길에 나는 자꾸만 뒤를 돌아봤어요. “소이야, 왜 그래?” “엄마, 내가 만든 모래성을 누가 부수면 어떡해요?” “그럼 또 만들면 되지.”",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "4062",
+      "srcText": "엄마가 나를 데리러 온 날이었어요. “엄마, 이것 봐요. 모래에 물을 부어 꾹꾹 다지고 토닥토닥! 내가 만든 모래성이에요.” “우아, 멋지다!”",
+      "srcPage": 7,
+      "srcSentenceEA": 5,
+      "srcWordEA": 21,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "4065",
+      "srcText": "그날 밤, 나는 아무 걱정 없이 잠을 잤어요. 나는 걱정이 될 때마다 풍선을 꺼냈어요. “엄마, 더 크게 불어 주세요!” “아빠, 더 많이 불어 주세요!” ",
+      "srcPage": 11,
+      "srcSentenceEA": 4,
+      "srcWordEA": 25,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "4060",
+      "srcText": "내 이름은 소이예요. 나는 걱정이 너무 많아요. ‘이건 어떡하지? 저건 괜찮을까?’ 엄마가 요리를 하는데 갑자기 엄마가 걱정되기 시작했어요. “엄마, 조심하세요. 프라이팬이 너무 뜨겁잖아요. 난, 김 안 먹어도 돼요.” ",
+      "srcPage": 5,
+      "srcSentenceEA": 8,
+      "srcWordEA": 34,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

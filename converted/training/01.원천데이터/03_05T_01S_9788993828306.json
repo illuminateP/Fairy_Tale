@@ -1,0 +1,67 @@
+﻿{
+  "title": "아빠는 정말 대단해",
+  "author": "윤여름",
+  "illustrator": "박주희",
+  "isbn": "9788993828306",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "별똥별",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 6,
+  "paragraphInfo": [
+    {
+      "srcTextID": "16615",
+      "srcText": "“우리 아빠는 정말 대단해! 나에게 맛있는 나뭇잎을 따 주려고 목을 쭉 빼면, 얼마나 키가 크다고. 우리 아빠는 정말 대단해!”",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "16616",
+      "srcText": "“우리 아빠는 정말 대단해! 추울 때 뒤에서 나를 꼭 안아 주면, 아빠 품은 얼마나 넓고 따뜻하다고. 우리 아빠는 정말 대단해!”",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "16618",
+      "srcText": "나를 하늘만큼 높이 들어 올려 주고, 기다란 기차도 만들어 주고, 조개껍데기도 많이 모아 주고, 풍선도 크게 불어 주지. “우리 아빠는 나랑 얼마나 재미있게 놀아 준다고.” “우아, 정이 아빠 최고야. 정말 대단하다!”",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 32,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "16617",
+      "srcText": "친구들이 모여 아빠 자랑을 해요. \"우리 아빠도 정말 대단해. 있잖아, 그게 말이야.\"",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "16613",
+      "srcText": "“우리 아빠는 정말 대단해! 나랑 산책 갈 때 스윽스윽 기어가면 얼마나 길다고. 우리 아빠는 정말 대단해!”",
+      "srcPage": 1,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "16614",
+      "srcText": "“우리 아빠는 정말 대단해! 나에게 사과를 따 주려고 나무를 쿵 받으면 사과가 얼마나 많이 떨어진다고. 우리 아빠는 정말 대단해!”",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

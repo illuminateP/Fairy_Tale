@@ -1,0 +1,130 @@
+﻿{
+  "title": "개미와 베짱이",
+  "author": "이솝",
+  "illustrator": "최현묵",
+  "isbn": "9791128210389",
+  "readAge": "초등_저학년",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "classification": "의사소통",
+  "paragraphInfoCount": 13,
+  "paragraphInfo": [
+    {
+      "srcTextID": "42388",
+      "srcText": "“멋 내기 딱 좋은 날씨야.” 베짱이는 시원한 그늘에서 더듬이를 매만졌어. 찌릉 찌릉 베짱, 찌릉 찌릉 베짱.",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42389",
+      "srcText": "여름 “집 짓기 좋은 날씨네.” 개미들이 줄을 지어 모래알을 옮기고 있었어. 영차 영차, 영치기 영차.",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42397",
+      "srcText": "개미들은 베짱이를 따뜻한 난로 앞에 앉히고 뜨끈뜨끈한 수프를 내밀었어. 베짱이는 창피해서 얼굴을 들지 못했어. “베짱아, 다음 해에는 함께 옷도 만들고 집도 짓자.”",
+      "srcPage": 15,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42398",
+      "srcText": "그제야 베짱이는 맛난 수프를 호로록 먹었어. “이렇게 맛있는 수프는 정말 처음이야.” 기분이 좋아진 베짱이는 개미들을 위해 멋진 노래를 불렀어. 개미들과 베짱이는 그렇게 기나긴 겨울을 보냈지.",
+      "srcPage": 15,
+      "srcSentenceEA": 4,
+      "srcWordEA": 27,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42394",
+      "srcText": "영치기 영차, 영치기 영차. 개미들 집 안에는 겨우내 입을 따뜻한 옷과 배불리 먹을 맛있는 음식이 가득했어. 찌릉 찌릉 베짱, 찌릉 찌릉 베짱. 베짱이는 여전히 멋을 부리거나 노래를 부르며 기타만 쳐 댔지.",
+      "srcPage": 12,
+      "srcSentenceEA": 4,
+      "srcWordEA": 34,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42386",
+      "srcText": "봄 “일하기 딱 좋은 날씨네.” 개미들이 싱그러운 꽃잎과 나뭇잎을 모으고 있었어. 영차 영차, 영치기 영차.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42387",
+      "srcText": "영차. “꽃구경 하기 딱 좋은 날씨야.” 베짱이가 풀잎 위에 걸터앉아 콧노래를 불렀어. 찌릉 찌릉 베짱, 찌릉 찌릉 베짱.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42392",
+      "srcText": "“베짱아! 이제 곧 겨울인데 그때는 무얼 먹으려고 그러니?” 개미들은 노래 부르며 기타만 치는 베짱이가 한심했어. “치! 훌륭한 연주도 못 알아듣고.” 베짱이는 개미들을 비웃었지.",
+      "srcPage": 11,
+      "srcSentenceEA": 4,
+      "srcWordEA": 27,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42391",
+      "srcText": "“개미들아! 너희는 덥지도 않니?” 베짱이는 곳곳이 시원한 잠자리인데 땀을 뻘뻘 흘리며 집을 짓는 개미들이 어리석어 보였어. “베짱아! 겨울에 살 집을 만들어야지.” 개미들은 아무 걱정도 하지 않고 하루 종일 멋만 부리는 베짱이가 어리석어 보였어.",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 37,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42393",
+      "srcText": "“얘들아! 나랑 같이 꽃구경하자!” 베짱이는 여기저기에 흔한 꽃잎과 나뭇잎을 힘들게 모으는 개미들이 이상했어. “베짱아! 겨울에 입을 옷을 만들어야지.” 개미들은 아무 일도 하지 않고 하루 종일 빈둥거리는 베짱이가 이상했어.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 32,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42390",
+      "srcText": "겨울 “눈이 오잖아.” 개미들은 문을 꽁꽁 닫아걸었어. 개미들의 난로 위에는 맛있는 수프가 보글보글 끓고 있었어. 고소한 냄새가 굴뚝으로, 눈 속으로, 숲속으로 퍼졌어. “아이, 정말 춥다.” 베짱이는 갈 곳이 없어서 오들오들 떨고 있었지.",
+      "srcPage": 13,
+      "srcSentenceEA": 6,
+      "srcWordEA": 36,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42395",
+      "srcText": "“연주하기 딱 좋은 날씨야.” 베짱이는 낙엽 위에서 노래 부르며 띵까띵까 기타를 쳤어. 찌릉 찌릉 베짱, 찌릉 찌릉 베짱. ",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42396",
+      "srcText": "가을. “가을걷이 하기 좋은 날씨네.” 개미들이 서로서로 도우며 나무 열매를 옮기고 있었어. 영차 영차, 영치기 영차.",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

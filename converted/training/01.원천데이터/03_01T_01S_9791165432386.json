@@ -1,0 +1,40 @@
+﻿{
+  "title": "무엇이 될까?",
+  "author": "꼬두람이",
+  "illustrator": "꼬두람이",
+  "isbn": "9791165432386",
+  "readAge": "유아",
+  "publishedYear": 2021,
+  "publisher": "아람키즈",
+  "classification": "의사소통",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "7261",
+      "srcText": "길쭉길쭉 긴네모, 모여서 무엇이 될까? 길쭉길쭉 기차. 올록볼록 하트, 모여서 무엇이 될까? 올록볼록 하트 안경.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "7260",
+      "srcText": "반듯반듯 바른네모, 모여서 무엇이 될까? 반듯반듯 로봇. 동글동글 동그라미, 모여서 무엇이 될까? 동글동글 눈사람. 뾰족뾰족 세모, 모여서 무엇이 될까? 뾰족뾰족 여우 얼굴.",
+      "srcPage": 3,
+      "srcSentenceEA": 6,
+      "srcWordEA": 27,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "7262",
+      "srcText": "바른네모, 세모, 동그라미, 긴네모, 하트. 모여서 무엇이 될까? 예쁜 우리 집!",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

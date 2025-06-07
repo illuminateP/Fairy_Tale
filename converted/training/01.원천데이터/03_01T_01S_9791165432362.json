@@ -1,0 +1,31 @@
+﻿{
+  "title": "우아, 멋지다!",
+  "author": "꼬두람이",
+  "illustrator": "꼬두람이",
+  "isbn": "9791165432362",
+  "readAge": "유아",
+  "publishedYear": 2021,
+  "publisher": "아람키즈",
+  "classification": "의사소통",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "7987",
+      "srcText": "모두 멋지게 차려입고 모였어요. 이제부터 즐겁게 파티를 해요. 곰 한 마리가 고깔모자를 썼어요. “우아, 멋지다!” 악어 두 마리가 선글라스를 썼어요. “우아, 멋지다!” 펭귄 세 마리가 머리띠를 둘렀어요. “우아, 멋지다!”",
+      "srcPage": 3,
+      "srcSentenceEA": 8,
+      "srcWordEA": 33,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "7986",
+      "srcText": "뾰족뾰족 고깔모자 하나! 누가 쓸까요?  동글동글 선글라스 둘! 누가 쓸까요? 반짝반짝 머리띠 셋! 누가 두를까요? 펄럭펄럭 망토 넷! 누가 걸칠까요? 알록달록 리본 다섯! 누가 맬까요?",
+      "srcPage": 1,
+      "srcSentenceEA": 10,
+      "srcWordEA": 35,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

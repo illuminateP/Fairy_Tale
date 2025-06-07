@@ -1,0 +1,58 @@
+﻿{
+  "title": "내 맘대로 놀래요",
+  "author": "강민우",
+  "illustrator": "오승민",
+  "isbn": "9791165955069",
+  "readAge": "초등_저학년",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "classification": "사회관계",
+  "paragraphInfoCount": 5,
+  "paragraphInfo": [
+    {
+      "srcTextID": "4195",
+      "srcText": "어! 동생이 떼구루루 굴러가는 공을 잡으려고 달려가고 있어요. 공만 보면서 말이에요. 따르릉따르릉! 커다란 자전거가 달려와요. 동생이 위험해요. “왈왈 왈왈왈!” 나는 힘껏 소리쳐요.",
+      "srcPage": 11,
+      "srcSentenceEA": 7,
+      "srcWordEA": 28,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "4193",
+      "srcText": "난 동생을 지키기 위해 동생 뒤를 졸졸 따라다녀요. 종일 말썽 부리는 동생 때문에 마음이 조마조마해요. 하루는 낮잠을 자려고 하는데, 동생이 소파에 올라가는 거예요.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 25,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "4198",
+      "srcText": "공이 위험한 데로 굴러가면 그 자리에 딱 멈춰요. 미끄럼틀을 탈 때는 사이좋게 차례차례. 장난꾸러기 내 동생. 이제는 안전하게 잘 놀아요.",
+      "srcPage": 14,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "4194",
+      "srcText": "그러고는 주먹을 불끈, 한쪽 팔을 쭉 뻗더니! “번개맨!” 동생이 진짜 번개맨처럼 소파에서 뛰어내리려고 하지 뭐예요. “왈왈 왈왈왈!” 나는 바람처럼 날아올라 동생을 껴안아요.",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "4177",
+      "srcText": "나에겐 동생이 있어요. 내 동생은 엄청난 장난꾸러기예요. 벽에 쓱쓱 싹싹 낙서하고, 장난감도 이리저리 휙휙 던져 버려요.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

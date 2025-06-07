@@ -1,0 +1,101 @@
+﻿{
+  "title": "엉덩이가 심심해",
+  "author": "정미리",
+  "illustrator": "구보람",
+  "isbn": "9791165950071",
+  "publishedYear": 2020,
+  "publisher": "아람",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "14888",
+      "srcText": "심심해, 심심해. 엉덩이가 심심해. 내 엉덩이에 꼬리가 있으면 좋겠어.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 11,
+      "character": "엉덩이,꼬리",
+      "setting": null,
+      "action": null,
+      "feeling": "심심해",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "엉덩이에 무엇이 있으면 좋겠다고 생각했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "꼬리 ",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "14889",
+      "srcText": "심심해, 심심해. 엉덩이가 심심해. 고릴라는 꼬리가 진짜 없어서 뭉실뭉실 솜사탕 꼬리를 달았지. 하지만 소나기가 쏴아 쏴아 내리지 뭐야. 솜사탕 꼬리가 폭삭 녹아 버렸어.",
+      "srcPage": 12,
+      "srcSentenceEA": 5,
+      "srcWordEA": 27,
+      "character": "고릴라,솜사탕,소나기",
+      "setting": null,
+      "action": "달았지",
+      "feeling": "심심해",
+      "causalRelationship": null,
+      "outcomeResolution": "솜사탕 꼬리가 폭삭 녹아 버렸어.",
+      "prediction": "솜사탕 꼬리를 달았지.",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "꼬리가 진짜 없는 동물은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "고릴라",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "엉덩이는 어떤 느낌이 드나요?",
+          "queType": 4,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "심심해",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "소나기 때문에 고릴라의 솜사탕 꼬리는 어떻게 되었나요?",
+          "queType": 6,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "솜사탕 꼬리가 폭삭 녹아 버렸어.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

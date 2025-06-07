@@ -1,0 +1,42 @@
+﻿{
+  "title": "산호는 식물일까 동물일까? ",
+  "author": "김영이",
+  "illustrator": "김경아",
+  "isbn": "9788960162815",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "52005",
+      "srcText": "넓고 푸른 바다에는 누가 살까? 물고기도 살지만 꽃처럼 예쁜 산호도 있어. 산호는 모양도 예쁘고 하는 짓도 착해. 물고기들을 꼭꼭 숨겨주고 갯민숭달팽이의 알도 지켜줘.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 26,
+      "character": "바다,산호,물고기,갯민숭달팽이",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "물고기들을 꼭꼭 숨겨주고 갯민숭달팽이의 알도 지켜줘.",
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "모양도 예쁘고 하는 짓도 착하며 바다에 살고 있는 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "산호",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

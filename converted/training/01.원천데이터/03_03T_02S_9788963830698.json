@@ -1,0 +1,67 @@
+﻿{
+  "title": "눈이 내린 다음 날",
+  "author": "타카바타케 준",
+  "illustrator": "타카바타케 준",
+  "isbn": "9788963830698",
+  "readAge": "초등_저학년",
+  "publishedYear": 2010,
+  "publisher": "별똥별",
+  "classification": "사회관계",
+  "paragraphInfoCount": 6,
+  "paragraphInfo": [
+    {
+      "srcTextID": "43749",
+      "srcText": "둘이 걷다가 또 눈덩이를 보았어. 누굴까? 코끼리가 세게 훅! 불자, 잠자는 낙타가 나왔어. 낙타도 코끼리와 펭귄을 따라 걸었지.",
+      "srcPage": 7,
+      "srcSentenceEA": 5,
+      "srcWordEA": 22,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "43753",
+      "srcText": "한참을 걷다가 정말 이상한 눈덩이를 보았어. 이번엔 누굴까? 코끼리가 훅! 불자, 딱딱, 딱따구리가 나왔어. 아직 누가 더 있을까? 코끼리가 있는 힘껏 후욱! 불었어. 아하, 아무도 없었구나!",
+      "srcPage": 15,
+      "srcSentenceEA": 8,
+      "srcWordEA": 33,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "43751",
+      "srcText": "넷이 걷다가 또 커다란 눈덩이를 보았어. 누굴까? 코끼리가 더 세게 훅! 불자, 펠리컨이 나왔어. 펠리컨도 코끼리와 펭귄과 낙타와 고릴라를 따라 걸었지.",
+      "srcPage": 11,
+      "srcSentenceEA": 5,
+      "srcWordEA": 25,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "43752",
+      "srcText": "모두 걷다가 이상한 눈덩이를 보았어. 누굴까? 코끼리가 더 세게 훅! 불자, 와, 사자랑 표범이 나왔어. 사자와 표범도 코끼리와 펭귄과 낙타와 고릴라와 펠리컨을 따라 걸었지.",
+      "srcPage": 13,
+      "srcSentenceEA": 5,
+      "srcWordEA": 28,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "43748",
+      "srcText": "눈 내린 다음 날이었어. 눈길을 걷던 코끼리가 눈덩이를 보았지. 궁금한 코끼리가 눈덩이를 훅! 불자, 펭귄이 나왔어. 펭귄은 코끼리를 따라 걸었지.",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "43750",
+      "srcText": "셋이 걷다가 커다란 눈덩이를 보았어. 누굴까? 코끼리가 더 세게 훅! 불자, 영차영차 고릴라가 나왔어. 고릴라도 코끼리와 펭귄과 낙타를 따라 걸었지.",
+      "srcPage": 9,
+      "srcSentenceEA": 5,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

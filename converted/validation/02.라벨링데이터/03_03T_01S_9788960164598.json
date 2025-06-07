@@ -1,0 +1,42 @@
+﻿{
+  "title": "두더지 부부의 사위 찾기",
+  "author": "정유리",
+  "illustrator": "김태란",
+  "isbn": "9788960164598",
+  "publishedYear": 2011,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "46841",
+      "srcText": "땅속 깊은 굴에 두더지 부부가 살았어. 딸이 결혼할 때가 되자 두더지 부부는 머리를 맞대고 고민했지. \"세상에서 제일 훌륭한 신랑을 얻어 줘야 할 텐데.......\" 아빠 두더지가 조심스레 말했어. \"해는 어때? 세상을 밝게 비춰 주잖아.\" 엄마 두더지가 맞장구를 쳤지. \"오호! 좋은 생각이에요.\"",
+      "srcPage": 2,
+      "srcSentenceEA": 8,
+      "srcWordEA": 45,
+      "character": "두더지 부부,아빠 두더지,엄마 두더지,머리,신랑",
+      "setting": null,
+      "action": "말했어,살았어,맞대고 고민했지",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "아빠 두더지가 조심스럽게 말한 신랑감은 누구였나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "해",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

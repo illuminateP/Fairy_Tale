@@ -1,0 +1,22 @@
+﻿{
+  "title": "고기는 싫어, 싫어! ",
+  "author": "김영이",
+  "illustrator": "민미",
+  "isbn": "9788960163058",
+  "readAge": "유아",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51708",
+      "srcText": "숲속, 멋진 찻집에서 조랑말과 여우가 커피를 마시고 있었어요. 여우가 말했어요. “내일 우리 집에서 저녁 먹자. 내가 한턱낼게.” “좋아.”",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+﻿{
+  "title": "최고의 선물, 돈으로 살 수 있을까요?",
+  "author": "양혜원",
+  "illustrator": "이경석",
+  "isbn": "9791165436254",
+  "readAge": "초등_고학년",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "classification": "사회관계",
+  "paragraphInfoCount": 12,
+  "paragraphInfo": [
+    {
+      "srcTextID": "40749",
+      "srcText": "서준이가 눈을 동그랗게 떴어요. 엄마가 지갑을 내밀며 말했어요. “서준이가 아무 데나 두었던 돈을 엄마가 챙겨서 지갑에 모아 둔 거야. 돈을 이렇게 모아 두면 다음에도 찾기 쉽지.” 엄마! 고맙습니다.",
+      "srcPage": 13,
+      "srcSentenceEA": 6,
+      "srcWordEA": 32,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "40742",
+      "srcText": "“엄마, 유치원에 새 친구가 왔어요. 그 친구랑 빨리 친해지고 싶어요. 선물 좀 사 주세요.” “서준이가 그동안 받았던 돈 있잖아. 그 돈으로 사는 게 어때?” “내 돈이요?” ",
+      "srcPage": 5,
+      "srcSentenceEA": 6,
+      "srcWordEA": 29,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "40743",
+      "srcText": "서준이는 지후랑 빨리 친해지고 싶었어요. ‘지후가 무얼 좋아할까?’ 집에 온 서준이는 엄마에게 말했어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "40751",
+      "srcText": "엄마가 안방에서 무언가를 들고나왔어요. 서준이는 울먹이며 물었지요. “그게 뭐예요?” 엄마 손에는 슈퍼히어로 지갑이 있었어요. ",
+      "srcPage": 12,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "40741",
+      "srcText": "서준이네 유치원에 새 친구가 왔어요. “친구 이름은 지후예요. 모두 사이좋게 지내요.” 선생님이 새 친구를 소개했어요. ",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "40750",
+      "srcText": "“돈을 찾을 수가 없잖아! 정말 돈이 하나도 없어!” 서준이는 속상해서 울음이 터졌어요. ",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "40746",
+      "srcText": "“엄마, 고마워요! 이제 이 돈으로 친구 선물 살래요!” 서준이는 지갑을 열어 보았어요. “서준아, 그런데 최고의 선물은 따로 있단다.” ",
+      "srcPage": 14,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "40747",
+      "srcText": "서준이는 궁금했어요. “최고의 선물이 뭐예요? 돈으로 살 수 있어요?” 지후가 히어로 카드를 좋아할까? 히어로 카드 하나 주세요! 여기 있다!",
+      "srcPage": 14,
+      "srcSentenceEA": 6,
+      "srcWordEA": 23,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "40745",
+      "srcText": "엄마가 가까이 다가와 물었어요. “돈이 다 어디로 갔을까?” “서준아, 돈을 아무 데나 두면 지금처럼 돈이 필요할 때 찾을 수가 없어.”",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "40744",
+      "srcText": "서준이는 돈을 찾으러 방으로 갔어요. 침대 밑에도, 장난감 상자 안에도, 책상 서랍에도 돈은 없었어요. “어, 다 어디 갔지?” 서준이는 곰곰이 생각해 보았지요.",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "40752",
+      "srcText": "“최고의 선물은 꼭 돈으로 살 수 있는 건 아니야. 너의 마음을 표현한다면 그게 최고의 선물이란다. 어떻게 너의 마음을 표현할 수 있을지 잘 생각해 봐.”",
+      "srcPage": 15,
+      "srcSentenceEA": 3,
+      "srcWordEA": 26,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "40748",
+      "srcText": "서준이는 곰곰이 생각했어요. ‘내 마음을 표현할 수 있는 방법이 무얼까?’ 그리고 무언가 떠올랐어요. ",
+      "srcPage": 16,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

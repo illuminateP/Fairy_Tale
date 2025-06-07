@@ -1,0 +1,42 @@
+﻿{
+  "title": "물방울 삼총사의 모험",
+  "author": "유가은",
+  "illustrator": "문구선",
+  "isbn": "9791128211539",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48425",
+      "srcText": "하늘 나라 구름성에 사는 물방울들은 모험을 좋아해. 그 가운데 튼튼이, 동글이, 날씬이 삼총사는 가장 모험심이 강한 대장 물방울들이었지. “삐용 삐용!” 구름성에 큰 소리로 알람이 울리기 시작했어. “모험을 떠날 물방울들은 지금 당장 모여라!”",
+      "srcPage": 4,
+      "srcSentenceEA": 5,
+      "srcWordEA": 34,
+      "character": "물방울들,튼튼이,동글이,날씬이,삼총사",
+      "setting": "하늘 나라 구름성",
+      "action": "알람이 울리기 시작했어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "물방울들은 어디에 사나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "하늘나라 구름 성",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

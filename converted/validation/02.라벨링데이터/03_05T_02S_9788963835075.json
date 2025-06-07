@@ -1,0 +1,56 @@
+﻿{
+  "title": "이를까? 말까?",
+  "author": "신연미",
+  "illustrator": "박수정",
+  "isbn": "9788963835075",
+  "publishedYear": 2016,
+  "publisher": "별똥별",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51149",
+      "srcText": "혜성이는 언제나 바빠요. 뭐든지 엄마한테 달려가 미주알고주알 이르거든요. 맛있는 밥을 먹을 때도 엄마한테 이르느라 정신이 없어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18,
+      "character": "혜성이,엄마",
+      "setting": null,
+      "action": "달려가,일르거든요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "언제나 바쁜 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "혜성이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "해성이가 바쁜 이유는 무엇인가요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "뭐든지 엄마한테 달려가 미주알고주알 이르거든요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

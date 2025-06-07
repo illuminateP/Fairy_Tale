@@ -1,0 +1,22 @@
+﻿{
+  "title": "아기 동물들",
+  "author": "마리아 베어,소냐 발라프",
+  "illustrator": "춤추는코끼리",
+  "isbn": "9788993828672",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "별똥별",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "6765",
+      "srcText": "뒹굴뒹굴 살금살금 심심한 아기 사자. 아작아작 어흥어흥 용감한 아기 호랑이. 모두 모두 건강하고 씩씩하게 자라렴.",
+      "srcPage": 15,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

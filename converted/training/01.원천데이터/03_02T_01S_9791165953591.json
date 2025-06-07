@@ -1,0 +1,112 @@
+﻿{
+  "title": "여기는 방귀 도서관",
+  "author": "장선혜",
+  "illustrator": "조옥경",
+  "isbn": "9791165953591",
+  "readAge": "유아",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 11,
+  "paragraphInfo": [
+    {
+      "srcTextID": "41253",
+      "srcText": "도서관에서 친구들과 함께 속담 책을 읽고 있을 때였어. 푸시식, 푸식! 누군가 방귀를 뀌었어. 방귀 냄새가 지독하게 나는데, 아무도 방귀를 뀌지 않았대. “난 아닌데.” “앗, 누구야?” “나도 아니야.”",
+      "srcPage": 5,
+      "srcSentenceEA": 7,
+      "srcWordEA": 30,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "41244",
+      "srcText": "한바탕 방귀 소동이 지나가고 다시 책을 읽으려고 하는데, 푸식, 푸식! 또 방귀 소리가 들렸어. 어? 이번에는 누가 방귀를 뀌었지? “얘들아, 선생님이 뀌었어. 여기는 방귀 도서관, 나는 방귀 선생님!” ",
+      "srcPage": 9,
+      "srcSentenceEA": 6,
+      "srcWordEA": 32,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "41252",
+      "srcText": "이제 좀 조용해졌나 싶은 그때, 뿌웅뿡! 아이코! 나도 방귀를 뀌고 말았어! 엄청 큰 소리가 나서 모두들 깜짝 놀랐지.",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "41245",
+      "srcText": "“뽕! 뿡! 방귀 소리가 왜 나는지 궁금하지? 그건 몸속에서 생긴 가스가 항문으로 한꺼번에 나오면서 그 주변의 피부가 떨리기 때문이란다. 이때 재미있는 소리가 나는 거야.” “그러면 방귀는 왜 뀌는 거예요?” “우리가 음식을 먹을 때, 입으로 들어간 공기와 몸속의 가스가 섞여서 방귀를 뀌게 되는 거야.”",
+      "srcPage": 10,
+      "srcSentenceEA": 6,
+      "srcWordEA": 47,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "41250",
+      "srcText": "바로 그때였어. “선생님, 그럼 저 밖에 나갔다 올게요.” 라라가 도서관을 나가려다가 뽀옹, 뽕! “하하, 여기는 방귀 도서관이 맞네!” 라라의 방귀 소리에 모두들 웃음을 터뜨렸어.",
+      "srcPage": 14,
+      "srcSentenceEA": 5,
+      "srcWordEA": 26,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "41243",
+      "srcText": "뽀오옹 뽕, 뿌우웅 뿡! 예지가 계속해서 방귀를 뀌었어. 저러다가 똥이 나오면 어떡하지? 갑자기 예지가 벌떡 일어나 화장실로 뛰어갔어. 뽕 뿌우웅 뿡 아유, 배야. 화장실 가야겠어.",
+      "srcPage": 7,
+      "srcSentenceEA": 6,
+      "srcWordEA": 30,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "41246",
+      "srcText": "“선생님, 동물들도 방귀를 뀌어요?” “그럼! 동물들도 방귀를 뀌지. 물고기도 방귀를 뀌는걸?”",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "41247",
+      "srcText": "“우아, 진짜요?” “청어는 방귀 소리로 대화를 나누기도 해.” 잘 따라오고 있지? 응! 잘 따라가고 있어!",
+      "srcPage": 11,
+      "srcSentenceEA": 5,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "41251",
+      "srcText": "바로 그때였어. 뿡, 뿡, 뿡! 내 옆에 앉은 예지가 방귀를 뀌었어. “미안해, 나야. 하지만 내 방귀는 냄새가 안 나.”",
+      "srcPage": 6,
+      "srcSentenceEA": 5,
+      "srcWordEA": 22,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "41249",
+      "srcText": "“지구에 해로운 방귀를 뀌는 동물도 있어. 메탄가스를 많이 내뿜어서 지구의 온도를 높이거든.” “그게 누군데요?” “바로 젖소야. 젖소는 트림을 하고, 방귀를 뀔 때마다 메탄가스를 엄청나게 내뿜어. 그래서 에스토니아에서는 소를 키우는 사람에게 방귀세를 받기도 해.” 방귀세를 내세요!",
+      "srcPage": 12,
+      "srcSentenceEA": 7,
+      "srcWordEA": 39,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "41248",
+      "srcText": "“방귀가 지구를 힘들게 한다면, 저는 방귀를 참을래요!” “방귀를 참으면 몸속에 가스가 차서 해롭기 때문에 뀌어야 해.” “그럼 아무 데서나 뿡뿡 뀌어도 돼요?” “아니. 여러 사람이 모이거나 문이 닫혀 있는 곳에서는 조심해야 돼. 화장실에 가거나 밖으로 나가서 뀌는 게 예의야.”",
+      "srcPage": 13,
+      "srcSentenceEA": 5,
+      "srcWordEA": 41,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

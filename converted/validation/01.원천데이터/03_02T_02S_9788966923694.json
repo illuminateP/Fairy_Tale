@@ -1,0 +1,58 @@
+﻿{
+  "title": "이다음에 내가 커서",
+  "author": "하늘땅",
+  "illustrator": "노성빈",
+  "isbn": "9788966923694",
+  "readAge": "초등_저학년",
+  "publishedYear": 2012,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 5,
+  "paragraphInfo": [
+    {
+      "srcTextID": "5286",
+      "srcText": "“나는 밥 먹는 게 세상에서 제일 싫어요!” “그럼 제일 하고 싶은 건 뭔데?” “예쁜 드레스를 입고 결혼하고 싶어요!”",
+      "srcPage": 2,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "5292",
+      "srcText": "“나는 레이스가 긴 드레스를 입고, 꽃도 들 거예요.” “엄마가 들었던 꽃다발 같은 거?” “아니, 아니. 나는 꽃을 많이 들 거예요.” “야, 많다! 꽃이 많아서 마음에 쏙 들어요.”",
+      "srcPage": 5,
+      "srcSentenceEA": 6,
+      "srcWordEA": 29,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "5294",
+      "srcText": "“나는 레이스가 긴 드레스를 입고, 꽃도 많이 들고, 왕자님과 결혼할 거예요.” “어떤 왕자님? 아빠처럼 멋진 왕자님?” “아니, 아니. 키가 큰 왕자님요.” “우아, 키가 큰 왕자님이 마음에 쏙 들어요.”",
+      "srcPage": 9,
+      "srcSentenceEA": 6,
+      "srcWordEA": 30,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "5295",
+      "srcText": "“아, 빨리 결혼하고 싶다.” “지금은 너무 작아서 결혼할 수 없단다.” “어떻게 하면 빨리 클 수 있어요?” “밥을 많이 먹어야지!” “이만큼요?” “아니, 이만큼 많이 먹어야지!”",
+      "srcPage": 9,
+      "srcSentenceEA": 5,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "5291",
+      "srcText": "“예쁜 드레스? 그럼 엄마의 드레스는 어때?”“와, 길다! 마음에 쏙 드는 드레스예요.” “아니, 아니. 나는 레이스가 긴 드레스를 입을 거예요.”",
+      "srcPage": 3,
+      "srcSentenceEA": 6,
+      "srcWordEA": 23,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

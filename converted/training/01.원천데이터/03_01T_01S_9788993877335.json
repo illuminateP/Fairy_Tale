@@ -1,0 +1,40 @@
+﻿{
+  "title": "키작은 딸기",
+  "author": "아이글터",
+  "illustrator": "Zuni",
+  "isbn": "9788993877335",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "어깨동무",
+  "classification": "의사소통",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "13955",
+      "srcText": "\"야호\" 딸기는 신나게 놀이기구를 탈 수 있었답니다. 싫어 싫어. \"내 모자 내놔!\"",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "13853",
+      "srcText": "키가 아주 작은 딸기가 있었어요. 딸기는 높은 곳에 있는 물건을 내리지 못하고 씽씽 철봉 놀이도 못했어요. 딸기는 친구들과 놀이동산에 놀러 갔어요.",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "13854",
+      "srcText": "하지만 키가 작아서 빙글빙글 놀이기구를 탈 수 없었지요. 딸기는 몰래 파인애플과 모자를 바꾸어 썼어요. \"잠깐만 모자 좀 빌려줘.\"",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

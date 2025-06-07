@@ -1,0 +1,31 @@
+﻿{
+  "title": "뚱땅뚱땅 냄비로",
+  "author": "신연미",
+  "illustrator": "반정원",
+  "isbn": "9788993828061",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "별똥별",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "16454",
+      "srcText": "냄비랑 놀면 정말정말 재미있어. 나처럼 해 봐. 쏘옥! 공을 넣어 봐. 어때? 재미있지?",
+      "srcPage": 2,
+      "srcSentenceEA": 6,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "16455",
+      "srcText": "뚱땅뚱땅 두드려 봐. 어때? 재미있지? 두둥실, 띄워 봐. 어때? 재미있지? 딴딴딴 딴! 행진해 봐. 어때? 재미있지? 그리고,",
+      "srcPage": 6,
+      "srcSentenceEA": 11,
+      "srcWordEA": 27,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

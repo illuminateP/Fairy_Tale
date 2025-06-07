@@ -1,0 +1,85 @@
+﻿{
+  "title": "트랙터의 일기",
+  "author": "소라게",
+  "illustrator": "조우영",
+  "isbn": "9791165953461",
+  "readAge": "유아",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 8,
+  "paragraphInfo": [
+    {
+      "srcTextID": "41230",
+      "srcText": "오늘은 논 정리를 하는 날! 나는 오랜만에 곤포기를 연결해서 일을 해. 곤포기는 청소기처럼 볏짚을 쭉쭉 빨아들이지. 통을 열면 동그랗게 말린 볏짚단이 짠! 봐도 봐도 정말 신기해.",
+      "srcPage": 11,
+      "srcSentenceEA": 5,
+      "srcWordEA": 30,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "41223",
+      "srcText": "오늘 아주머니는 이앙기를 타고 벼의 새싹인 모를 심는 모내기를 해. 이앙기가 지나가면 논에 모가 쏙쏙 심어지지. 내 친구 이앙기야, 너는 정말 멋져!",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "41228",
+      "srcText": "벌써 여름이야! 조그맣던 모가 어느새 훌쩍 자라 있어. 벼가 더 잘 자라려면, 해로운 벌레와 잡초를 없애 줘야 해. 아주머니는 잡초를 뽑고, 드론을 이용해 벌레 없애는 약을 뿌리느라 바쁘고, 나는 짐을 싣고 다니느라 바빠.",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 36,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "41225",
+      "srcText": "나는 힘세고 일 잘하는 트랙터. 나는 농사가 참 좋아. 농사는 쌀, 콩 등의 곡식과 채소를 기르는 일이야. 한 해 농사는 쟁기질을 하면서 시작돼. 무거운 쟁기를 끌고 둘둘 둘둘 땅을 갈지.",
+      "srcPage": 1,
+      "srcSentenceEA": 5,
+      "srcWordEA": 34,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "41226",
+      "srcText": "쟁기, 논밭을 가는 농기구야. 농작물을 심으려면 단단한 땅을 갈아 주어야 해. 쟁기질을 하면 아래에 있던 흙이 위로 올라와 고루고루 섞여.",
+      "srcPage": 1,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "41224",
+      "srcText": " “트랙터야, 네 덕에 올해 농사가 아주 잘됐단다.” 아주머니가 칭찬해 주어서 기분이 좋아. 하지만 나 혼자 농사지은 건 아니야. 이앙기와 콤바인 같은 친구들이 있어서 올해 농사를 잘 마칠 수 있었어.",
+      "srcPage": 13,
+      "srcSentenceEA": 4,
+      "srcWordEA": 32,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "41227",
+      "srcText": "오늘은 로터베이터를 연결해서 일을 해. 물을 댄 흙 위로 내가 지나가면, 로터베이터가 흙을 잘게 부수고 땅을 평평하게 고르지. “네 덕에 올해 농사도 잘되겠어.” 아주머니 말씀에 기운이 불끈불끈 솟아.",
+      "srcPage": 2,
+      "srcSentenceEA": 4,
+      "srcWordEA": 30,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "41229",
+      "srcText": "콤바인아, 오랜만이야! 내 친구 콤바인이 일 년 만에 창고에서 나와 기지개를 켜. 콤바인은 힘차게 일을 시작해. 노랗게 익은 벼를 삭삭, 잘도 수확하네.",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 25,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

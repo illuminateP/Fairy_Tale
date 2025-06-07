@@ -1,0 +1,49 @@
+﻿{
+  "title": "흉내쟁이 흉내쟁이",
+  "author": "마도코로 히사코",
+  "illustrator": "후유노 이치코",
+  "isbn": "9788997300655",
+  "readAge": "초등_저학년",
+  "publishedYear": 2016,
+  "publisher": "(주)푸름이닷컴",
+  "classification": "의사소통",
+  "paragraphInfoCount": 4,
+  "paragraphInfo": [
+    {
+      "srcTextID": "9949",
+      "srcText": "두 팔을 내밀어 콩콩콩 쿵쿵쿵! 흉내쟁이 흉내쟁이 해달 흉내! 흉내쟁이 흉내쟁이 무엇일까요? 동그랗게 웅크리고 야옹! 꿈틀꿈틀 스르르! 긁적긁적 촐랑촐랑! 고양이! 뱀! 원숭이! 흉내쟁이 흉내쟁이 소풍 가는 오리들! 푸덕푸덕 퍼덕퍼덕 꽥꽥 꽥꽥꽥 꽤액 꽥!",
+      "srcPage": 11,
+      "srcSentenceEA": 11,
+      "srcWordEA": 43,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "9947",
+      "srcText": "흉내쟁이 흉내쟁이 플라밍고 흉내! 두 팔을 활짝 올려 푸드덕푸드덕, 비틀비틀! 흉내쟁이 흉내쟁이 개구리 흉내! 두 발을 높이 뛰어 개굴개굴 폴짝!",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "9948",
+      "srcText": "흉내쟁이 흉내쟁이 가위 손 짝짝짝, 게 흉내! 흉내쟁이 흉내쟁이 느릿느릿 엉금엉금, 거북이 흉내! 흉내쟁이 흉내쟁이 캥거루 흉내! 주머니에 새끼를 넣고 껑충껑충 풀쩍!",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 25,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "9946",
+      "srcText": "흉내쟁이 흉내쟁이 코끼리 흉내! 긴 팔을 내려서 흔들흔들! 흉내쟁이 흉내쟁이 토끼 흉내! 두 팔을 쫙 펴고 깡충깡충!",
+      "srcPage": 3,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

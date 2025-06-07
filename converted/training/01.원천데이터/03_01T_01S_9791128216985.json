@@ -1,0 +1,22 @@
+﻿{
+  "title": "고소한 달",
+  "author": "우은경",
+  "illustrator": "박정은",
+  "isbn": "9791128216985",
+  "readAge": "유아",
+  "publishedYear": 2019,
+  "publisher": "아람북스",
+  "classification": "의사소통",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "2017",
+      "srcText": "다람쥐는 도토리 달을 먹어요.'냠냠, 맛있다.' '음, 달은 정말 고소해.' 다람쥐가 웃어요. 달도 따라 방긋 웃어요.",
+      "srcPage": 15,
+      "srcSentenceEA": 5,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

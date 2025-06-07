@@ -1,0 +1,42 @@
+﻿{
+  "title": "우리는 한 가족이잖아",
+  "author": "권영상",
+  "illustrator": "전병준",
+  "isbn": "8990591244",
+  "publishedYear": 2003,
+  "publisher": "생각의샘",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51819",
+      "srcText": "“감자 두 개.” 엄마는 장바구니에 감자 두 개를 담습니다. “자, 당근 한 개.” 당근도 한 개 담습니다.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19,
+      "character": "감자,당근,엄마",
+      "setting": null,
+      "action": "담습니다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "엄마는 무엇을 한 개 담았나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "당근",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

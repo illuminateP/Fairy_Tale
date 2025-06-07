@@ -1,0 +1,94 @@
+﻿{
+  "title": "팔짝팔짝 참새, 싹싹 파리",
+  "author": "이현정",
+  "illustrator": "유인경",
+  "isbn": "9788960164383",
+  "readAge": "유아",
+  "publishedYear": 2011,
+  "publisher": "세종",
+  "classification": "사회관계",
+  "paragraphInfoCount": 9,
+  "paragraphInfo": [
+    {
+      "srcTextID": "45196",
+      "srcText": "그러자 임금님이 버럭 화를 냈어. \"이놈! 사람들이 힘들게 지은 농사를 망치다니! 너는 상은커녕 찰싹찰싹 회초리좀 맞아야겠다!\"",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "45197",
+      "srcText": "참새는 팔짝팔짝 뛰며 말했어. \"아야! 저만 잘못한 게 아니에요! 파리는 사람들 밥을 꾹꾹 밟는다고요!\" 그러자 파리가 싹싹 빌며 말했어. \"아이고, 임금님 다신 안 그럴게요!\"",
+      "srcPage": 6,
+      "srcSentenceEA": 5,
+      "srcWordEA": 27,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "45190",
+      "srcText": "이번엔 비둘기가 구구구 말했어. \"저는 사람들에게 말동무가 되어 주었지요.\" \"참 기특한지고. 너에게 모이와 둥지를 주마!\"",
+      "srcPage": 3,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "45191",
+      "srcText": "이번엔 지릿지릿 지지리 종다리가 나섰지. \"저는 노래를 부르며 농부들에게 농사지을 때를 알렸지요.\" \"오호라, 너에게 더 예쁜 목소리를 주마!\"",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "45192",
+      "srcText": "이번엔 부엉이 차례가 되었지. \"저는 밤에 사람들이 길을 잃을까 봐 부엉부엉 울어 길을 찾게 했어요.\" \"장하구나. 너에게 똘망똘망한 눈을 주마!\"",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "45193",
+      "srcText": "이번엔 수탉이 쭈뼛쭈뼛 나와 말했어. \"꼬끼오, 꼬꼬! 저는 아침에 사람들을 깨워 주었어요.\" \"기특한지고! 너에게 빨간 왕관을 주마!\"",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "45189",
+      "srcText": "까마득한 옛이야기인데 들어 볼래? 어느 날, 하늘나라 임금님이 착한 일을 한 새들에게 상을 주기로 했데. 먼저 까치가 나서며 말했어. \"저는 반가운 소식이 있으면 사람들에게 깍깍 미리 알렸어요.\" \" 옳거니! 너에게 어울리는 하얀 띠를 주마!\" 임금님이 웃으며 말했지.",
+      "srcPage": 2,
+      "srcSentenceEA": 7,
+      "srcWordEA": 41,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "45194",
+      "srcText": "이번엔 뒤뚱뒤뚱 거위가 나왔지. \"저는 도둑이 오면 꽥꽥 내쫓았지요.\" \"오호라, 너에게 귀한 구슬을 주마!\" 그러자 거위의 부리에 예쁜 구슬이 달렸어.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "45195",
+      "srcText": "이번엔 참새가 짹짹거리며 나왔지. \"짹짹, 저에게는 더 큰 상을 주세요! 사람들이 농사를 잘 지었나 낟알을 콕콕 까먹어 보았거든요.\"",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

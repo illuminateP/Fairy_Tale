@@ -1,0 +1,103 @@
+﻿{
+  "title": "사랑하면? ",
+  "author": "우와조아",
+  "illustrator": "김미나",
+  "isbn": "9788964170205",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "어깨동무",
+  "classification": "예술경험",
+  "paragraphInfoCount": 10,
+  "paragraphInfo": [
+    {
+      "srcTextID": "17863",
+      "srcText": "그 후, 마술사는 노래를 흥얼거리며 다녔어요. \"나는 너를 사랑해.\" 골목마다 웃음소리가 어우러졌고요. \"나는 너를 사랑해.\" 만나는 사람마다 서로 아껴주었지요.",
+      "srcPage": 12,
+      "srcSentenceEA": 5,
+      "srcWordEA": 21,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "17859",
+      "srcText": "\"아하, 그렇구나! 그럼! 또 무엇을 할까?\" 동네마다 표지판을 세우고 사람들을 만났어요. \"웃고 싶은 사람은 여기로 오시오.\"",
+      "srcPage": 9,
+      "srcSentenceEA": 5,
+      "srcWordEA": 19,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "17860",
+      "srcText": "\"짜증 나는 사람도 여기로 오시오.\" 사람들은 고개를 갸우뚱거리며 몰려들었어요. \"정말이요?\" \"진짜로 웃게 해주는 거요?\"",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "17855",
+      "srcText": "미안! 정말 미안해! 마술사는 점점 신이 났어요. 가는 곳마다 웃음꽃이 피어났거든요. 음! 무슨 말을 했을까요? 음음! 어떤 행동을 했을까요? \"나는 너를 사랑해.\"",
+      "srcPage": 5,
+      "srcSentenceEA": 8,
+      "srcWordEA": 29,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "17861",
+      "srcText": "\"저는 현아하고 짝꿍하고 싶어요.\" \"그렇다면 '속닥속닥' 알겠지?\" \"아저씨, 저는 재미있게 놀고 싶어요.\" \"오! 그래? '수군수군' 되겠지?\" 아이든 어른이든 척척 해결방법을 가르쳐 주었지요.",
+      "srcPage": 10,
+      "srcSentenceEA": 6,
+      "srcWordEA": 26,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "17853",
+      "srcText": "짜잔! 무엇이든 척척! 마술사가 나타났어요. 이 동네 저 동네를 돌아다녔지요. \"이런, 꽃이 시들었군.\" \"소곤소곤\" 활짝! 활짝!",
+      "srcPage": 2,
+      "srcSentenceEA": 6,
+      "srcWordEA": 21,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "17854",
+      "srcText": "갑자기 싸우는 아이들의 목소리가 들려왔어요. \"저런, 저런! 얼른 가 봐야겠다!\" 쌩하니 달려가서 아이들에게 이러쿵저러쿵! 무슨 말을 했을까요? \"나는 너를 사랑해.\"",
+      "srcPage": 3,
+      "srcSentenceEA": 6,
+      "srcWordEA": 23,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "17862",
+      "srcText": "마술사 아저씨는 어떤 말을 해 주었을까요? 후후, 현아에게 껌을 주라고요? 오! 춤추고 노래하라고요? 또 무슨 말을 해 주었을까요?",
+      "srcPage": 11,
+      "srcSentenceEA": 5,
+      "srcWordEA": 22,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "17857",
+      "srcText": "방긋방긋! 싱글벙글! 그런데 마술사의 표정이 시무룩해졌어요. \"이제 나에게 사랑이 없어졌을 거야. 너무 많이 사용했거든.\"",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "17858",
+      "srcText": "하지만 요정이 살짝 귀띔을 해주었지요. \"걱정하지 마세요. 사랑은 주는 만큼 생기는 거예요.\"",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

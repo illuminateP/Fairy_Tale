@@ -1,0 +1,85 @@
+﻿{
+  "title": "나무를 지켜라!",
+  "author": "우은경",
+  "illustrator": "손성희",
+  "isbn": "9791165951573",
+  "readAge": "유아",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 8,
+  "paragraphInfo": [
+    {
+      "srcTextID": "40949",
+      "srcText": "새 연필과 새 종이를 계속 만들려면 나무 한 그루, 두 그루, 세 그루. 많은 나무가 필요해요. 그래서 나무를 자르고, 자르고, 자꾸자꾸 잘라 내야 해요.",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 26,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "40944",
+      "srcText": "교실 바닥에는 가위로 마구 잘라 낸 색종이가 이리저리 뒹굴어요. 솔이는 다 쓰지도 않은 종이를 북북 찢어 쓰레기통에 버려요. 그러고는 새 종이를 또 뜯어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 25,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "40943",
+      "srcText": "투둑투둑! 텅 빈 숲에 많은 비가 내리면 갈라진 땅에 물이 흘러넘쳐요. 세차게 흐르는 물줄기는 흙까지 휩쓸고 가요. 흙을 꼭 쥐고 물을 빨아들이는 나무가 없으니까요.",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 27,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "40948",
+      "srcText": "책상 아래로 떨어진 연필 한 자루가 또르르 굴러가요. “연필이 없어졌네? 다른 연필을 써야겠다.” 새봄이는 연필을 잃어버려도 찾지 않아요.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "40947",
+      "srcText": "연필 한 자루가 툭 떨어져 또르르 굴러가요. 새봄이는 굴러간 연필을 얼른 주워요. 솔이도 이제는 종이를 북북 찢지 않고 종이 한가득 예쁜 그림을 그려요.",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 25,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "40946",
+      "srcText": "콸콸콸, 콸콸콸! 물이 계속계속 넘쳐흘러요. 엄청나게 불어난 물은 마을로 흘러들어요. 홍수를 막아 주는 숲이 없으니까요. ",
+      "srcPage": 13,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "40945",
+      "srcText": "숲이 텅 비면 땅이 쩍쩍 갈라지면서 점점 사막처럼 변해요. 땅에 영양분과 물을 주는 나무가 없으니까요. 텅 빈 숲에 큰 바람이 불면 뿌연 흙먼지가 일어나요. 흙먼지를 걸러 주는 나무가 없으니까요.",
+      "srcPage": 11,
+      "srcSentenceEA": 4,
+      "srcWordEA": 32,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "40942",
+      "srcText": "그렇게 나무를 자르다 보면 조금씩 조금씩 숲이 사라져요. 만약 숲이 사라지면 이렇게 아름다운 숲에 사는. 곤충들이 사라지고, 곤충들을 먹고 살아가는 동물들도 사라져요.",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

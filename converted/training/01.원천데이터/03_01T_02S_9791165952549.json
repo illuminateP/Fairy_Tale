@@ -1,0 +1,31 @@
+﻿{
+  "title": "돼지들의 체조",
+  "author": "쿠와자와 유코",
+  "illustrator": "쿠와자와 유코",
+  "isbn": "9791165952549",
+  "readAge": "초등_저학년",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "classification": "의사소통",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "4292",
+      "srcText": "우리는 아기 돼지 삼 형제. 매일 아침 사이좋게 체조를 하지요. 킁킁, 큰 코로 숨을 들이쉬고. 크으응.",
+      "srcPage": 2,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "4293",
+      "srcText": "천천히 숨을 내뱉어요. 허리도 쭉쭉! 펴고, 쭈욱! 쭈욱! 한쪽 다리로 서서. 콩콩 콩. 하늘을 향해 팔도 뻗어 보고. 쑥쑥 쑤우욱.",
+      "srcPage": 6,
+      "srcSentenceEA": 8,
+      "srcWordEA": 27,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

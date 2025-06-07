@@ -1,0 +1,40 @@
+﻿{
+  "title": "함께 놀자!",
+  "author": "꼬두람이",
+  "illustrator": "꼬두람이",
+  "isbn": "9791165432423",
+  "readAge": "유아",
+  "publishedYear": 2021,
+  "publisher": "아람키즈",
+  "classification": "의사소통",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "7419",
+      "srcText": "혼자 비눗방울을 부는 것보다 친구와 함께 하면 더 재미나요. “헤헤! 재미있다!” 혼자 그네를 타는 것보다 친구와 함께 하면 더 재미나요. “우아, 신난다!” 혼자 공놀이하는 것보다 친구와 함께 하면 더 재미나요. “내가 던질게! 자, 받아!”",
+      "srcPage": 8,
+      "srcSentenceEA": 7,
+      "srcWordEA": 38,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "7438",
+      "srcText": "때때로 다툴 때도 있어요. “흥!” “나 혼자 놀 거야!” 하지만 역시 친구와 함께 노는 게 더 재미있어요. “칙칙폭폭! 어디로 갈까요?”",
+      "srcPage": 11,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "7418",
+      "srcText": "혼자 소꿉놀이하는 것보다 친구와 함께 하면 더 재미나요. “나는 엄마 할게.” “나는 아빠 할게.”",
+      "srcPage": 2,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

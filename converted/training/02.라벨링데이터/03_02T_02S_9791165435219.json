@@ -1,0 +1,42 @@
+﻿{
+  "title": "내 몸은 내가 지켜",
+  "author": "하늘땅",
+  "illustrator": "국지승",
+  "isbn": "9791165435219",
+  "publishedYear": 2022,
+  "publisher": "아람키즈",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "1192",
+      "srcText": "오호, 공룡이 나타났어!  무섭게 달려들어 볼까?  다다다닥, 스르륵. 너희야? 놀랐잖아. 안녕? 우리야,우리!",
+      "srcPage": 16,
+      "srcSentenceEA": 7,
+      "srcWordEA": 20,
+      "character": "공룡,너희,우리",
+      "setting": null,
+      "action": "나타났어,달려들어",
+      "feeling": "무섭게,놀랐잖아",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "무엇이 나타났나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "공룡",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

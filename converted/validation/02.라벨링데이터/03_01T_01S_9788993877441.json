@@ -1,0 +1,149 @@
+﻿{
+  "title": "말썽꾸러기 고래 밍크",
+  "author": "아이글터",
+  "illustrator": "Zuni",
+  "isbn": "9788993877441",
+  "publishedYear": 2009,
+  "publisher": "어깨동무",
+  "paragraphInfoCount": 4,
+  "paragraphInfo": [
+    {
+      "srcTextID": "15923",
+      "srcText": "\"글쎄, 잘 모르겠는데.\" 물고기 아주머니가 말씀하셨어요. 밍크는 여기저기 찾아보았지만 어디에도 엄마는 없었어요. 밍크는 눈물을 흘리며 엄마를 불렀어요. \"엄마\" 그때 돌고래가 다가와 말했어요.",
+      "srcPage": 2,
+      "srcSentenceEA": 5,
+      "srcWordEA": 26,
+      "character": "물고기 아주머니,밍크,엄마,돌고래",
+      "setting": null,
+      "action": "말씀하셨어요,찾아보았지만,불렀어요,다가와,말했어요",
+      "feeling": "눈물을 흘리며",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "밍크는 누구를 찾고 있을까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엄마",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "15922",
+      "srcText": "아기 고래 밍크는 개구쟁이예요. 여기저기 돌아다니며 말썽을 부렸지요. 그러던 어느 날, 엄마가 보이지 않았어요. \"저희 엄마가 어디 계시는지 아세요?\" 밍크는 물고기 아주머니께 물어보았어요.",
+      "srcPage": 1,
+      "srcSentenceEA": 5,
+      "srcWordEA": 26,
+      "character": "밍크,엄마,물고기 아주머니",
+      "setting": null,
+      "action": "돌아다니며,물어보았어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "개구쟁이는 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "밍크",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "14381",
+      "srcText": "한참을 헤엄쳐 간 후, 밍크는 엄마를 찾을 수 있었어요. 엄마 고래는 밍크가 말을 잘 듣게 잠시 숨었던 거랍니다. \"엄마, 이제 말썽부리지 않고, 말 잘 들을게요.\"",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 26,
+      "character": "밍크,엄마",
+      "setting": null,
+      "action": "헤엄쳐,숨었던",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "한참을 헤엄쳐 밍크는 누구를 찾을 수 있었을까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엄마",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "14380",
+      "srcText": "\"너희 엄마가 이쪽으로 지나가시는 걸 봤어. 날 따라와.\" 돌고래가 친절하게 길을 알려주었어요. 밍크와 돌고래는 산호와 바위 사이를 지나 헤엄쳐 갔어요.",
+      "srcPage": 3,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23,
+      "character": "엄마,돌고래,밍크,길,산호,바위",
+      "setting": null,
+      "action": "지나가시는,봤어,따라와,알려주었어요,헤엄쳐 갔어요",
+      "feeling": "친절하게",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "밍크에게 친절하게 길을 알려준 건 누구일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "돌고래",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "돌고래와 밍크는 엄마가 지나간 것 같은 길을 어떻게 갔나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "산호와 바위 사이를 지나 헤엄쳐 갔어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

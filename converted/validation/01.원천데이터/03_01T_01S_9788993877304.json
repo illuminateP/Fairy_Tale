@@ -1,0 +1,22 @@
+﻿{
+  "title": "무엇을 타고 여행을 갈까요?",
+  "author": "아이글터",
+  "illustrator": "Zuni",
+  "isbn": "9788993877304",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "어깨동무",
+  "classification": "의사소통",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "14307",
+      "srcText": "뛰뛰빵빵 자동차를 타고 여행갈까요? 아니면 부릉부릉 트럭을 타고 갈까요? 부우웅 비행기를 타고 하늘을 날아가면 어때요?",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

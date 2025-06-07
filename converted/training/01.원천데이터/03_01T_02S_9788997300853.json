@@ -1,0 +1,76 @@
+﻿{
+  "title": "우리 동네로 놀러 오세요",
+  "author": "타카노 노리코",
+  "illustrator": "타카노 노리코",
+  "isbn": "9788997300853",
+  "readAge": "초등_저학년",
+  "publishedYear": 2021,
+  "publisher": "(주)푸른이닷컴",
+  "classification": "의사소통",
+  "paragraphInfoCount": 7,
+  "paragraphInfo": [
+    {
+      "srcTextID": "4791",
+      "srcText": "꽃 말고도 많은 것들을 팔아요. 건너편 파파네 집은 빵 가게를 해요. 가게 밖까지 고소한 빵 냄새가 솔솔 풍기지요. 나는 다 좋아해요! ",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "4794",
+      "srcText": "미미네 집은 잡화점을 해요. 이것저것 뭐든지 다 있어요. 가게 안에는 온갖 종류의 물건들로 가득해요. 이것뿐만이 아니에요. 지하 창고를 보면 더 깜짝 놀랄걸요! ",
+      "srcPage": 12,
+      "srcSentenceEA": 5,
+      "srcWordEA": 26,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "4795",
+      "srcText": "그다음에는 어떤 가게를 둘러볼까요? 자, 이번에는 아주 특별한 가게를 소개할게요! 이곳은 우리들의 가게예요. ",
+      "srcPage": 15,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "4796",
+      "srcText": "들판 가게에서 팔고 있는 것들이에요. 이야기 속에 나왔던 물건들이에요. 어느 가게에 있었는지 알아맞혀 보세요! ",
+      "srcPage": 15,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "4797",
+      "srcText": "우리 모두가 주인인 ‘들판 가게’랍니다. 자, 여러분들을 기다릴게요. 모두들 꼭 놀러 오세요! ",
+      "srcPage": 15,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "4793",
+      "srcText": "“아니, 이게 뭐지?” “아저씨, 죄송합니다!” 가구점 앞은 채소 가게랍니다. 내 친구 레레의 집이지요. 가게 안에는 여러 가지 채소와 과일이 있어요. \"아저씨, 고맙습니다!\" ",
+      "srcPage": 9,
+      "srcSentenceEA": 6,
+      "srcWordEA": 25,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "4792",
+      "srcText": "파파의 아빠가 맛있는 빵을 만들고 계시네요. “여기 들어오려면 손발을 깨끗이 씻어야 한단다!” 빵 가게 모퉁이를 돌아가면 가구점이 있어요. ",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

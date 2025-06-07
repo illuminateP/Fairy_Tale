@@ -1,0 +1,22 @@
+﻿{
+  "title": "동글동글 이건 뭘까?",
+  "author": "이산나",
+  "illustrator": "조연정",
+  "isbn": "9788993828252",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "별똥별",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "16592",
+      "srcText": "흐음, 이건 뭘까? 바로바로, 과일 바구니. 냠냠 맛있게 먹어요.",
+      "srcPage": 16,
+      "srcSentenceEA": 3,
+      "srcWordEA": 11,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

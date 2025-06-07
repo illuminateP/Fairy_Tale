@@ -1,0 +1,49 @@
+﻿{
+  "title": "칙칙폭폭 기차 여행",
+  "author": "윤민혜",
+  "illustrator": "조수진",
+  "isbn": "9788963830056",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "별똥별",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 4,
+  "paragraphInfo": [
+    {
+      "srcTextID": "16633",
+      "srcText": "“야호, 다 왔다! 할아버지 할머니,안녕하세요!” 치익치익 뿌뿌!",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 9,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "16631",
+      "srcText": "기차는 철길을 따라, 칙칙폭폭 뿌뿌! 건널목을 지나, 덜컹덜컹 뿌뿌! 언덕을 올라가요. 철커덩철커덩 뿌뿌!",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "16632",
+      "srcText": "깜깜한 터널도 지나고, 철컹철컹 뿌뿌! 다리도 건너가요. 포옥포옥 뿌뿌!",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 11,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "16630",
+      "srcText": "화창한 봄날, 토끼 가족이 기차를 기다려요. “야호, 신난다!” 토끼 가족이 깡충 기차를 탔어요. 치익이칙 뿌뿌!",
+      "srcPage": 2,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

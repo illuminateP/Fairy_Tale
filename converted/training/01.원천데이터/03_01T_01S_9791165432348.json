@@ -1,0 +1,58 @@
+﻿{
+  "title": "과일이 주렁주렁",
+  "author": "꼬두람이",
+  "illustrator": "꼬두람이",
+  "isbn": "9791165432348",
+  "readAge": "유아",
+  "publishedYear": 2021,
+  "publisher": "아람키즈",
+  "classification": "의사소통",
+  "paragraphInfoCount": 5,
+  "paragraphInfo": [
+    {
+      "srcTextID": "7053",
+      "srcText": "포도나무에 포도가 주렁주렁! “포도 좀 줄까?” “네, 고마워요!” 탱글탱글 포도 맛있겠다.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 12,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "7054",
+      "srcText": "수박밭에 수박이 주렁주렁! “수박 좀 줄까?” “아, 너무 무거워요! 어떡하지?” “우리가 도와줄게.” “모두 함께 과일 파티를 하러 가자!”",
+      "srcPage": 6,
+      "srcSentenceEA": 6,
+      "srcWordEA": 19,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "7051",
+      "srcText": "바나나 줄기에 바나나가 주렁주렁! “바나나 좀 줄까?” “네, 고마워요!” 말랑말랑 바나나 맛있겠다.",
+      "srcPage": 2,
+      "srcSentenceEA": 4,
+      "srcWordEA": 13,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "7052",
+      "srcText": "딸기밭에 딸기가 주렁주렁! “딸기 좀 줄까?” “네, 고마워요!” 새콤달콤 딸기 맛있겠다.",
+      "srcPage": 3,
+      "srcSentenceEA": 4,
+      "srcWordEA": 12,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "7050",
+      "srcText": "사과나무에 사과가 주렁주렁! “사과 좀 줄까?” “네, 고마워요!” 사각사각 사과 맛있겠다.",
+      "srcPage": 1,
+      "srcSentenceEA": 4,
+      "srcWordEA": 12,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

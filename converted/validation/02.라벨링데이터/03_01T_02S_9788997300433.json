@@ -1,0 +1,104 @@
+﻿{
+  "title": "치카치카",
+  "author": "이시하라 킨",
+  "illustrator": "이시하라 킨",
+  "isbn": "9788997300433",
+  "publishedYear": 2016,
+  "publisher": "(주)푸름이닷컴",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "8341",
+      "srcText": "‘코오~’ 하고 입을 벌리고 윗니 아랫니 쓱싹쓱싹! 돼지야 돼지야, 너는 어떻게 이를 닦니? ‘꾸울~’ 하고 입을 벌리고 윗 니 아랫니 쓱싹쓱싹!",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 25,
+      "character": "입,윗니,아랫니,돼지",
+      "setting": null,
+      "action": "입을 벌리고,닦니",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "'꾸울~' 하고 이를 닦는 동물은 누구일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "돼지",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "8340",
+      "srcText": "하마야 하마야, 너는 어떻게 이를닦니? ‘하마’ 하고 입을 벌리고 윗니 아랫니 쓱싹쓱싹! 코끼리야 코끼리야, 너는 어       떻게 이를 닦니?",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 28,
+      "character": "하마,이,입,윗니,아랫니,코끼리",
+      "setting": null,
+      "action": "닦니,벌리고",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "입을 벌리고 이를 닦고 있는 동물은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "하마",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "8342",
+      "srcText": "그럼 나는 어떻게 닦을까? ‘아’ 하고 입을 벌리고 치카치카 쓱쓱  ‘이’ 하고 입술을 벌려 치카치카 쓱쓱 반짝반짝 기분 좋은 이 닦기!",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 25,
+      "character": "입,입술",
+      "setting": null,
+      "action": "닦을까,입을 벌리고",
+      "feeling": "기분 좋은",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "'아' 하고 무엇을 벌리고 이를 닦아야 할까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "입",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

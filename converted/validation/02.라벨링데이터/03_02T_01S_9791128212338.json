@@ -1,0 +1,56 @@
+﻿{
+  "title": "뚝이 뚝이 모두 모여라!",
+  "author": "유미나",
+  "illustrator": "박수지",
+  "isbn": "9791128212338",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "2395",
+      "srcText": "고무뚝이는 신이 나서 높이높이 통통. 유리뚝이는 겁이 나서 제자리에서 벌벌. “깨질지도 몰라. 나는 나는 안 할래.” 통통 퉁퉁 뜀뛰기 놀이!",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 23,
+      "character": "고무뚝이,유리뚝이",
+      "setting": null,
+      "action": "안 할래,높이높이,벌벌",
+      "feeling": "신이 나서,겁이 나서",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "신이 나서 높이 통통 뛰는 것은?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "고무뚝이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "고무뚝이는 뜀뛰기 놀이를 왜 높이높이 통통 했나요?",
+          "queType": 4,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "신이 나서",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

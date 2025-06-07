@@ -1,0 +1,40 @@
+﻿{
+  "title": "초원의 말",
+  "author": "낸시 윌슨 홀",
+  "illustrator": "춤추는코끼리",
+  "isbn": "9788993828702",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "별똥별",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "7934",
+      "srcText": "따가닥따가닥 달리기도 잘하지요. 말은 다리가 길쭉길쭉하고, 튼튼해요. 따가닥따가닥 달리면 풀 풀 갈기가 휘날려요.",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "7933",
+      "srcText": "작은 소리에도 깜짝깜짝 놀라는 망아지예요. 망아지는 언제나 엄마를 쫄랑쫄랑 따라다녀요. 망아지가 쑥쑥 자라 어른 말이 되면 힘도 아주 세져요.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "7935",
+      "srcText": "푸르르푸르르! 말은 힘차게 달릴 때 가장 멋져요. 말은 옹기종기 여럿이 있는 것을 좋아해요. 초원에서 오물오물 풀을 먹는 것도 좋아하지요.",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

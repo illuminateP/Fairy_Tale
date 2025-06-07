@@ -1,0 +1,49 @@
+﻿{
+  "title": "차곡차곡 착착!",
+  "author": "홍지연",
+  "illustrator": "장현경",
+  "isbn": "9788993828153",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "별똥별",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 4,
+  "paragraphInfo": [
+    {
+      "srcTextID": "16717",
+      "srcText": "소희야, 네 물건들을 하나도 못 찾겠지? 모두모두 제자리에 정리해 보자.  찾았다! 내 양말. 찾았다! 내 장갑. 우아, 소희 방이 깨끗해졌어요.",
+      "srcPage": 8,
+      "srcSentenceEA": 7,
+      "srcWordEA": 27,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "17134",
+      "srcText": "소희가 집에 돌아오면, 신발도 휙, 양말도 휙, 장갑도 휙휙휙! 소희가 놀고 나면, 책도 휙, 크레용도 휙, 블록도 휙휙휙! 엉망진창 뒤죽박죽되어요.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "17135",
+      "srcText": "소희야, 시장 가자. 엄마, 내 양말 한 짝이 없어요. 그럼 한 짝만 신고 가야겠네.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "16715",
+      "srcText": "엄마, 내 장갑 한 짝도 없어요. 그럼 한 짝만 끼고 가야겠네. 모두 어디로 간 거야? 찾을 수가 없잖아.",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

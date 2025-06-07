@@ -1,0 +1,94 @@
+﻿{
+  "title": "엉망진창 마녀요리",
+  "author": "마음상자",
+  "illustrator": "이지현",
+  "isbn": "9788992910859",
+  "readAge": "초등_고학년",
+  "publishedYear": 2009,
+  "publisher": "글도깨비",
+  "classification": "사회관계",
+  "paragraphInfoCount": 9,
+  "paragraphInfo": [
+    {
+      "srcTextID": "14672",
+      "srcText": "\"우와, 맛있겠다. 다 같이 맛을 보자!\" 마녀들은 각자 접시에 음식을 덜었어요.",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "14673",
+      "srcText": "\"이게 무슨 맛이람?\" \"처음 먹어보는 맛이야!\" 마녀들은 깜짝 놀랐어요.",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 10,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "14671",
+      "srcText": "\"고추, 양파, 매콤한 마늘 사세요.\" 매콤한 맛을 구하기로 한 뚜뚜의 귀가 확 커졌어요. \"달콤한 설탕, 새콤한 식초, 매콤한 마늘 사세요.\" 삐삐와 끼끼와 뚜뚜의 귀가 모두 확 커졌어요.",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 29,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "14669",
+      "srcText": "\"그래그래, 어디로 갈까?\" \"시장으로 가보자. 모두 빗자루로 타고 출발!\" 셋은 하늘을 날아서 시장으로 갔어요.",
+      "srcPage": 3,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "17594",
+      "srcText": "달콤한 설탕은 삐삐가, 새콤한 식초는 끼끼가, 매콤한 마늘은 뚜뚜가 샀어요. 원하는 물건을 산 마녀들은 즐거운 마음으로 집에 돌아왔어요. 구해온 것들을 쏟아 붓고, 요리를 시작했어요. 부글부글, 보글보글! 마녀들은 휘휘 저었어요.",
+      "srcPage": 10,
+      "srcSentenceEA": 5,
+      "srcWordEA": 33,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "14670",
+      "srcText": "\"빵, 쿠키, 달콤한 사탕 사세요!\" 단맛을 구하기로 한 삐삐의 귀가 확 커졌어요. \"파인애플, 오렌지, 새콤한 레몬 사세요!\" 신맛을 구하기로 한 끼끼의 귀가 확 커졌어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 26,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "17595",
+      "srcText": "마녀들은 깜짝 놀랐어요. 음식은 달지도, 시지도, 맵지도 않았어요. 마녀들의 요리는 실패로 끝났답니다.",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "14667",
+      "srcText": "\"나는 달콤한 맛을 가져올게.\" 삐삐가 말헀어요. \"그럼 난 신맛을 가져올게.\" \"내가 매콤한 맛을 찾아오지 뭐.\" 끼끼와 뚜뚜도 말했어요.",
+      "srcPage": 2,
+      "srcSentenceEA": 5,
+      "srcWordEA": 20,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "14668",
+      "srcText": "요리를 좋아하는 마녀 셋이 한 집에 살았어요. 삐삐, 끼끼, 뚜뚜였지요. 셋은 맛있는 요리를 하고 싶었어요.",
+      "srcPage": 2,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

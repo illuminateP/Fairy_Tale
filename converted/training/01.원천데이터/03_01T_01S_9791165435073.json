@@ -1,0 +1,76 @@
+﻿{
+  "title": "아기 얼룩말은 행복해요",
+  "author": "제다 로바드",
+  "illustrator": "제다 로바드",
+  "isbn": "9791165435073",
+  "readAge": "유아",
+  "publishedYear": 2022,
+  "publisher": "아람키즈",
+  "classification": "의사소통",
+  "paragraphInfoCount": 7,
+  "paragraphInfo": [
+    {
+      "srcTextID": "29075",
+      "srcText": "\"아기 얼룩말아, 네 장난감 기차들을 내가 모두 챙겼어.\" \"사자야, 고마워!\" \"아기 얼룩말아, 나랑 함께 책 읽자.\" \"생쥐야, 고마워!\"",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "29073",
+      "srcText": "기린이 꽃을 심고 있었어요. \"기린아, 내가 도와줄게.\" \"아기 얼룩말아, 고마워! 키가 커서 꽃을 심기 힘들었는데.\"",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "29076",
+      "srcText": "비가 주룩주룩 내려요. 하지만 아기 얼룩말은 무척 행복해요. 친절한 친구들이 있으니까요.",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "29074",
+      "srcText": "해가 구름 뒤로 쏙 숨더니, 빗방울이 토도독토도독! \"어? 비가 오네.\" \"아기 얼룩말아, 나랑 우산 같이 쓰자.\" \"기린아, 고마워!\"",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "29072",
+      "srcText": "사자가 놀러 왔어요. \"사자야, 내 장난감 기차 빌려줄게.\" \"아기 얼룩말아, 고마워! 나 기차 정말 좋아하는데.\"",
+      "srcPage": 3,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "29070",
+      "srcText": "\"생쥐야, 내가 도와줄게.\" \"아기 얼룩말아, 고마워! 책이 닿지 않아서 힘들었는데.\"",
+      "srcPage": 2,
+      "srcSentenceEA": 3,
+      "srcWordEA": 11,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "29071",
+      "srcText": "해가 쨍쨍 맑은 날이에요. 아기 얼룩말은 행복해요. 생쥐가 책장 높이 있는 책을 꺼내려 애쓰고 있었어요.",
+      "srcPage": 2,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

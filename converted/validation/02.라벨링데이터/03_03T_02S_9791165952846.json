@@ -1,0 +1,56 @@
+﻿{
+  "title": "되돌려 가게",
+  "author": "고희동",
+  "illustrator": "이정민",
+  "isbn": "9791165952846",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47312",
+      "srcText": "사람은 누구나 후회를 하며 살아요. ‘아까 내가 왜 그랬지?’ ‘그러지 말걸.’ 이렇게 생각하는 것이 바로 후회를 한다는 거예요. 이런 생각을 하는 사람들이 ‘되돌려 가게’에 찾아오지요. 앗, 가게 문을 열자마자 손님이 왔네요. “어서 오세요, 되돌려 가게입니다.”",
+      "srcPage": 5,
+      "srcSentenceEA": 8,
+      "srcWordEA": 41,
+      "character": "사람,가게 문,손님",
+      "setting": "되돌려 가게",
+      "action": "살아요,찾아오지요,왔네요",
+      "feeling": "후회를 하며",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "되돌려 가게 문을 열자마자 누가 찾아왔나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "손님",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "후회를 하는 사람들은 어디에 찾아오나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "되돌려 가게",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

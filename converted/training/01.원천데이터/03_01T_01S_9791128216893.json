@@ -1,0 +1,94 @@
+﻿{
+  "title": "그림에서 찾아봐",
+  "author": "고영이",
+  "illustrator": "안재선",
+  "isbn": "9791128216893",
+  "readAge": "유아",
+  "publishedYear": 2019,
+  "publisher": "아람북스",
+  "classification": "의사소통",
+  "paragraphInfoCount": 9,
+  "paragraphInfo": [
+    {
+      "srcTextID": "2248",
+      "srcText": "ㅍ으로 시작되는 이름을 찾아봐. 구멍을 막으며 입으로 부는 악기인데, 찾았니? ㅎ으로 시작되는 이름을 찾아봐. 노랗고 둥그런 채소란다.",
+      "srcPage": 17,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "2247",
+      "srcText": "ㅋ으로 시작되는 이름을 찾아봐. 물을 담을 때 필요한 거야. 찾았니? ㅌ으로 시작되는 이름을 찾아봐. 그것 위에 여러 가지 물건을 올려놓을 수 있지. ",
+      "srcPage": 15,
+      "srcSentenceEA": 5,
+      "srcWordEA": 26,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "2246",
+      "srcText": "ㅈ으로 시작되는 이름을 찾아봐. 음식을 담을 때 필요한 거야. ㅊ으로 시작되는 이름을 찾아봐. 그것 위에서 편안하게 잠잘 수 있지.",
+      "srcPage": 13,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "2242",
+      "srcText": "그림에서 ㄱ으로 시작되는 이름을 찾아봐. 멍멍 짖는 동물인데, 찾았니? ㄴ으로 시작되는 이름을 찾아봐. 산과 거리에서 볼 수 있어. 찾았니?",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 23,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "2245",
+      "srcText": "ㅅ으로 시작되는 이름을 찾아봐. 얼굴을 잘 살펴보렴. ㅇ으로 시작되는 이름을 찾아봐. 앉을 때 필요한 건데, 찾았니?",
+      "srcPage": 11,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "2243",
+      "srcText": "ㄷ으로 시작되는 이름을 찾아봐. 꿀꿀 소리를 내는 동물인데, 찾았니? ㄹ로 시작되는 이름을 찾아봐. 신발을 자세히 보면 알 수 있어.",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "2250",
+      "srcText": "ㅃ으로 시작되는 이름을 찾아봐. 부드럽고 말랑한 음식인데, 찾았니? ㅆ으로 시작되는 이름을 찾아봐. 똑같이 생긴 두 아기를 보면 알 수 있을 거야. 모두 모두 그림에서 찾을 수 있어.",
+      "srcPage": 21,
+      "srcSentenceEA": 5,
+      "srcWordEA": 31,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "2244",
+      "srcText": "ㅁ으로 시작되는 이름을 찾아봐. 히힝 우는 동물인데, 찾았니? ㅂ으로 시작되는 이름을 찾아봐. 길쭉한 과일인데, 찾았니?",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "2249",
+      "srcText": "ㄲ으로 시작되는 이름을 찾아봐. 작고 귀여운 새인데, 찾았니? ㄸ으로 시작되는 이름을 찾아봐. 그것은 달콤하고 상큼해.",
+      "srcPage": 19,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

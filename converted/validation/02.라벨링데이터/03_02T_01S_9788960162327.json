@@ -1,0 +1,42 @@
+﻿{
+  "title": "동물 나라의 천둥 이야기 ",
+  "author": "김영이",
+  "illustrator": "김수영",
+  "isbn": "9788960162327",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51975",
+      "srcText": "이야기를 다 듣고 난 원숭이가 웃으며 말했어요. “하하하! 그건 비구름 속에서 아주 센 전류가 흘러나와 서로 부딪혀서 나는 소리야.” 전류는 높은 곳의 물이 낮은 곳으로 흐르듯 전압의 차이에 의해 전기가 흘러요. 전기가 흐르지 않으면 전류는 0이에요.",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 39,
+      "character": "원숭이",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "그건 비구름 속에서 아주 센 전류가 흘러나와 서로 부딪혀서 나는 소리야.",
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "이야기를 다 듣고 나서 웃으며 말한 동물은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "원숭이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+﻿{
+  "title": "바다는 신나요",
+  "author": "꼬두람이",
+  "illustrator": "꼬두람이",
+  "isbn": "9791165432416",
+  "readAge": "유아",
+  "publishedYear": 2021,
+  "publisher": "아람키즈",
+  "classification": "의사소통",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "7395",
+      "srcText": "할머니와 동동이가 물놀이를 해요. “할머니, 저 좀 보세요!” 할아버지와 동동이가 모래찜질을 해요. “할아버지, 모래 속이 정말 따뜻해요!”",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "7394",
+      "srcText": "동동이네 가족이 바닷가에 놀러 왔어요. “우아, 신난다!” 바다에서 동동이는 무얼 하고 놀까요? 엄마와 동동이가 선크림을 발라요. “엄마, 나 혼자 바를 수 있어요!” 얼굴에도 싹싹! 다리에도 싹싹!",
+      "srcPage": 2,
+      "srcSentenceEA": 7,
+      "srcWordEA": 30,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "7396",
+      "srcText": "이제 집에 갈 시간이에요. 어! 멍멍이가 어디 갔을까요? “아하! 멍멍이 여기 있었네. 이제 집에 가자!” “멍멍! 멍멍!”",
+      "srcPage": 6,
+      "srcSentenceEA": 6,
+      "srcWordEA": 22,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

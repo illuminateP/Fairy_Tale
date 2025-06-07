@@ -1,0 +1,40 @@
+﻿{
+  "title": "올망졸망 샌드위치",
+  "author": "후유노 이치코",
+  "illustrator": "후유노 이치코",
+  "isbn": "9791165435844",
+  "readAge": "유아",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "classification": "의사소통",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "3251",
+      "srcText": "마지막으로 폭신폭신 식빵도 쓰윽! 어? 모두 어디 갔지? 반으로 자르면 짠! 식빵 사이에 올망졸망 모여 있어. “자, 샌드위치 먹을 친구 여기여기 모여라!”",
+      "srcPage": 10,
+      "srcSentenceEA": 6,
+      "srcWordEA": 26,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "3249",
+      "srcText": "노란 버터를 사사삭 삭삭! “모두모두 모여라!” 초록 양상추가 후다닥! 노랑 코 달걀프라이도 뒤뚱뒤뚱!",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 15,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "3250",
+      "srcText": "빨강 토마토도 때굴때굴 때구루루! 오이 형제도 통 토동 통 통 통! 분홍 햄이랑 노랑 치즈도 폴짝폴짝 포올짝! ",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

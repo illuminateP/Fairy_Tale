@@ -1,0 +1,56 @@
+﻿{
+  "title": "우렁이 각시",
+  "author": "꾸러기 글방",
+  "illustrator": "김영란",
+  "isbn": "9788960164765",
+  "publishedYear": 2011,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "49421",
+      "srcText": "그러자 또다시 목소리가 들렸어. \"호호호, 당신 각시는 여기 있지요.\" 총각이 소리 나는 쪽으로 다가가자 커다란 우렁이 한 마리가 있지 뭐야. '무슨 우렁이가 이리도 크담.' 총각은 우렁이를 집으로 가져와 물이 담긴 항아리 속에 넣어 두었어.",
+      "srcPage": 3,
+      "srcSentenceEA": 5,
+      "srcWordEA": 36,
+      "character": "우렁이,집,각시,총각,항아리",
+      "setting": null,
+      "action": "다가가자,가져와,넣어 두었어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": " 총각이 소리 나는 쪽으로 다가가자 무엇이 있었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "우렁이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "총각은 우렁이를 집으로 가져와 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "물이 담긴 항아리 속에 넣어 두었어.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

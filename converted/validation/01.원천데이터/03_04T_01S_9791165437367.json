@@ -1,0 +1,49 @@
+﻿{
+  "title": "친구야, 함께 놀자",
+  "author": "꼬두람이",
+  "illustrator": "꼬두람이",
+  "isbn": "9791165437367",
+  "readAge": "유아",
+  "publishedYear": 2023,
+  "publisher": "아람키즈",
+  "classification": "예술경험",
+  "paragraphInfoCount": 4,
+  "paragraphInfo": [
+    {
+      "srcTextID": "7392",
+      "srcText": "우린 그림자놀이 해. 손으로 동물을 만들면 참 멋져. 친구야, 우리랑 함께 놀자! ",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "7391",
+      "srcText": "우린 썰매를 타. 주르르 타면 참 신나. 친구야, 우리랑 함께 놀자!",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "7390",
+      "srcText": "우린 소꿉놀이해. 꽃이랑 열매로 꾸미면 참 예뻐. 친구야, 우리랑 함께 놀자! 우린 춤을 춰. 손잡고 빙빙 돌면 참 행복해. 친구야, 우리랑 함께 놀자!",
+      "srcPage": 3,
+      "srcSentenceEA": 6,
+      "srcWordEA": 28,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "7389",
+      "srcText": "우린 숨바꼭질해. 꼭꼭 숨으면 참 재미나. 친구야, 우리랑 함께 놀자! 우린 모래놀이해. 모래를 폭폭 푸면 참 즐거워. 친구야, 우리랑 함께 놀자!",
+      "srcPage": 1,
+      "srcSentenceEA": 6,
+      "srcWordEA": 26,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

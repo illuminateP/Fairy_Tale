@@ -1,0 +1,208 @@
+﻿{
+  "title": "할아버지 할머니가 좋아요",
+  "author": "김민진",
+  "illustrator": "박정인",
+  "isbn": "9791165954970",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 5,
+  "paragraphInfo": [
+    {
+      "srcTextID": "3800",
+      "srcText": "그런데 할아버지 할머니에게 똑같은 점이 하나 있어요. 그건 바로, 나를 아주 많이 사랑하신다는 거예요. 나도 할아버지 할머니를 정말 정말 사랑해요. 할아버지 할머니는 너를 정말 정말 사랑한단다!",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 29,
+      "character": "할아버지,할머니,나",
+      "setting": null,
+      "action": null,
+      "feeling": "사랑해요,사랑한단다",
+      "causalRelationship": null,
+      "outcomeResolution": "할아버지 할머니는 너를 정말 정말 사랑한단다!",
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "나를 아주 많이 사랑하는 사람은 누구일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "할아버지 할머니",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "3798",
+      "srcText": "딱지를 접어 달라고 해도, 잠자리를 잡으러 가자고 해도, 사탕을 사 달라고 해도, 할아버지는 언제나 오냐오냐. 놀고 있을 때도, 조금 더 놀고 싶어도, 할머니는 언제나 이렇게 해야지, 저렇게 해야지. 내가 할아버지 모자를 벗겨도, 콧수염을 만져도, 할아버지는 늘 내 옆에서 웃고 계시지요.",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 42,
+      "character": "사탕,할아버지,할머니,모자,딱지,잠자리,콧수염",
+      "setting": null,
+      "action": "접어 달라고 해도,잡으러 가자고 해도,사 달라고,벗겨도,만져도,웃고",
+      "feeling": null,
+      "causalRelationship": "내가 할아버지 모자를 벗겨도, 콧수염을 만져도, 할아버지는 늘 내 옆에서 웃고 계시지요.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "언제나 나를 보고 오냐오냐하는 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "할아버지",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "3796",
+      "srcText": "하지만 할머니는 늘 조심하라고 이야기하세요. 할아버지는 나를 보고 언제나 좋아, 좋아! 할머니는 나를 보고 언제나 조심조심! ",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18,
+      "character": "할머니,나,할아버지",
+      "setting": null,
+      "action": "이야기하세요,보고",
+      "feeling": "좋아",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "늘 조심하라고 말하는 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "할머니",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "할머니는 나를 보고 늘 뭐라고 말씀 하시나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": " 늘 조심하라고 이야기하세요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "3797",
+      "srcText": "할아버지 할머니 집에 왔어요. “예준아, 어서 오렴!” “우리 귀염둥이 왔구나!” 그런데 할아버지 할머니는 많이 달라요. 할아버지는 내가 뛰어다닐 때도, 밥을 먹을 때도, 그림을 그릴 때도, 늘 허허 웃기만 하세요.",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 31,
+      "character": "할아버지,할머니,예준",
+      "setting": "집",
+      "action": "왔어요,뛰어다닐 때도,먹을 때도,그릴 때도,웃기만 하세요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "할아버지 할머니 집에 온 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "예준",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "예준이가 간 곳은 어디인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "할아버지 할머니 집",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "3799",
+      "srcText": "할아버지 할머니는 진짜 달라요. 할아버지는 항상 내 옆에 계세요. 할머니는 항상 왔다 갔다 바쁘세요. \"예준아, 고구마 먹을까? 만두 먹을까? 옥수수 먹을까?\" 할머니는 하루 종일 바쁘세요.",
+      "srcPage": 9,
+      "srcSentenceEA": 7,
+      "srcWordEA": 30,
+      "character": "할아버지,할머니,옥수수,만두,고구마",
+      "setting": "하루 종일",
+      "action": "계세요,바쁘세요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": "할머니는 하루 종일 바쁘세요.",
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "예준이에게 고구마를 먹을지 만두를 먹을지 물어 본 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "할머니",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "할아버지는 항상 어디에 있나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "내 옆",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

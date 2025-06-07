@@ -1,0 +1,40 @@
+﻿{
+  "title": "곰이는 인사를 잘해요",
+  "author": "애플트리",
+  "illustrator": "강현주",
+  "isbn": "9788968730559",
+  "readAge": "유아",
+  "publishedYear": 2014,
+  "publisher": "키움북스",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "42475",
+      "srcText": "빠방, 유치원 차가 왔어요. 유치원에 도착했어요. 선생님이 손을 잡아 주었어요. “앙앙 앙앙” 친구랑 놀다가 다투었어요.",
+      "srcPage": 4,
+      "srcSentenceEA": 5,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42474",
+      "srcText": "아침이 되었어요. 곰이는 아빠 엄마에게 인사를 해요. “안녕히 주무셨어요?” 엄마가 맛있는 아침밥을 주었어요. “으음, 맛있는 냄새!”",
+      "srcPage": 1,
+      "srcSentenceEA": 5,
+      "srcWordEA": 18,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42476",
+      "srcText": "“곰이야, 안녕?” 여우 할머니가 손을 흔들어 주었어요. 집에 도착하자 아빠가 곰이를 반겨 주었어요. 곰이는 인사를 잘해요. 상냥하게 씩씩하게 인사를 잘해요.",
+      "srcPage": 7,
+      "srcSentenceEA": 5,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

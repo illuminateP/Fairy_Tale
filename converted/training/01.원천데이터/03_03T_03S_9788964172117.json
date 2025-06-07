@@ -1,0 +1,130 @@
+﻿{
+  "title": "누가 형님일까?",
+  "author": "김태남",
+  "illustrator": "작가정보없음",
+  "isbn": "9788964172117",
+  "readAge": "초등_고학년",
+  "publishedYear": 2023,
+  "publisher": "어깨동무",
+  "classification": "사회관계",
+  "paragraphInfoCount": 13,
+  "paragraphInfo": [
+    {
+      "srcTextID": "14883",
+      "srcText": "\"나로 말할 것 같으면 5000원! 아이스크림을 열 개나 살 수 있다고! 하하하.\" \"여기 초록색은 우리 큰 형님이야. 너희 같은 동전이 아주아주 많아야 형님처럼 될 수 있지.\"",
+      "srcPage": 7,
+      "srcSentenceEA": 5,
+      "srcWordEA": 29,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "14887",
+      "srcText": "\"게다가 준이는 너희들을 모아서 할아버지 선물을 사 드리려고 해. 너희들 하나하나가 모두 소중한 존재란다.\" 50000원의 말에 동전들은 기뻐서 짤랑짤랑 소리를 냈어요!",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "14875",
+      "srcText": "미끄럼틀을 타던 준이가 모래 속에서 반짝이는 걸 발견했어요. \"앗, 10원짜리 동전이다!\" 후후 불고, 툭툭 털고, 기분이 좋아요. \"집에 가서 돼지 저금통에 넣어야지!\" 저금통에 동전을 넣은 준이는 피곤해서 일찍 잠이 들었어요.",
+      "srcPage": 2,
+      "srcSentenceEA": 5,
+      "srcWordEA": 32,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "14884",
+      "srcText": "\"내가 제일 큰 누님이시다!\" 지폐형제들이 고개를 숙이고 쩔쩔맸어요. 그 모습에 시무룩해 있던 동전들이 킥킥댔어요.",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "14885",
+      "srcText": "\"동전들아, 너희들 모두가 소중하단다. 동전이 없으면 물건을 사고 팔 때 무척 불편하거든.\" 50000원 누님이 말했어요.",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "14886",
+      "srcText": "동전들은 지폐 형제의 말을 듣고는 시무룩해졌어요. 그때 뒤에서 노란색 지폐가 나타났어요! \"앗, 50000원 누님!\"",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "14880",
+      "srcText": "10원짜리 동전이 깜짝. \"우와, 혼자 가서 아이스크림을 사 먹는대!\" 50원짜리 동전도 깜짝, \"몸집도 큰데 진짜 왕 형님이었구나!\" 100원짜리 동전이 머리를 긁적였어요. \"쳇.\"",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "14881",
+      "srcText": "커다란 몸집의 500원짜리 동전이 때굴때굴 굴러왔어요. \"너희들, 혼자 가서 아이스크림 사 먹을 수 있어? 난 준이가 아이스크림 살 때 내는 동전이야!\"",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "14878",
+      "srcText": "\"너 저금통 속에 온지 얼마 안돼서 잘 모르는구나? 10원 네가 손가락 다섯 개 만큼 모이면 내가 되는 거라고. 그러니 내가 형님이지!\"",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "14879",
+      "srcText": "옆에서 100원짜리 동전이 피식 웃었어요. \"50원아, 너무 우쭐대지 마. 난 10원이 손가락 열 개 만큼 모이면 되는 형님이시다. 하하하\"",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "14876",
+      "srcText": "\"내가 형이야. 넌 나보다 작잖아!\" 10원짜리 동전이 말했어요. 그러자 50원짜리 동전이 펄쩍 뛰었어요.",
+      "srcPage": 3,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "14877",
+      "srcText": "\"땡그랑 땡그랑\" 어디선가 와글와글 소리가 나네요. 아하! 돼지 저금통 속에서 10원짜리 동전과 50원짜리 동전이 이야기하는 소리예요.",
+      "srcPage": 3,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "14882",
+      "srcText": "그때, 서랍 위의 아빠지갑 속에서 색색의 종이돈이 걸어 나왔어요. \"5000원 형님, 동전들이 우리 지폐 형제들을 모르나 봐요.\" \"우리들은 종이로 만들어진 돈이야. 제일 막내 1000원으로는 아이스크림을 두 개나 살 수 있지!\" \"에헴!\" 1000원짜리가 뽐을 냈어요.",
+      "srcPage": 6,
+      "srcSentenceEA": 5,
+      "srcWordEA": 36,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

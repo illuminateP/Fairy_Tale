@@ -1,0 +1,112 @@
+﻿{
+  "title": "잠 안 자고 놀고 싶어요",
+  "author": "우산",
+  "illustrator": "나애경",
+  "isbn": "9791165954666",
+  "readAge": "초등_저학년",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "classification": "사회관계",
+  "paragraphInfoCount": 11,
+  "paragraphInfo": [
+    {
+      "srcTextID": "3916",
+      "srcText": "아빠가 자장자장, 내 눈은 말똥말똥. “아빠, 야옹이가 안 자나 봐요. 야옹이에게 갔다 올게요.”",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "3915",
+      "srcText": "아빠가 자장자장, 나는 뒤척뒤척. “아빠, 나 오줌 마려워요. 화장실 가서 오줌 누고 올게요.”",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "3917",
+      "srcText": "아빠가 또 자장자장, 내 귀는 쫑긋쫑긋. “아빠, 자동차도 안 자나 봐요. 자동차에게 갔다 올게요.”",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "3918",
+      "srcText": "야옹이가 어슬렁어슬렁. “야옹아, 목마르지?” 야옹이에게 물을 주어요. 야옹이가 할짝할짝 물을 마시고 쌔근쌔근 잠이 들어요. 가만가만 돌아와 아빠 옆에 쏙.",
+      "srcPage": 9,
+      "srcSentenceEA": 5,
+      "srcWordEA": 22,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "3913",
+      "srcText": "“사랑아, 이제 자야지.” “안 자고 놀고 싶은데.” “달님이 자라고 인사하네.” 아빠가 나를 두 팔로 번쩍 안아요.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "3922",
+      "srcText": "안녕, 모두 모두 잘 자요. 야옹아, 잘 자. 곰돌아, 잘 자. 자동차야, 잘 자.",
+      "srcPage": 14,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "3923",
+      "srcText": "침대로 살금살금 올라가니 아빠가 드르렁드르렁, 아빠도 잠들었나 봐요. 자장자장 우리 아빠. 아함, 나도 이제 졸려요.",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "3914",
+      "srcText": "아빠가 자장자장, 나는 꼼지락꼼지락. “아빠, 나 목말라요. 꼴깍꼴깍 물 마시고 올게요.”",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "3920",
+      "srcText": "곰돌이는 푸푸, 자동차는 잠잠. 친구들이 모두 잠을 자요. “안녕, 내일 봐.”",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "3921",
+      "srcText": "아빠한테 가려다 생각이 나요. “맞다! 곰돌이 이불을 안 덮어 주었네.” 보드라운 손수건 이불로 곰돌이 배를 덮어 주어요.",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "3919",
+      "srcText": "“자동차야, 너도 잠이 안 와? 그럼 곰돌이랑 같이 자.” 자동차 옆에 곰돌이를 놓아 주어요. 자동차와 곰돌이는 사이좋게 쿨쿨.",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

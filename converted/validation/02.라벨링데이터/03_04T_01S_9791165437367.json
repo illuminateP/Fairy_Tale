@@ -1,0 +1,163 @@
+﻿{
+  "title": "친구야, 함께 놀자",
+  "author": "꼬두람이",
+  "illustrator": "꼬두람이",
+  "isbn": "9791165437367",
+  "publishedYear": 2023,
+  "publisher": "아람키즈",
+  "paragraphInfoCount": 4,
+  "paragraphInfo": [
+    {
+      "srcTextID": "7392",
+      "srcText": "우린 그림자놀이 해. 손으로 동물을 만들면 참 멋져. 친구야, 우리랑 함께 놀자! ",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14,
+      "character": "손,동물,친구",
+      "setting": null,
+      "action": "놀자,만들면,그림자놀이 해",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "손으로 무슨 그림자를 만들었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "동물",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7391",
+      "srcText": "우린 썰매를 타. 주르르 타면 참 신나. 친구야, 우리랑 함께 놀자!",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13,
+      "character": "썰매,친구",
+      "setting": null,
+      "action": "타,놀자",
+      "feeling": "신나",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "누구에게 놀자고 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "친구",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "무엇을 하고 노나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "썰매 타기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7390",
+      "srcText": "우린 소꿉놀이해. 꽃이랑 열매로 꾸미면 참 예뻐. 친구야, 우리랑 함께 놀자! 우린 춤을 춰. 손잡고 빙빙 돌면 참 행복해. 친구야, 우리랑 함께 놀자!",
+      "srcPage": 3,
+      "srcSentenceEA": 6,
+      "srcWordEA": 28,
+      "character": "꽃,열매,친구,우리",
+      "setting": null,
+      "action": "소꿉놀이해,꾸미면,춤을 춰,손잡고 빙빙 돌면",
+      "feeling": "행복해",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "소꿉놀이는 꽃이랑 또 무엇으로 할 수 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "열매",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "친구랑 어디를 잡고 춤을 추나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "손",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7389",
+      "srcText": "우린 숨바꼭질해. 꼭꼭 숨으면 참 재미나. 친구야, 우리랑 함께 놀자! 우린 모래놀이해. 모래를 폭폭 푸면 참 즐거워. 친구야, 우리랑 함께 놀자!",
+      "srcPage": 1,
+      "srcSentenceEA": 6,
+      "srcWordEA": 26,
+      "character": "친구,우리,모래",
+      "setting": null,
+      "action": "숨으면,푸면,놀자,숨바꼭질해,모래놀이해",
+      "feeling": "즐거워,재미나",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "누구에게 놀자고 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "친구",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

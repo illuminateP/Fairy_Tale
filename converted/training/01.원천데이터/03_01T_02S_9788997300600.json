@@ -1,0 +1,40 @@
+﻿{
+  "title": "채소가 가득",
+  "author": "하야시 시로",
+  "illustrator": "후유노 이치코",
+  "isbn": "9788997300600",
+  "readAge": "초등_저학년",
+  "publishedYear": 2016,
+  "publisher": "(주)푸름이닷컴",
+  "classification": "의사소통",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "8295",
+      "srcText": "울퉁불퉁 감자 누런 몸통이 울퉁불퉁. 날씬날씬 파 하얀 다리가 길쭉길쭉. 땡글땡글 토마토 빨간 얼굴이 반질반질.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "8296",
+      "srcText": "길쭉길쭉 오이 초록 몸통이 오돌토돌. 돌돌 말린 양배추 잎사귀가 파릇파릇. 똥글똥글 완두콩 콩알이 데굴데굴.",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "8297",
+      "srcText": "오동포동 가지 머리털이 보송보송. 아삭아삭 당근 나란히 나란히 키 재기. 자, 싱싱한 채소 사세요!",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

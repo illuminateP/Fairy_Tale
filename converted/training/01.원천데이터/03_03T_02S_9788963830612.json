@@ -1,0 +1,76 @@
+﻿{
+  "title": "매미가 맴맴",
+  "author": "윤복희",
+  "illustrator": "조례진",
+  "isbn": "9788963830612",
+  "readAge": "초등_저학년",
+  "publishedYear": 2010,
+  "publisher": "별똥별",
+  "classification": "사회관계",
+  "paragraphInfoCount": 7,
+  "paragraphInfo": [
+    {
+      "srcTextID": "43557",
+      "srcText": "매미가 맴맴. 너무 좋아 맴맴. 여름밤 매미 소리가 시원하게 울려 퍼져요.",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "43550",
+      "srcText": "“깜깜한 땅속에서 뭐 했니?” “땅 위로 나가려고 기다렸어. 아주 오래오래 오늘을 기다렸어.”",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "43551",
+      "srcText": "“뭐 하면서 기다렸어? 심심하지 않았어?” “아니! 자꾸자꾸 옷을 갈아입느라 얼마나 바빴는데.”",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "43549",
+      "srcText": "영차, 영차! 땅속에서 누가 얼굴을 내미네. “작은 벌레야, 넌 누구니?” “맴맴 매미야. 아기 매미야.”",
+      "srcPage": 4,
+      "srcSentenceEA": 5,
+      "srcWordEA": 16,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "43555",
+      "srcText": "그러자 꿀순이가 말했어요. “꿀꿀아, 넌 할 수 있어. 친구들처럼 한 번 해 봐!” 만세! 드디어 올라왔다. 높이높이 올라왔다. 어? 아기 매미가 이상해. 기다려, 마지막 옷을 벗는 중이야.",
+      "srcPage": 11,
+      "srcSentenceEA": 9,
+      "srcWordEA": 34,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "43552",
+      "srcText": "첫 번째 옷을 입고 쿨쿨, 두 번째 옷을 입고 냠냠, 세 번째 옷을 입고 꼬물꼬물, 네 번째 옷을 입고 영차, 영차 나왔지. “그럼 빨리 나무 위로 올라와!” “안 돼, 지금은 너무 밝아. 더 어두워지면 올라갈 거야.”",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 37,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "43554",
+      "srcText": "“와, 깜깜한 밤이야!” “좋아, 이제 올라가 볼까?” 나무 위로 영차. 시원한 바람을 맞으며 영차.",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+﻿{
+  "title": "\t다이아몬드보다 값진 것",
+  "author": "이정하",
+  "illustrator": "설원철",
+  "isbn": "9791159420054\t",
+  "publishedYear": 2016,
+  "publisher": "무지개 아이다움 태동출판사",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51792",
+      "srcText": "어느 마을에 가난한 부부가 있었어요. 나무를 베어다 파는 넉넉지 못한 살림이지만 늘 웃으며 사는 행복한 부부였지요. 이웃의 어려운 일에는 따뜻한 위로를 아끼지 않고, 자신들이 도울 수 있는 일이라면 제일 먼저 앞장서는 부부를 마을 사람들은 무척이나 좋아했답니다.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 38,
+      "character": "나무,부부",
+      "setting": "마을",
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "가난한 부부는 살림을 위해 무엇을 베어다 팔았나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "나무",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

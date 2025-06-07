@@ -1,0 +1,42 @@
+﻿{
+  "title": "반딧불이는 왜 불춤을 출까? ",
+  "author": "박진영",
+  "illustrator": "양윤미",
+  "isbn": "9788960163065",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "52046",
+      "srcText": "반딧불이는 노래는 못해. 밤이면 꽁무니에 노란 불을 켜고 깜박깜박 불춤을 추어. 반딧불이는 왜 불춤을 출까? 반딧불이가 불춤을 추는 건 밤의 요정들을 기쁘게 해주기 위해서야. 랄랄라, 신나게.",
+      "srcPage": 9,
+      "srcSentenceEA": 5,
+      "srcWordEA": 30,
+      "character": "반딧불이,요정",
+      "setting": null,
+      "action": "불춤을 추어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "밤이 되면 반딧불이는 어디에 노란 불을 켜고 불춤을 추나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "꽁무니",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

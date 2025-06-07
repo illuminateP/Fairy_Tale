@@ -1,0 +1,58 @@
+﻿{
+  "title": "감자와 고구마! 같아? 달라?",
+  "author": "우은경",
+  "illustrator": "아람북스",
+  "isbn": "9791190861618",
+  "readAge": "초등_저학년",
+  "publishedYear": 2020,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 5,
+  "paragraphInfo": [
+    {
+      "srcTextID": "2260",
+      "srcText": "맛있는 감자다! 맛있는 고구마도 있어. 맛도 모양도 다른 감자랑 고구마. 다른 게 또 있을까? 감자는 씨감자를 심어서 키워.",
+      "srcPage": 4,
+      "srcSentenceEA": 5,
+      "srcWordEA": 22,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "2262",
+      "srcText": "고구마도 밭에 씨고구마를 심어서 키워. 감자잎은 동글동글 감자를 닮았지? 고구마잎은 끝이 뾰족한 고구마를 닮았어.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "2264",
+      "srcText": " 이것 봐. 감자꽃은 별처럼 생겼지? 고구마꽃은 나팔처럼 생겼다고! 감자는 5~6월에 흰색, 자주색 꽃을 피워요. 하지만 꽃을 피우면 땅속의 줄기로 갈 영양분이 줄어들기 때문에 감자꽃은 잘 볼 수 없어요. 고구마는 7~8월에 꽃을 피워요. 고구마꽃 역시 감자꽃처럼 잘 볼 수 없어요.",
+      "srcPage": 9,
+      "srcSentenceEA": 9,
+      "srcWordEA": 48,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "2261",
+      "srcText": "감자는 삐죽삐죽 싹이 난 씨감자를 잘라 밭에 심지. 고구마는 씨고구마를 먼저 심어. 그리고 줄기가 길게 자라면 똑똑 떼어 다시 밭에 심지. ",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "2263",
+      "srcText": "감자는 땅속에 있는 줄기가 통통해져서 우리가 먹는 감자가 되는 거야. 고구마는 뿌리가 통통해져서 우리가 먹는 고구마가 되는 거야. 감자는 줄기가 변해 만들어진 것이고, 고구마는 뿌리가 변해 만들어진 거예요.",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 30,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

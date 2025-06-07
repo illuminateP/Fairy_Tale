@@ -1,0 +1,67 @@
+﻿{
+  "title": "나 팬티 입을래",
+  "author": "장선혜",
+  "illustrator": "김현",
+  "isbn": "9791128212116",
+  "readAge": "유아",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 6,
+  "paragraphInfo": [
+    {
+      "srcTextID": "2036",
+      "srcText": "파랑 팬티도 괜찮아. 파랑 팬티에는 파랑 옷! 파랑, 파랑 나와라. 착!",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 14,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "2032",
+      "srcText": "오줌이 졸졸 나오면 어떡해? 그래도 팬티 입을래. 기저귀 대신 팬티 입을래.",
+      "srcPage": 2,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "2037",
+      "srcText": "파랑, 파랑 돌고래야. 많이 덥지? 물 뿌려 줄게, 쏴쏴쏴. 어? 어? 어? 나도 홀딱 젖었잖아!",
+      "srcPage": 8,
+      "srcSentenceEA": 7,
+      "srcWordEA": 21,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "2033",
+      "srcText": "목마르지? 물 줄게, 조르르. 어? 어? 어? 내 오줌도 조르르. 팬티가 젖어 버렸어. 노랑 팬티 입으면 되지.",
+      "srcPage": 5,
+      "srcSentenceEA": 7,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "2034",
+      "srcText": " 물 많이 줄게, 주르륵. 어? 어? 어? 내 오줌도 주르륵. 팬티가 젖어 버렸어.",
+      "srcPage": 6,
+      "srcSentenceEA": 6,
+      "srcWordEA": 19,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "2035",
+      "srcText": "노랑 팬티에는 노랑 옷! 노랑, 노랑 나와라. 착! 노랑, 노랑 꽃아. 목마르지?",
+      "srcPage": 6,
+      "srcSentenceEA": 5,
+      "srcWordEA": 16,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

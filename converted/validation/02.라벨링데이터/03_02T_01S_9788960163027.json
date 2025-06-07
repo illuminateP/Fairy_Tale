@@ -1,0 +1,56 @@
+﻿{
+  "title": "제비는 왜 강남으로 갈까? ",
+  "author": "김영이",
+  "illustrator": "이효진",
+  "isbn": "9788960163027",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "52048",
+      "srcText": "뻐꾸기는 노래도 잘해. 꽃 피었다 뻐꾹! 봄보리 익었다 뻐꾹! 장단도 잘 맞춰. 기룩기룩! 기러기는 겨울이 좋대. 사이좋게 줄 맞추어 겨울이면 잊지 않고 찾아와. 추위를 겁내지 않는 고니! 의리도 최고야. 엄마 아빠 고니는 사이좋게 한평생 같이 산대.",
+      "srcPage": 11,
+      "srcSentenceEA": 10,
+      "srcWordEA": 45,
+      "character": "뻐꾸기,고니,기러기",
+      "setting": null,
+      "action": "찾아와",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "겨울이 되면 사이좋게 줄을 맞춰 찾아오는 새는 무엇인가요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "기러기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "노래도 잘하고 장단도 잘 맞추는 새는 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "뻐꾸기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

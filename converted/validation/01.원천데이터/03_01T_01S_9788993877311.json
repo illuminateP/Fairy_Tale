@@ -1,0 +1,40 @@
+﻿{
+  "title": "티티가 소풍을 가요",
+  "author": "아이글터",
+  "illustrator": "Zuni",
+  "isbn": "9788993877311",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "어깨동무",
+  "classification": "의사소통",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "14148",
+      "srcText": "티티가 이제 가방을 챙겨요. 과자와 음료수를 넣고, 모자도 잊지 않아요. \"티티야 소풍 가자!\" 친구들이 도착했어요. 티티는 소풍가는 날이 정말 좋아요.",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 23,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "14147",
+      "srcText": "그리고 좋아하는 파란색 멜빵바지를 입었지요. 알록달록 예쁜 양말도 신었고요. 티티는 운동화 끈을 혼자서도 맬 수 있어요. 어떻게 하는지 보여 드릴게요.",
+      "srcPage": 3,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "14021",
+      "srcText": "창문 밖에 아침 해가 떠오르고 있어요. 오늘은 소풍 가는 날이라 늦으면 안 돼요. \"빨리 준비해야지!\" 티티는 제일 먼저 세수를 했어요.",
+      "srcPage": 1,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

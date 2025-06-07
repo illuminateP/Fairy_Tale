@@ -1,0 +1,42 @@
+﻿{
+  "title": "화산은 왜 폭발할까?",
+  "author": "김영이",
+  "illustrator": "이성지",
+  "isbn": "9788960162969",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "52036",
+      "srcText": "산길을 돌아 피난 가는데 ‘콰르릉 쾅!’ 천둥 같은 소리가 났어요.“엄마야!” 모두들 머리를 감싸고 땅바닥에 엎드렸어요. 잠시 후의 일이었어요. 산이 시꺼먼 연기와 함께 시뻘건 물을 왈칵왈칵 토했어요. 화산이 폭발한 것이에요.",
+      "srcPage": 10,
+      "srcSentenceEA": 6,
+      "srcWordEA": 35,
+      "character": "화산,머리",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "모두들 머리를 감싸고 땅바닥에 엎드렸어요.",
+      "queAnsPairInfoCount": 1,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "산이 시꺼먼 연기와 시뻘건 물을 토해낸 것은 무엇이 폭발했기 때문인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "화산",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

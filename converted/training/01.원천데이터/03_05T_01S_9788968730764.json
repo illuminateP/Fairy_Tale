@@ -1,0 +1,31 @@
+﻿{
+  "title": "풍선 가지고 놀자",
+  "author": "애플트리",
+  "illustrator": "양지은",
+  "isbn": "9788968730764",
+  "readAge": "유아",
+  "publishedYear": 2014,
+  "publisher": "키움북스",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "42426",
+      "srcText": "“하하, 우리가 이겼어!” 도도와 몰리, 베리는 신이 났어요. 이제 엄마가 기다리실 시간이에요. 다시 집으로 출발해 볼까요?",
+      "srcPage": 26,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "42425",
+      "srcText": "그런데 이것 좀 보세요! 도도와 몰리, 베리의 몸이 길쭉길쭉 괴물 같아요! 그러자 딱따구리는 너무 놀라서 파닥파닥 도망을 갔어요.",
+      "srcPage": 24,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

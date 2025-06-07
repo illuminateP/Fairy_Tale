@@ -1,0 +1,70 @@
+﻿{
+  "title": "금시는 왜 모든 걸 잃었을까?",
+  "author": "조정옥",
+  "illustrator": "안소희",
+  "isbn": "9791128208485",
+  "publishedYear": 2017,
+  "publisher": "아람",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "49003",
+      "srcText": "옛날, 태어날 때부터 번쩍번쩍 빛나는 황금 손톱을 가진 금시라는 사람이 살았어. 금시 어머니가 여신에게 소원을 빌어, 아들인 금시에게 황금 손톱을 갖게 해 준 거래. 금시의 황금 손톱은 정말 특별했어. 손톱을 자를 때도 오직 금시만 사용할 수 있는 신비한 가위로만 자를 수 있었어.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 45,
+      "character": "금시,금시 어머니,여신,아들,손톱,가위",
+      "setting": "옛날",
+      "action": "소원을 빌어,자를 때도,자를 수 있었어",
+      "feeling": "특별했어",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "금시 어머니는 누구에게 소원을 빌었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "여신",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "옛날 태어날 때부터 황금 손톱을 가진 사람은 누구인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "금시",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "금시의 특별한 황금 손톱을 자를 때 무엇으로 할까요?",
+          "queType": 4,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "신비한 가위",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

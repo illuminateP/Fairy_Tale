@@ -1,0 +1,121 @@
+﻿{
+  "title": "비발디 사계",
+  "author": "윤지연",
+  "illustrator": "김은미",
+  "isbn": "9791165431525",
+  "readAge": "초등_저학년",
+  "publishedYear": 2020,
+  "publisher": "아람키즈",
+  "classification": "예술경험",
+  "paragraphInfoCount": 12,
+  "paragraphInfo": [
+    {
+      "srcTextID": "41401",
+      "srcText": "여름 2악장. 번개가 번쩍번쩍 내리치고 천둥소리가 쾅쾅 울려요. 검은 구름이 세상을 덮치고 파리 떼가 달려드니. 모두 놀라 달아나요.",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "41396",
+      "srcText": "겨울 2악장. 차가운 겨울비가 내려요. 하얀 세상을 적셔요. 따뜻한 집에 옹기종기 모여 지난 시간을 소록소록 떠올려요. 즐거운 이야기를 재잘재잘 나누어요.",
+      "srcPage": 14,
+      "srcSentenceEA": 5,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "41402",
+      "srcText": "여름 3악장. 여전히 천둥소리가 쾅쾅 울리고 번개가 번쩍번쩍 내리쳐요. 우박까지 후두두 쏟아지니 잘 익은 곡식들이 휙휙 쓰러져요. 모두 두려움에 벌벌 떨어요.",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "41403",
+      "srcText": "가을 1악장. 하늘은 파랗게 높고 햇살은 따사로워요. 노랗게 물든 들판에서 모두 춤추며 풍년을 기뻐하고. 모두 노래하며 풍년을 축하해요.",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "41399",
+      "srcText": "봄 2악장. 꽃들이 알락달락 피어나고 풀들이 푸릇푸릇 자라나요. 양 떼는 폴짝폴짝 뛰놀고 목동은 스르르 잠이 들어요. 개는 목동 옆에서 멍멍 짖어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "41406",
+      "srcText": "봄 3악장. 피리 소리가 필릴리 울려요. 봄 향기를 즐기는 요정이 팔을 휘휘 내저으며 춤춰요. 봄 햇살을 즐기는 목동이 손을 흔들흔들 흔들며 춤춰요.",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 25,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "41398",
+      "srcText": "봄 1악장. 새들이 조로롱 노래하고 시냇물이 소곤소곤 속삭여요. 거센 폭풍이 휘잉휘잉 불어오더니 봄바람으로 살랑살랑 잦아들어요. 새들이 다시 조로롱 노래해요.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "41397",
+      "srcText": "겨울 3악장. 미끌미끌 얼음 위를 살금살금 걸어요. 성큼성큼 걷다가 꽈당 미끄러져요. 툭툭 털고 일어서서 힘차게 달려가요. 모든 바람이 세상을 휘저으며 불어요. 이것이 겨울, 그래서 재미나요.",
+      "srcPage": 15,
+      "srcSentenceEA": 6,
+      "srcWordEA": 30,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "41405",
+      "srcText": "겨울 1악장. 억센 바람이 휘잉휘잉 몰아쳐요. 차가운 눈이 소복소복 내려요. 온 세상이 꽁꽁 얼어붙어요. 모두 발을 동동 굴러요. 모두 오들오들 떨어요.",
+      "srcPage": 13,
+      "srcSentenceEA": 6,
+      "srcWordEA": 26,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "41400",
+      "srcText": "여름 1악장. 뜨거운 태양에 모두 지치고 새들만 노래를 불러요. 산들바람이 산들산들 불어오더니 갑자기 소나기가 솨아 내려요. 목동은 깜짝 놀라 눈물을 흘려요.",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "41395",
+      "srcText": "가을 3악장. 뿌우뿌우 피리를 불며 사냥꾼이 사냥을 나가요. 놀란 동물들이 후닥닥 달아나고 사냥꾼이 후닥닥 쫓아가요. 가을의 풍요에 사냥감 하나가 더해져요.",
+      "srcPage": 12,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    },
+    {
+      "srcTextID": "41404",
+      "srcText": "가을 2악장. 밝은 달빛이 가을밤을 비추네요. 풀벌레 소리가 가을밤을 노래하네요. 더는 농사 걱정이 없기 때문일까요? 창고가 가득 찼기 때문일까요? 평안한 가을밤, 모두 편히 잠들어요.",
+      "srcPage": 11,
+      "srcSentenceEA": 6,
+      "srcWordEA": 29,
+      "queAnsPairInfo": [],
+      "queAnsPairInfoCount": 0
+    }
+  ]
+}

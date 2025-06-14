@@ -1,5 +1,2 @@
 # dataset 경로의 모든 파일
 /datasets/*
-
-# backups 경로의 모든 파일
-/backups/*

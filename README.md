@@ -36,7 +36,7 @@
 2. 의존성 설치
 3. 기타 학습 환경에서 ./datasets/formatted/training.json, ./datasets/formatted/validation.json을 사용해 학습 코드.ipynb를 실행시켜 저장된 모델을 ./models로 이동시킨 후
 4. ```
-   cd ./
+   cd /FairyTale
    python -m src.app로 서버 구동
    ```
 

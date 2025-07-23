@@ -1,0 +1,130 @@
+{% extends "base.html" %}
+
+{% block title %}
+    책 내용 질문하기
+{% endblock %}
+
+{% block content %}
+<div class="row justify-content-center">
+    <div class="col-md-8">
+        <div class="card mt-5">
+            <div class="card-body">
+                <h2 class="card-title text-center mb-4">책 내용 질문하기</h2>
+                <div class="mb-3">
+                    <label class="form-label">책 제목 검색:</label>
+                    <input type="text" id="book-search" class="form-control" placeholder="책 제목을 입력하세요">
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">책을 선택하세요:</label>
+                    <select id="book-select" class="form-select">
+                        <option value="" selected disabled>책을 선택하세요</option>
+                        {% for book in books %}
+                        <option value="{{ book.isbn }}">{{ book.title }} ({{ book.isbn }})</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div id="book-content" class="mt-4"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const searchInput = document.getElementById('book-search');
+    const select = document.getElementById('book-select');
+    const contentDiv = document.getElementById('book-content');
+    const options = Array.from(select.options).slice(1); // 첫 번째는 placeholder
+
+    let pages = [];
+    let pageIdx = 0;
+
+    // 검색창 입력 시 드롭다운 옵션 필터링
+    searchInput.addEventListener('input', function() {
+        const keyword = this.value.trim().toLowerCase();
+        select.innerHTML = '<option value="" selected disabled>책을 선택하세요</option>';
+        options.forEach(opt => {
+            if (opt.text.toLowerCase().includes(keyword)) {
+                select.appendChild(opt);
+            }
+        });
+    });
+
+    // 페이지 렌더링 함수
+    function renderPage() {
+        if (!pages.length) return;
+        const page = pages[pageIdx];
+        let html = `<div style='white-space:pre-line' class='mb-3'><b>[${page.page}쪽]</b>\n${page.text}</div>`;
+        html += `<div class='input-group mb-3'>
+            <input type='text' class='form-control' id='question-input' placeholder='무엇이 궁금한가요?'>
+            <button class='btn btn-success' id='ask-btn'>질문하기</button>
+        </div>`;
+        html += `<div id='answer-area'></div>`;
+        if (pageIdx < pages.length - 1) {
+            html += `<div class='text-center mt-3'><button class='btn btn-primary' id='next-btn'>다음</button></div>`;
+        }
+        contentDiv.innerHTML = html;
+        // 다음 버튼 이벤트
+        const nextBtn = document.getElementById('next-btn');
+        if (nextBtn) {
+            nextBtn.onclick = function() {
+                pageIdx++;
+                renderPage();
+            };
+        }
+        // 질문하기 버튼 이벤트
+        const askBtn = document.getElementById('ask-btn');
+        askBtn.onclick = async function() {
+            const question = document.getElementById('question-input').value.trim();
+            if (!question) {
+                alert('질문을 입력하세요.');
+                return;
+            }
+            const answerArea = document.getElementById('answer-area');
+            answerArea.innerHTML = '질문을 전송 중...';
+            const res = await fetch('/api/ask_question', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    text: page.text,
+                    question: question
+                })
+            });
+            const data = await res.json();
+            if (data.answer) {
+                answerArea.innerHTML = `<div class='alert alert-info mt-3'>${data.answer}</div>`;
+            } else {
+                answerArea.innerHTML = data.error || '답변을 받아올 수 없습니다.';
+            }
+        };
+    }
+
+    // 드롭다운에서 책 선택 시 내용 표시
+    select.addEventListener('change', async function() {
+        const isbn = this.value;
+        if (!isbn) {
+            contentDiv.innerHTML = '';
+            return;
+        }
+        contentDiv.innerHTML = '불러오는 중...';
+        const res = await fetch('/api/book_content', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ isbn })
+        });
+        const data = await res.json();
+        if (data.content && data.content.pages) {
+            pages = data.content.pages;
+            pageIdx = 0;
+            renderPage();
+        } else if (data.content && data.content.text) {
+            contentDiv.innerHTML = `<div style='white-space:pre-line'>${data.content.text}</div>\
+            <div class='text-center mt-4'><button class='btn btn-success' id='ask-btn'>질문하기</button></div>`;
+        } else if (data.content) {
+            contentDiv.innerHTML = `<pre>${JSON.stringify(data.content, null, 2)}</pre>`;
+        } else {
+            contentDiv.innerHTML = data.error || '내용을 불러올 수 없습니다.';
+        }
+    });
+});
+</script>
+{% endblock %} 
